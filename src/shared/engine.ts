@@ -62,7 +62,7 @@ export function defaultSettings(partial: Partial<RoomSettings> = {}): RoomSettin
     opponentsSeeFullCard: false,
     contestEnabled: true,
     contestSeconds: 3,
-    mode: "auto",
+    mode: "competitive",
     teamCount: 2,
     ...partial,
   });

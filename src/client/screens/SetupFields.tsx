@@ -160,21 +160,20 @@ export function SetupFields({
 
       <fieldset className="flex flex-col gap-2">
         <legend className="text-sm font-extrabold uppercase tracking-wide text-white/60">{t("setup.mode")}</legend>
-        <div className="grid grid-cols-3 gap-2">
+        <div className="grid grid-cols-2 gap-2">
           {(
             [
-              ["auto", "setup.modeAuto"],
               ["cooperative", "setup.modeCoop"],
               ["competitive", "setup.modeTeams"],
             ] as const
           ).map(([value, key]) => (
-            <button key={value} type="button" className="chip" aria-pressed={settings.mode === value} onClick={() => onChange({ mode: value })}>
+            <button key={value} type="button" className="chip" aria-pressed={mode === value} onClick={() => onChange({ mode: value })}>
               {t(key)}
             </button>
           ))}
         </div>
         <p className="text-sm text-white/70">
-          {t(settings.mode === "cooperative" ? "setup.modeCoopHelp" : settings.mode === "competitive" ? "setup.modeTeamsHelp" : "setup.modeAutoHelp")}
+          {t(mode === "cooperative" ? "setup.modeCoopHelp" : "setup.modeTeamsHelp")}
         </p>
         <p className="text-sm font-bold text-white/80">{t("setup.preview", { count: playerCount, mode: t(mode === "cooperative" ? "mode.cooperative" : "mode.competitive") })}</p>
         {mode === "competitive" ? (
