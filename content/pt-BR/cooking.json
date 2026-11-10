@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "cooking",
+  "lang": "pt-BR",
+  "theme_name": "Culinária",
+  "decks": [
+    {
+      "deck_id": "cooking-pt-1",
+      "name": "Cozinha",
+      "cards": [
+        { "id": "cooking-pt-1-01", "word": "Sushi", "forbidden": ["arroz", "peixe", "Japão", "alga", "rolinho"], "difficulty": "easy" },
+        { "id": "cooking-pt-1-02", "word": "Churrasco", "forbidden": ["grelha", "fumaça", "costela", "carvão", "espeto"], "difficulty": "easy" },
+        { "id": "cooking-pt-1-03", "word": "Macarrão", "forbidden": ["molho", "italiano", "ferver", "espaguete", "garfo"], "difficulty": "easy" },
+        { "id": "cooking-pt-1-04", "word": "Chocolate", "forbidden": ["cacau", "doce", "barra", "bombom", "marrom"], "difficulty": "easy" },
+        { "id": "cooking-pt-1-05", "word": "Pizza", "forbidden": ["queijo", "forno", "fatia", "massa", "cobertura"], "difficulty": "easy" }
+      ]
+    },
+    {
+      "deck_id": "cooking-pt-2",
+      "name": "Festa",
+      "cards": [
+        { "id": "cooking-pt-2-01", "word": "Croissant", "forbidden": ["manteiga", "França", "folhado", "padaria", "café"], "difficulty": "medium" },
+        { "id": "cooking-pt-2-02", "word": "Taco", "forbidden": ["casca", "salsa", "México", "recheio", "tortilha"], "difficulty": "easy" },
+        { "id": "cooking-pt-2-03", "word": "Sopa", "forbidden": ["tigela", "colher", "caldo", "quente", "concha"], "difficulty": "easy" },
+        { "id": "cooking-pt-2-04", "word": "Brigadeiro", "forbidden": ["festa", "granulado", "leite", "panela", "chocolate"], "difficulty": "easy" },
+        { "id": "cooking-pt-2-05", "word": "Queijo", "forbidden": ["laticínio", "derreter", "rato", "curado", "fatia"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

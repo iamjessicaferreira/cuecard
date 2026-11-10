@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "pop",
+  "lang": "en",
+  "theme_name": "Pop Culture",
+  "decks": [
+    {
+      "deck_id": "pop-en-1",
+      "name": "Screen",
+      "cards": [
+        { "id": "pop-en-1-01", "word": "Lightsaber", "forbidden": ["Jedi", "glow", "sword", "galaxy", "beam"], "difficulty": "easy" },
+        { "id": "pop-en-1-02", "word": "Wizard", "forbidden": ["magic", "wand", "spell", "robe", "school"], "difficulty": "easy" },
+        { "id": "pop-en-1-03", "word": "Vampire", "forbidden": ["fangs", "blood", "night", "coffin", "bat"], "difficulty": "easy" },
+        { "id": "pop-en-1-04", "word": "Time machine", "forbidden": ["future", "past", "clock", "portal", "history"], "difficulty": "medium" },
+        { "id": "pop-en-1-05", "word": "Superhero", "forbidden": ["cape", "powers", "mask", "villain", "comic"], "difficulty": "easy" }
+      ]
+    },
+    {
+      "deck_id": "pop-en-2",
+      "name": "Storybook",
+      "cards": [
+        { "id": "pop-en-2-01", "word": "Dragon", "forbidden": ["fire", "scales", "wings", "myth", "hoard"], "difficulty": "easy" },
+        { "id": "pop-en-2-02", "word": "Pirate", "forbidden": ["ship", "treasure", "parrot", "patch", "sail"], "difficulty": "easy" },
+        { "id": "pop-en-2-03", "word": "Robot", "forbidden": ["metal", "android", "wires", "machine", "beep"], "difficulty": "easy" },
+        { "id": "pop-en-2-04", "word": "Ghost", "forbidden": ["spirit", "haunt", "sheet", "boo", "invisible"], "difficulty": "easy" },
+        { "id": "pop-en-2-05", "word": "Spaceship", "forbidden": ["astronaut", "galaxy", "rocket", "crew", "stars"], "difficulty": "medium" }
+      ]
+    }
+  ]
+}

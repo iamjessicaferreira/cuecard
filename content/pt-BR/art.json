@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "art",
+  "lang": "pt-BR",
+  "theme_name": "Arte",
+  "decks": [
+    {
+      "deck_id": "art-pt-1",
+      "name": "Ateliê",
+      "cards": [
+        { "id": "art-pt-1-01", "word": "Mona Lisa", "forbidden": ["sorriso", "Louvre", "retrato", "Da Vinci", "pintura"], "difficulty": "easy" },
+        { "id": "art-pt-1-02", "word": "Origami", "forbidden": ["papel", "dobra", "grou", "Japão", "vinco"], "difficulty": "easy" },
+        { "id": "art-pt-1-03", "word": "Balé", "forbidden": ["dança", "tutu", "ponta", "cisne", "palco"], "difficulty": "medium" },
+        { "id": "art-pt-1-04", "word": "Grafite", "forbidden": ["spray", "muro", "rua", "mural", "tinta"], "difficulty": "easy" },
+        { "id": "art-pt-1-05", "word": "Cerâmica", "forbidden": ["barro", "torno", "forno", "vaso", "argila"], "difficulty": "medium" }
+      ]
+    },
+    {
+      "deck_id": "art-pt-2",
+      "name": "Museu",
+      "cards": [
+        { "id": "art-pt-2-01", "word": "Van Gogh", "forbidden": ["girassol", "orelha", "estrelada", "pintor", "amarelo"], "difficulty": "easy" },
+        { "id": "art-pt-2-02", "word": "Picasso", "forbidden": ["cubismo", "Guernica", "azul", "Espanha", "abstrato"], "difficulty": "medium" },
+        { "id": "art-pt-2-03", "word": "Ópera", "forbidden": ["ária", "soprano", "teatro", "canto", "máscara"], "difficulty": "medium" },
+        { "id": "art-pt-2-04", "word": "Escultura", "forbidden": ["mármore", "estátua", "cinzel", "bronze", "pedestal"], "difficulty": "easy" },
+        { "id": "art-pt-2-05", "word": "Quadrinhos", "forbidden": ["balão", "herói", "tinta", "revista", "vinheta"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

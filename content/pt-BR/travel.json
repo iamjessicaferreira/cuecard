@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "travel",
+  "lang": "pt-BR",
+  "theme_name": "Geografia e Viagem",
+  "decks": [
+    {
+      "deck_id": "travel-pt-1",
+      "name": "Atlas",
+      "cards": [
+        { "id": "travel-pt-1-01", "word": "Pirâmide", "forbidden": ["Egito", "tumba", "pedra", "faraó", "Gizé"], "difficulty": "easy" },
+        { "id": "travel-pt-1-02", "word": "Ilha", "forbidden": ["água", "praia", "oceano", "cercada", "tropical"], "difficulty": "easy" },
+        { "id": "travel-pt-1-03", "word": "Passaporte", "forbidden": ["carimbo", "fronteira", "documento", "foto", "alfândega"], "difficulty": "medium" },
+        { "id": "travel-pt-1-04", "word": "Vulcão", "forbidden": ["lava", "erupção", "cinza", "cratera", "magma"], "difficulty": "easy" },
+        { "id": "travel-pt-1-05", "word": "Metrô", "forbidden": ["subterrâneo", "trem", "estação", "túnel", "linha"], "difficulty": "easy" }
+      ]
+    },
+    {
+      "deck_id": "travel-pt-2",
+      "name": "Mala",
+      "cards": [
+        { "id": "travel-pt-2-01", "word": "Bússola", "forbidden": ["norte", "agulha", "direção", "mapa", "navegar"], "difficulty": "medium" },
+        { "id": "travel-pt-2-02", "word": "Deserto", "forbidden": ["areia", "camelo", "duna", "seco", "Saara"], "difficulty": "easy" },
+        { "id": "travel-pt-2-03", "word": "Cachoeira", "forbidden": ["queda", "penhasco", "névoa", "rio", "cascata"], "difficulty": "easy" },
+        { "id": "travel-pt-2-04", "word": "Mala", "forbidden": ["bagagem", "rodinha", "aeroporto", "arrumar", "alça"], "difficulty": "easy" },
+        { "id": "travel-pt-2-05", "word": "Ponte", "forbidden": ["arco", "rio", "travessia", "aço", "vão"], "difficulty": "medium" }
+      ]
+    }
+  ]
+}

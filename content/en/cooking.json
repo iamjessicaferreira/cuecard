@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "cooking",
+  "lang": "en",
+  "theme_name": "Cooking",
+  "decks": [
+    {
+      "deck_id": "cooking-en-1",
+      "name": "Kitchen",
+      "cards": [
+        { "id": "cooking-en-1-01", "word": "Sushi", "forbidden": ["rice", "fish", "Japan", "roll", "seaweed"], "difficulty": "easy" },
+        { "id": "cooking-en-1-02", "word": "Barbecue", "forbidden": ["grill", "smoke", "ribs", "charcoal", "sauce"], "difficulty": "easy" },
+        { "id": "cooking-en-1-03", "word": "Pasta", "forbidden": ["noodle", "Italian", "sauce", "boil", "fork"], "difficulty": "easy" },
+        { "id": "cooking-en-1-04", "word": "Chocolate", "forbidden": ["cocoa", "sweet", "bar", "candy", "brown"], "difficulty": "easy" },
+        { "id": "cooking-en-1-05", "word": "Pizza", "forbidden": ["cheese", "oven", "slice", "crust", "topping"], "difficulty": "easy" }
+      ]
+    },
+    {
+      "deck_id": "cooking-en-2",
+      "name": "Bakery",
+      "cards": [
+        { "id": "cooking-en-2-01", "word": "Croissant", "forbidden": ["butter", "pastry", "France", "flaky", "breakfast"], "difficulty": "medium" },
+        { "id": "cooking-en-2-02", "word": "Taco", "forbidden": ["shell", "salsa", "Mexico", "filling", "tortilla"], "difficulty": "easy" },
+        { "id": "cooking-en-2-03", "word": "Soup", "forbidden": ["bowl", "spoon", "hot", "broth", "ladle"], "difficulty": "easy" },
+        { "id": "cooking-en-2-04", "word": "Cupcake", "forbidden": ["frosting", "bakery", "sprinkle", "liner", "dessert"], "difficulty": "easy" },
+        { "id": "cooking-en-2-05", "word": "Cheese", "forbidden": ["dairy", "melt", "cheddar", "mouse", "aged"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

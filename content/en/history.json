@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "history",
+  "lang": "en",
+  "theme_name": "History",
+  "decks": [
+    {
+      "deck_id": "history-en-1",
+      "name": "Empire",
+      "cards": [
+        { "id": "history-en-1-01", "word": "Cleopatra", "forbidden": ["Egypt", "queen", "Nile", "Rome", "asp"], "difficulty": "medium" },
+        { "id": "history-en-1-02", "word": "Viking", "forbidden": ["ship", "Norse", "raid", "helmet", "fjord"], "difficulty": "easy" },
+        { "id": "history-en-1-03", "word": "Castle", "forbidden": ["moat", "knight", "tower", "drawbridge", "medieval"], "difficulty": "easy" },
+        { "id": "history-en-1-04", "word": "Revolution", "forbidden": ["rebel", "overthrow", "protest", "uprising", "barricade"], "difficulty": "hard" },
+        { "id": "history-en-1-05", "word": "Mummy", "forbidden": ["bandage", "tomb", "Egypt", "pharaoh", "linen"], "difficulty": "easy" }
+      ]
+    },
+    {
+      "deck_id": "history-en-2",
+      "name": "Relic",
+      "cards": [
+        { "id": "history-en-2-01", "word": "Knight", "forbidden": ["armor", "sword", "horse", "lance", "shield"], "difficulty": "easy" },
+        { "id": "history-en-2-02", "word": "Colosseum", "forbidden": ["Rome", "gladiator", "arena", "ancient", "crowd"], "difficulty": "medium" },
+        { "id": "history-en-2-03", "word": "Samurai", "forbidden": ["Japan", "sword", "warrior", "honor", "armor"], "difficulty": "medium" },
+        { "id": "history-en-2-04", "word": "Treasure", "forbidden": ["chest", "gold", "map", "buried", "coins"], "difficulty": "easy" },
+        { "id": "history-en-2-05", "word": "Crown", "forbidden": ["king", "jewel", "royal", "head", "throne"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

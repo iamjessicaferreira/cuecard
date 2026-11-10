@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "music",
+  "lang": "pt-BR",
+  "theme_name": "Música",
+  "decks": [
+    {
+      "deck_id": "music-pt-1",
+      "name": "Ensaio",
+      "cards": [
+        { "id": "music-pt-1-01", "word": "Violino", "forbidden": ["arco", "cordas", "orquestra", "queixo", "clássico"], "difficulty": "easy" },
+        { "id": "music-pt-1-02", "word": "Karaokê", "forbidden": ["microfone", "cantar", "bar", "letra", "playback"], "difficulty": "easy" },
+        { "id": "music-pt-1-03", "word": "Bateria", "forbidden": ["baqueta", "ritmo", "prato", "surdo", "caixa"], "difficulty": "easy" },
+        { "id": "music-pt-1-04", "word": "Violão", "forbidden": ["acorde", "dedilhar", "acústico", "palheta", "corda"], "difficulty": "easy" },
+        { "id": "music-pt-1-05", "word": "DJ", "forbidden": ["toca-discos", "mix", "balada", "fone", "scratch"], "difficulty": "medium" }
+      ]
+    },
+    {
+      "deck_id": "music-pt-2",
+      "name": "Palco",
+      "cards": [
+        { "id": "music-pt-2-01", "word": "Piano", "forbidden": ["teclas", "pedal", "cauda", "marfim", "teclado"], "difficulty": "easy" },
+        { "id": "music-pt-2-02", "word": "Coral", "forbidden": ["vozes", "hino", "igreja", "harmonia", "ensaio"], "difficulty": "medium" },
+        { "id": "music-pt-2-03", "word": "Trompete", "forbidden": ["metal", "válvula", "jazz", "bocal", "sopro"], "difficulty": "medium" },
+        { "id": "music-pt-2-04", "word": "Fone", "forbidden": ["ouvido", "sem fio", "escutar", "áudio", "música"], "difficulty": "easy" },
+        { "id": "music-pt-2-05", "word": "Festival", "forbidden": ["multidão", "palco", "lineup", "ingresso", "fim de semana"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

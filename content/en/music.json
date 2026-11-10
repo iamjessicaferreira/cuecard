@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "music",
+  "lang": "en",
+  "theme_name": "Music",
+  "decks": [
+    {
+      "deck_id": "music-en-1",
+      "name": "Band room",
+      "cards": [
+        { "id": "music-en-1-01", "word": "Violin", "forbidden": ["bow", "strings", "orchestra", "chin", "fiddle"], "difficulty": "easy" },
+        { "id": "music-en-1-02", "word": "Karaoke", "forbidden": ["microphone", "sing", "bar", "lyrics", "backing"], "difficulty": "easy" },
+        { "id": "music-en-1-03", "word": "Drum", "forbidden": ["sticks", "beat", "snare", "rhythm", "kit"], "difficulty": "easy" },
+        { "id": "music-en-1-04", "word": "Guitar", "forbidden": ["chord", "fret", "acoustic", "pick", "strum"], "difficulty": "easy" },
+        { "id": "music-en-1-05", "word": "DJ", "forbidden": ["turntable", "mix", "club", "headphones", "scratch"], "difficulty": "medium" }
+      ]
+    },
+    {
+      "deck_id": "music-en-2",
+      "name": "Stage",
+      "cards": [
+        { "id": "music-en-2-01", "word": "Piano", "forbidden": ["keys", "pedal", "keyboard", "grand", "ivory"], "difficulty": "easy" },
+        { "id": "music-en-2-02", "word": "Choir", "forbidden": ["voices", "hymn", "church", "harmony", "rehearsal"], "difficulty": "medium" },
+        { "id": "music-en-2-03", "word": "Trumpet", "forbidden": ["brass", "valve", "jazz", "mouthpiece", "blast"], "difficulty": "medium" },
+        { "id": "music-en-2-04", "word": "Headphones", "forbidden": ["ears", "wireless", "listen", "audio", "cans"], "difficulty": "easy" },
+        { "id": "music-en-2-05", "word": "Festival", "forbidden": ["crowd", "lineup", "outdoor", "ticket", "weekend"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

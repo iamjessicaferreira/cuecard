@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "art",
+  "lang": "en",
+  "theme_name": "Art",
+  "decks": [
+    {
+      "deck_id": "art-en-1",
+      "name": "Studio",
+      "cards": [
+        { "id": "art-en-1-01", "word": "Mona Lisa", "forbidden": ["smile", "Louvre", "portrait", "Da Vinci", "painting"], "difficulty": "easy" },
+        { "id": "art-en-1-02", "word": "Origami", "forbidden": ["paper", "fold", "crane", "Japan", "crease"], "difficulty": "easy" },
+        { "id": "art-en-1-03", "word": "Ballet", "forbidden": ["dance", "tutu", "pointe", "swan", "stage"], "difficulty": "medium" },
+        { "id": "art-en-1-04", "word": "Graffiti", "forbidden": ["spray", "wall", "street", "mural", "tag"], "difficulty": "easy" },
+        { "id": "art-en-1-05", "word": "Pottery", "forbidden": ["clay", "wheel", "kiln", "vase", "ceramic"], "difficulty": "medium" }
+      ]
+    },
+    {
+      "deck_id": "art-en-2",
+      "name": "Museum",
+      "cards": [
+        { "id": "art-en-2-01", "word": "Van Gogh", "forbidden": ["sunflower", "ear", "starry", "painter", "yellow"], "difficulty": "easy" },
+        { "id": "art-en-2-02", "word": "Picasso", "forbidden": ["cubism", "Guernica", "blue", "Spain", "abstract"], "difficulty": "medium" },
+        { "id": "art-en-2-03", "word": "Opera", "forbidden": ["aria", "soprano", "theater", "singing", "mask"], "difficulty": "medium" },
+        { "id": "art-en-2-04", "word": "Sculpture", "forbidden": ["marble", "statue", "chisel", "bronze", "pedestal"], "difficulty": "easy" },
+        { "id": "art-en-2-05", "word": "Comic", "forbidden": ["panel", "superhero", "bubble", "ink", "strip"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}

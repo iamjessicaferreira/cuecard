@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "theme_id": "history",
+  "lang": "pt-BR",
+  "theme_name": "História",
+  "decks": [
+    {
+      "deck_id": "history-pt-1",
+      "name": "Império",
+      "cards": [
+        { "id": "history-pt-1-01", "word": "Cleópatra", "forbidden": ["Egito", "rainha", "Nilo", "Roma", "serpente"], "difficulty": "medium" },
+        { "id": "history-pt-1-02", "word": "Viking", "forbidden": ["navio", "nórdico", "saque", "elmo", "fiorde"], "difficulty": "easy" },
+        { "id": "history-pt-1-03", "word": "Castelo", "forbidden": ["fosso", "cavaleiro", "torre", "ponte levadiça", "medieval"], "difficulty": "easy" },
+        { "id": "history-pt-1-04", "word": "Revolução", "forbidden": ["rebelião", "protesto", "mudança", "povo", "barricada"], "difficulty": "hard" },
+        { "id": "history-pt-1-05", "word": "Múmia", "forbidden": ["atadura", "tumba", "Egito", "faraó", "linho"], "difficulty": "easy" }
+      ]
+    },
+    {
+      "deck_id": "history-pt-2",
+      "name": "Relíquia",
+      "cards": [
+        { "id": "history-pt-2-01", "word": "Cavaleiro", "forbidden": ["armadura", "espada", "cavalo", "lança", "escudo"], "difficulty": "easy" },
+        { "id": "history-pt-2-02", "word": "Coliseu", "forbidden": ["Roma", "gladiador", "arena", "antigo", "plateia"], "difficulty": "medium" },
+        { "id": "history-pt-2-03", "word": "Samurai", "forbidden": ["Japão", "katana", "guerreiro", "honra", "armadura"], "difficulty": "medium" },
+        { "id": "history-pt-2-04", "word": "Tesouro", "forbidden": ["baú", "ouro", "mapa", "enterrado", "moedas"], "difficulty": "easy" },
+        { "id": "history-pt-2-05", "word": "Coroa", "forbidden": ["rei", "joia", "real", "cabeça", "trono"], "difficulty": "easy" }
+      ]
+    }
+  ]
+}
