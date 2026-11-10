@@ -1,4 +1,3 @@
-import { BONK_LABEL } from "@shared/config";
 import { resolveMode } from "@shared/engine";
 import type { Catalog } from "@shared/catalog";
 import type { RoomSettings } from "@shared/types";
@@ -14,6 +13,23 @@ function deckMark(cardIds: string[], seen: Set<string>): "fresh" | "partial" | "
   if (hits === 0) return "fresh";
   if (hits >= cardIds.length) return "played";
   return "partial";
+}
+
+function Switch({ label, checked, onToggle }: { label: string; checked: boolean; onToggle: () => void }) {
+  return (
+    <button
+      type="button"
+      role="switch"
+      aria-checked={checked}
+      onClick={onToggle}
+      className="flex w-full items-center justify-between gap-4 rounded-2xl bg-white/10 px-4 py-3 text-left"
+    >
+      <span className="font-extrabold">{label}</span>
+      <span className={`relative inline-flex h-7 w-12 shrink-0 rounded-full transition-colors ${checked ? "bg-[var(--mango)]" : "bg-white/25"}`}>
+        <span className={`absolute top-1 h-5 w-5 rounded-full bg-white shadow transition-all ${checked ? "left-6" : "left-1"}`} />
+      </span>
+    </button>
+  );
 }
 
 export function SetupFields({
@@ -82,18 +98,7 @@ export function SetupFields({
       </fieldset>
 
       <div className="flex flex-col gap-2">
-        <button
-          type="button"
-          role="switch"
-          aria-checked={settings.mix}
-          onClick={() => onChange({ mix: !settings.mix, deckId: null })}
-          className="flex w-full items-center justify-between gap-4 rounded-2xl bg-white/10 px-4 py-3 text-left"
-        >
-          <span className="font-extrabold">{t("setup.mix")}</span>
-          <span className={`relative inline-flex h-7 w-12 shrink-0 rounded-full transition-colors ${settings.mix ? "bg-[var(--mango)]" : "bg-white/25"}`}>
-            <span className={`absolute top-1 h-5 w-5 rounded-full bg-white shadow transition-all ${settings.mix ? "left-6" : "left-1"}`} />
-          </span>
-        </button>
+        <Switch label={t("setup.mix")} checked={settings.mix} onToggle={() => onChange({ mix: !settings.mix, deckId: null })} />
         <p className="text-sm text-white/70">{t("setup.mixHelp")}</p>
       </div>
 
@@ -148,21 +153,10 @@ export function SetupFields({
         </div>
       </fieldset>
 
-      <fieldset className="flex flex-col gap-2">
-        <legend className="text-sm font-extrabold uppercase tracking-wide text-white/60">{t("setup.fullCard")}</legend>
-        <button type="button" className="chip w-fit" aria-pressed={settings.opponentsSeeFullCard} onClick={() => onChange({ opponentsSeeFullCard: !settings.opponentsSeeFullCard })}>
-          {settings.opponentsSeeFullCard ? t("common.on") : t("common.off")}
-        </button>
+      <div className="flex flex-col gap-2">
+        <Switch label={t("setup.fullCard")} checked={settings.opponentsSeeFullCard} onToggle={() => onChange({ opponentsSeeFullCard: !settings.opponentsSeeFullCard })} />
         <p className="text-sm text-white/70">{t("setup.fullCardHelp")}</p>
-      </fieldset>
-
-      <fieldset className="flex flex-col gap-2">
-        <legend className="text-sm font-extrabold uppercase tracking-wide text-white/60">{t("setup.contest")}</legend>
-        <button type="button" className="chip w-fit" aria-pressed={settings.contestEnabled} onClick={() => onChange({ contestEnabled: !settings.contestEnabled })}>
-          {settings.contestEnabled ? t("common.on") : t("common.off")}
-        </button>
-        <p className="text-sm text-white/70">{t("setup.contestHelp", { bonk: BONK_LABEL })}</p>
-      </fieldset>
+      </div>
 
       <fieldset className="flex flex-col gap-2">
         <legend className="text-sm font-extrabold uppercase tracking-wide text-white/60">{t("setup.mode")}</legend>
@@ -179,7 +173,13 @@ export function SetupFields({
             </button>
           ))}
         </div>
-        <p className="text-sm text-white/70">{t("setup.preview", { count: playerCount, mode: t(mode === "cooperative" ? "mode.cooperative" : "mode.competitive") })}</p>
+        <p className="text-sm text-white/70">
+          {t(settings.mode === "cooperative" ? "setup.modeCoopHelp" : settings.mode === "competitive" ? "setup.modeTeamsHelp" : "setup.modeAutoHelp")}
+        </p>
+        <p className="text-sm font-bold text-white/80">{t("setup.preview", { count: playerCount, mode: t(mode === "cooperative" ? "mode.cooperative" : "mode.competitive") })}</p>
+        {mode === "competitive" ? (
+          <p className="pt-1 text-sm font-extrabold uppercase tracking-wide text-white/60">{t("setup.teamCount")}</p>
+        ) : null}
         {mode === "competitive" ? (
           <div className="flex gap-2">
             {[2, 3, 4].map((count) => (

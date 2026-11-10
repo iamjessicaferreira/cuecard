@@ -86,7 +86,7 @@ export function normalizeSettings(input: Partial<RoomSettings>): RoomSettings {
     cardCount,
     turnSeconds,
     opponentsSeeFullCard: Boolean(input.opponentsSeeFullCard),
-    contestEnabled: input.contestEnabled !== false,
+    contestEnabled: true,
     contestSeconds,
     mode,
     teamCount,
