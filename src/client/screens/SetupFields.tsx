@@ -81,13 +81,21 @@ export function SetupFields({
         </div>
       </fieldset>
 
-      <fieldset className="flex flex-col gap-2">
-        <legend className="text-sm font-extrabold uppercase tracking-wide text-white/60">{t("setup.mix")}</legend>
-        <button type="button" className="chip w-fit" aria-pressed={settings.mix} onClick={() => onChange({ mix: !settings.mix, deckId: null })}>
-          {settings.mix ? t("common.on") : t("common.off")}
+      <div className="flex flex-col gap-2">
+        <button
+          type="button"
+          role="switch"
+          aria-checked={settings.mix}
+          onClick={() => onChange({ mix: !settings.mix, deckId: null })}
+          className="flex w-full items-center justify-between gap-4 rounded-2xl bg-white/10 px-4 py-3 text-left"
+        >
+          <span className="font-extrabold">{t("setup.mix")}</span>
+          <span className={`relative inline-flex h-7 w-12 shrink-0 rounded-full transition-colors ${settings.mix ? "bg-[var(--mango)]" : "bg-white/25"}`}>
+            <span className={`absolute top-1 h-5 w-5 rounded-full bg-white shadow transition-all ${settings.mix ? "left-6" : "left-1"}`} />
+          </span>
         </button>
         <p className="text-sm text-white/70">{t("setup.mixHelp")}</p>
-      </fieldset>
+      </div>
 
       {settings.mix ? null : (
         <fieldset className="flex flex-col gap-2">
