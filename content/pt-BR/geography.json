@@ -1,0 +1,1825 @@
+{
+  "theme_id": "geography",
+  "lang": "pt-BR",
+  "theme_name": "Geografia e Viagem",
+  "decks": [
+    {
+      "deck_id": "pt-geography-1",
+      "name": "Baralho 1",
+      "cards": [
+        {
+          "id": "pt-geography-1-001",
+          "word": "Japão",
+          "forbidden": [
+            "Tóquio",
+            "sushi",
+            "samurai",
+            "Ásia",
+            "sol nascente"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-002",
+          "word": "Paris",
+          "forbidden": [
+            "Torre Eiffel",
+            "França",
+            "Louvre",
+            "croissant",
+            "Sena"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-003",
+          "word": "Amazônia",
+          "forbidden": [
+            "floresta",
+            "Manaus",
+            "árvores",
+            "pulmão do mundo",
+            "indígenas"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-004",
+          "word": "Praia",
+          "forbidden": [
+            "areia",
+            "mar",
+            "sol",
+            "biquíni",
+            "onda"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-005",
+          "word": "Deserto",
+          "forbidden": [
+            "areia",
+            "calor",
+            "camelo",
+            "Saara",
+            "cacto"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-006",
+          "word": "Vulcão",
+          "forbidden": [
+            "lava",
+            "erupção",
+            "magma",
+            "cratera",
+            "fumaça"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-007",
+          "word": "Egito",
+          "forbidden": [
+            "pirâmides",
+            "faraó",
+            "Nilo",
+            "múmia",
+            "Cairo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-008",
+          "word": "Torre Eiffel",
+          "forbidden": [
+            "Paris",
+            "ferro",
+            "França",
+            "alta",
+            "monumento"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-009",
+          "word": "Nova York",
+          "forbidden": [
+            "Times Square",
+            "Estátua da Liberdade",
+            "Manhattan",
+            "Big Apple",
+            "EUA"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-010",
+          "word": "Avião",
+          "forbidden": [
+            "voar",
+            "asa",
+            "piloto",
+            "aeroporto",
+            "céu"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-011",
+          "word": "Passaporte",
+          "forbidden": [
+            "viagem",
+            "documento",
+            "carimbo",
+            "visto",
+            "Polícia Federal"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-012",
+          "word": "Mapa",
+          "forbidden": [
+            "localização",
+            "caminho",
+            "atlas",
+            "GPS",
+            "papel"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-013",
+          "word": "Ilha",
+          "forbidden": [
+            "água",
+            "cercada",
+            "mar",
+            "náufrago",
+            "arquipélago"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-014",
+          "word": "Montanha",
+          "forbidden": [
+            "alta",
+            "pico",
+            "escalar",
+            "neve",
+            "subir"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-015",
+          "word": "Salvador",
+          "forbidden": [
+            "Bahia",
+            "Pelourinho",
+            "acarajé",
+            "Elevador Lacerda",
+            "axé"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-016",
+          "word": "Pão de Açúcar",
+          "forbidden": [
+            "bondinho",
+            "Rio",
+            "Urca",
+            "morro",
+            "cartão-postal"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-017",
+          "word": "Bússola",
+          "forbidden": [
+            "norte",
+            "agulha",
+            "direção",
+            "sul",
+            "ímã"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-018",
+          "word": "Itália",
+          "forbidden": [
+            "Roma",
+            "pizza",
+            "bota",
+            "massa",
+            "Veneza"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-019",
+          "word": "Cachoeira",
+          "forbidden": [
+            "água",
+            "queda",
+            "rio",
+            "pedras",
+            "banho"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-020",
+          "word": "Mala",
+          "forbidden": [
+            "rodinhas",
+            "viagem",
+            "bagagem",
+            "roupas",
+            "aeroporto"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-1-021",
+          "word": "Fernando de Noronha",
+          "forbidden": [
+            "ilha",
+            "Pernambuco",
+            "golfinhos",
+            "mergulho",
+            "praia"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-022",
+          "word": "Foz do Iguaçu",
+          "forbidden": [
+            "cataratas",
+            "Paraná",
+            "Argentina",
+            "Itaipu",
+            "tríplice fronteira"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-023",
+          "word": "Lençóis Maranhenses",
+          "forbidden": [
+            "dunas",
+            "lagoas",
+            "Nordeste",
+            "areia",
+            "Barreirinhas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-024",
+          "word": "Machu Picchu",
+          "forbidden": [
+            "Peru",
+            "incas",
+            "ruínas",
+            "montanha",
+            "Cusco"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-025",
+          "word": "Muralha da China",
+          "forbidden": [
+            "grande",
+            "Pequim",
+            "Ásia",
+            "dinastias",
+            "espaço"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-026",
+          "word": "Coliseu",
+          "forbidden": [
+            "Roma",
+            "gladiadores",
+            "Itália",
+            "arena",
+            "ruínas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-027",
+          "word": "Grand Canyon",
+          "forbidden": [
+            "Arizona",
+            "EUA",
+            "rocha",
+            "Colorado",
+            "desfiladeiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-028",
+          "word": "Austrália",
+          "forbidden": [
+            "canguru",
+            "Sydney",
+            "coala",
+            "Oceania",
+            "Ópera"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-029",
+          "word": "Canadá",
+          "forbidden": [
+            "Toronto",
+            "bordo",
+            "alce",
+            "frio",
+            "Vancouver"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-030",
+          "word": "Islândia",
+          "forbidden": [
+            "gelo",
+            "vulcões",
+            "aurora boreal",
+            "Reykjavik",
+            "gêiser"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-031",
+          "word": "Equador",
+          "forbidden": [
+            "Quito",
+            "Galápagos",
+            "linha",
+            "meio",
+            "América do Sul"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-032",
+          "word": "Fuso horário",
+          "forbidden": [
+            "tempo",
+            "diferença",
+            "jet lag",
+            "relógio",
+            "Greenwich"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-033",
+          "word": "Mochilão",
+          "forbidden": [
+            "costas",
+            "viajar",
+            "barato",
+            "albergue",
+            "aventura"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-034",
+          "word": "Pantanal",
+          "forbidden": [
+            "Mato Grosso",
+            "onça",
+            "jacaré",
+            "alagado",
+            "tuiuiú"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-035",
+          "word": "Chapada Diamantina",
+          "forbidden": [
+            "Bahia",
+            "cachoeiras",
+            "trilhas",
+            "Lençóis",
+            "Morro do Pai Inácio"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-036",
+          "word": "Patagônia",
+          "forbidden": [
+            "Argentina",
+            "Chile",
+            "frio",
+            "geleiras",
+            "sul"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-037",
+          "word": "Himalaia",
+          "forbidden": [
+            "Everest",
+            "montanhas",
+            "Nepal",
+            "Tibete",
+            "neve"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-038",
+          "word": "Rio Nilo",
+          "forbidden": [
+            "Egito",
+            "África",
+            "longo",
+            "delta",
+            "Cairo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-039",
+          "word": "Gramado",
+          "forbidden": [
+            "Serra Gaúcha",
+            "chocolate",
+            "Natal",
+            "frio",
+            "Canela"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-040",
+          "word": "Aurora boreal",
+          "forbidden": [
+            "luzes",
+            "céu",
+            "verde",
+            "polo",
+            "Noruega"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-1-041",
+          "word": "Petra",
+          "forbidden": [
+            "Jordânia",
+            "rocha",
+            "Indiana Jones",
+            "cidade",
+            "rosa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-042",
+          "word": "Bonito",
+          "forbidden": [
+            "Mato Grosso do Sul",
+            "flutuação",
+            "águas cristalinas",
+            "peixes",
+            "gruta"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-043",
+          "word": "Mar Morto",
+          "forbidden": [
+            "sal",
+            "boiar",
+            "Israel",
+            "Jordânia",
+            "lama"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-044",
+          "word": "Angkor Wat",
+          "forbidden": [
+            "Camboja",
+            "templo",
+            "ruínas",
+            "Ásia",
+            "budista"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-045",
+          "word": "Atacama",
+          "forbidden": [
+            "deserto",
+            "Chile",
+            "seco",
+            "estrelas",
+            "San Pedro"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-046",
+          "word": "Jalapão",
+          "forbidden": [
+            "Tocantins",
+            "dunas",
+            "fervedouro",
+            "capim dourado",
+            "cerrado"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-047",
+          "word": "Capadócia",
+          "forbidden": [
+            "Turquia",
+            "balões",
+            "cavernas",
+            "chaminés de fada",
+            "rochas"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-048",
+          "word": "Trópico de Capricórnio",
+          "forbidden": [
+            "linha",
+            "imaginária",
+            "São Paulo",
+            "sul",
+            "paralelo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-049",
+          "word": "Fiorde",
+          "forbidden": [
+            "Noruega",
+            "gelo",
+            "vale",
+            "água",
+            "montanhas"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-1-050",
+          "word": "Salar de Uyuni",
+          "forbidden": [
+            "Bolívia",
+            "sal",
+            "branco",
+            "espelho",
+            "deserto"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "pt-geography-2",
+      "name": "Baralho 2",
+      "cards": [
+        {
+          "id": "pt-geography-2-001",
+          "word": "Londres",
+          "forbidden": [
+            "Big Ben",
+            "Inglaterra",
+            "rainha",
+            "ônibus vermelho",
+            "Tâmisa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-002",
+          "word": "China",
+          "forbidden": [
+            "Pequim",
+            "muralha",
+            "Ásia",
+            "panda",
+            "mandarim"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-003",
+          "word": "Índia",
+          "forbidden": [
+            "Taj Mahal",
+            "Ganges",
+            "curry",
+            "Nova Délhi",
+            "sari"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-004",
+          "word": "México",
+          "forbidden": [
+            "tacos",
+            "sombrero",
+            "Cancún",
+            "Frida",
+            "maias"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-005",
+          "word": "Argentina",
+          "forbidden": [
+            "Buenos Aires",
+            "tango",
+            "Messi",
+            "churrasco",
+            "hermanos"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-006",
+          "word": "Brasília",
+          "forbidden": [
+            "capital",
+            "Niemeyer",
+            "Congresso",
+            "Planalto",
+            "JK"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-007",
+          "word": "Hotel",
+          "forbidden": [
+            "quarto",
+            "hospedagem",
+            "recepção",
+            "diária",
+            "check-in"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-008",
+          "word": "Aeroporto",
+          "forbidden": [
+            "avião",
+            "embarque",
+            "voo",
+            "portão",
+            "mala"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-009",
+          "word": "Turista",
+          "forbidden": [
+            "câmera",
+            "foto",
+            "viajante",
+            "guia",
+            "mapa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-010",
+          "word": "Polo Norte",
+          "forbidden": [
+            "gelo",
+            "Papai Noel",
+            "frio",
+            "renas",
+            "Ártico"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-011",
+          "word": "Lua de mel",
+          "forbidden": [
+            "casamento",
+            "viagem",
+            "noivos",
+            "recém-casados",
+            "romântica"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-012",
+          "word": "Globo terrestre",
+          "forbidden": [
+            "bola",
+            "girar",
+            "mapa",
+            "planeta",
+            "mundo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-013",
+          "word": "Rio de Janeiro",
+          "forbidden": [
+            "Cristo",
+            "Copacabana",
+            "carioca",
+            "Corcovado",
+            "praia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-014",
+          "word": "Havaí",
+          "forbidden": [
+            "surfe",
+            "colar de flores",
+            "ilha",
+            "ukulele",
+            "aloha"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-015",
+          "word": "Grécia",
+          "forbidden": [
+            "Atenas",
+            "deuses",
+            "Santorini",
+            "azul e branco",
+            "Partenon"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-016",
+          "word": "Oceano",
+          "forbidden": [
+            "Atlântico",
+            "Pacífico",
+            "mar",
+            "água salgada",
+            "baleia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-017",
+          "word": "Iglu",
+          "forbidden": [
+            "gelo",
+            "esquimó",
+            "casa",
+            "neve",
+            "Polo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-018",
+          "word": "Floresta",
+          "forbidden": [
+            "árvores",
+            "mata",
+            "bichos",
+            "verde",
+            "trilha"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-019",
+          "word": "Camping",
+          "forbidden": [
+            "barraca",
+            "fogueira",
+            "mato",
+            "acampar",
+            "natureza"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-020",
+          "word": "Neve",
+          "forbidden": [
+            "frio",
+            "branca",
+            "boneco",
+            "inverno",
+            "esquiar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-2-021",
+          "word": "Veneza",
+          "forbidden": [
+            "gôndola",
+            "canais",
+            "Itália",
+            "máscara",
+            "barco"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-022",
+          "word": "Dubai",
+          "forbidden": [
+            "Burj Khalifa",
+            "Emirados",
+            "deserto",
+            "arranha-céu",
+            "luxo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-023",
+          "word": "Las Vegas",
+          "forbidden": [
+            "cassino",
+            "deserto",
+            "Nevada",
+            "apostas",
+            "Elvis"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-024",
+          "word": "Monte Everest",
+          "forbidden": [
+            "Himalaia",
+            "alto",
+            "Nepal",
+            "escalar",
+            "topo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-025",
+          "word": "Ouro Preto",
+          "forbidden": [
+            "Minas",
+            "barroco",
+            "ladeiras",
+            "Aleijadinho",
+            "histórica"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-026",
+          "word": "Jericoacoara",
+          "forbidden": [
+            "Ceará",
+            "dunas",
+            "Preá",
+            "pôr do sol",
+            "kitesurfe"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-027",
+          "word": "Florianópolis",
+          "forbidden": [
+            "ilha",
+            "Santa Catarina",
+            "Lagoa da Conceição",
+            "ponte Hercílio Luz",
+            "praias"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-028",
+          "word": "Bariloche",
+          "forbidden": [
+            "Argentina",
+            "neve",
+            "esqui",
+            "chocolate",
+            "lagos"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-029",
+          "word": "Cuba",
+          "forbidden": [
+            "Havana",
+            "mojito",
+            "charuto",
+            "ilha",
+            "carros antigos"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-030",
+          "word": "Suíça",
+          "forbidden": [
+            "Alpes",
+            "chocolate",
+            "relógio",
+            "queijo",
+            "bancos"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-031",
+          "word": "Holanda",
+          "forbidden": [
+            "tulipas",
+            "bicicleta",
+            "Amsterdã",
+            "moinhos",
+            "laranja"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-032",
+          "word": "Marrocos",
+          "forbidden": [
+            "Saara",
+            "deserto",
+            "Casablanca",
+            "tapetes",
+            "África"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-033",
+          "word": "Safári",
+          "forbidden": [
+            "África",
+            "leão",
+            "jipe",
+            "savana",
+            "animais"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-034",
+          "word": "Cruzeiro",
+          "forbidden": [
+            "navio",
+            "mar",
+            "cabine",
+            "buffet",
+            "roteiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-035",
+          "word": "Hemisfério Sul",
+          "forbidden": [
+            "metade",
+            "Equador",
+            "abaixo",
+            "Austrália",
+            "Brasil"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-036",
+          "word": "Latitude",
+          "forbidden": [
+            "longitude",
+            "graus",
+            "paralelos",
+            "coordenadas",
+            "Equador"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-037",
+          "word": "Continente",
+          "forbidden": [
+            "África",
+            "Europa",
+            "Ásia",
+            "terra",
+            "seis"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-038",
+          "word": "Recife",
+          "forbidden": [
+            "Pernambuco",
+            "frevo",
+            "Veneza brasileira",
+            "Boa Viagem",
+            "pontes"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-039",
+          "word": "Manaus",
+          "forbidden": [
+            "Amazonas",
+            "Rio Negro",
+            "encontro das águas",
+            "floresta",
+            "Zona Franca"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-040",
+          "word": "Rota 66",
+          "forbidden": [
+            "estrada",
+            "EUA",
+            "carro",
+            "Chicago",
+            "Califórnia"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-2-041",
+          "word": "Galápagos",
+          "forbidden": [
+            "tartarugas",
+            "Darwin",
+            "Equador",
+            "ilhas",
+            "evolução"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-042",
+          "word": "Santorini",
+          "forbidden": [
+            "Grécia",
+            "casas brancas",
+            "cúpulas azuis",
+            "pôr do sol",
+            "ilha"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-043",
+          "word": "Maldivas",
+          "forbidden": [
+            "ilhas",
+            "bangalô",
+            "mar azul",
+            "Ásia",
+            "luxo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-044",
+          "word": "Ushuaia",
+          "forbidden": [
+            "fim do mundo",
+            "Argentina",
+            "Terra do Fogo",
+            "sul",
+            "pinguins"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-045",
+          "word": "Lapônia",
+          "forbidden": [
+            "Finlândia",
+            "Papai Noel",
+            "renas",
+            "frio",
+            "aurora"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-046",
+          "word": "Meridiano de Greenwich",
+          "forbidden": [
+            "Londres",
+            "linha",
+            "zero",
+            "fuso",
+            "longitude"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-047",
+          "word": "Monte Roraima",
+          "forbidden": [
+            "tepui",
+            "Venezuela",
+            "Guiana",
+            "Boa Vista",
+            "mesa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-048",
+          "word": "Chapada dos Veadeiros",
+          "forbidden": [
+            "Goiás",
+            "cerrado",
+            "cachoeiras",
+            "Alto Paraíso",
+            "cristais"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-049",
+          "word": "Kilimanjaro",
+          "forbidden": [
+            "Tanzânia",
+            "África",
+            "montanha",
+            "neve",
+            "vulcão"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-2-050",
+          "word": "Estreito de Gibraltar",
+          "forbidden": [
+            "Espanha",
+            "Marrocos",
+            "Europa",
+            "passagem",
+            "rochedo"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "pt-geography-3",
+      "name": "Baralho 3",
+      "cards": [
+        {
+          "id": "pt-geography-3-001",
+          "word": "Estados Unidos",
+          "forbidden": [
+            "América",
+            "Washington",
+            "Hollywood",
+            "dólar",
+            "EUA"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-002",
+          "word": "Portugal",
+          "forbidden": [
+            "Lisboa",
+            "bacalhau",
+            "fado",
+            "colonizador",
+            "Cristiano Ronaldo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-003",
+          "word": "Alemanha",
+          "forbidden": [
+            "Berlim",
+            "cerveja",
+            "salsicha",
+            "muro",
+            "Oktoberfest"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-004",
+          "word": "Espanha",
+          "forbidden": [
+            "Madri",
+            "touradas",
+            "paella",
+            "flamenco",
+            "Barcelona"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-005",
+          "word": "Rússia",
+          "forbidden": [
+            "Moscou",
+            "frio",
+            "Kremlin",
+            "vodca",
+            "matrioska"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-006",
+          "word": "São Paulo",
+          "forbidden": [
+            "Sampa",
+            "MASP",
+            "trânsito",
+            "cidade grande",
+            "garoa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-007",
+          "word": "Copacabana",
+          "forbidden": [
+            "praia",
+            "Rio",
+            "calçadão",
+            "Réveillon",
+            "princesinha do mar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-008",
+          "word": "Disney",
+          "forbidden": [
+            "Mickey",
+            "Orlando",
+            "parque",
+            "princesas",
+            "castelo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-009",
+          "word": "Big Ben",
+          "forbidden": [
+            "Londres",
+            "relógio",
+            "torre",
+            "sino",
+            "Parlamento"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-010",
+          "word": "Lago",
+          "forbidden": [
+            "água",
+            "parada",
+            "peixes",
+            "barco",
+            "margem"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-011",
+          "word": "Bandeira",
+          "forbidden": [
+            "país",
+            "pano",
+            "mastro",
+            "cores",
+            "hino"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-012",
+          "word": "Férias",
+          "forbidden": [
+            "descanso",
+            "viagem",
+            "escola",
+            "folga",
+            "julho"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-013",
+          "word": "Trem",
+          "forbidden": [
+            "trilhos",
+            "estação",
+            "vagão",
+            "maria-fumaça",
+            "metrô"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-014",
+          "word": "Pôr do sol",
+          "forbidden": [
+            "entardecer",
+            "laranja",
+            "horizonte",
+            "céu",
+            "fim do dia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-015",
+          "word": "Terremoto",
+          "forbidden": [
+            "tremor",
+            "chão",
+            "Richter",
+            "sismo",
+            "Japão"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-016",
+          "word": "Furacão",
+          "forbidden": [
+            "vento",
+            "tempestade",
+            "Katrina",
+            "Caribe",
+            "ciclone"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-017",
+          "word": "Caverna",
+          "forbidden": [
+            "escura",
+            "morcego",
+            "pedra",
+            "gruta",
+            "estalactite"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-018",
+          "word": "Coqueiro",
+          "forbidden": [
+            "coco",
+            "praia",
+            "palmeira",
+            "árvore",
+            "Nordeste"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-019",
+          "word": "Rio São Francisco",
+          "forbidden": [
+            "Velho Chico",
+            "Nordeste",
+            "Minas",
+            "transposição",
+            "barragem"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-020",
+          "word": "Tsunami",
+          "forbidden": [
+            "onda gigante",
+            "terremoto",
+            "destruição",
+            "Japão",
+            "maremoto"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-geography-3-021",
+          "word": "Times Square",
+          "forbidden": [
+            "Nova York",
+            "letreiros",
+            "Réveillon",
+            "Broadway",
+            "luzes"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-022",
+          "word": "Amsterdã",
+          "forbidden": [
+            "Holanda",
+            "canais",
+            "bicicletas",
+            "tulipas",
+            "Anne Frank"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-023",
+          "word": "Nova Zelândia",
+          "forbidden": [
+            "Senhor dos Anéis",
+            "kiwi",
+            "maori",
+            "Oceania",
+            "ovelhas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-024",
+          "word": "Tailândia",
+          "forbidden": [
+            "Bangkok",
+            "Phuket",
+            "elefantes",
+            "templos",
+            "pad thai"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-025",
+          "word": "Peru",
+          "forbidden": [
+            "Lima",
+            "Machu Picchu",
+            "incas",
+            "ceviche",
+            "lhama"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-026",
+          "word": "Irlanda",
+          "forbidden": [
+            "trevo",
+            "Dublin",
+            "verde",
+            "Saint Patrick",
+            "cerveja preta"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-027",
+          "word": "Noruega",
+          "forbidden": [
+            "fiordes",
+            "Oslo",
+            "aurora boreal",
+            "vikings",
+            "frio"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-028",
+          "word": "Bali",
+          "forbidden": [
+            "Indonésia",
+            "templos",
+            "surfe",
+            "ilha",
+            "Comer Rezar Amar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-029",
+          "word": "Lisboa",
+          "forbidden": [
+            "Portugal",
+            "bondinho",
+            "pastel de Belém",
+            "Tejo",
+            "fado"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-030",
+          "word": "Buenos Aires",
+          "forbidden": [
+            "Argentina",
+            "tango",
+            "Caminito",
+            "Obelisco",
+            "portenho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-031",
+          "word": "Porto de Galinhas",
+          "forbidden": [
+            "Pernambuco",
+            "piscinas naturais",
+            "jangada",
+            "praia",
+            "Ipojuca"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-032",
+          "word": "Paraty",
+          "forbidden": [
+            "Rio de Janeiro",
+            "colonial",
+            "Flip",
+            "pedras",
+            "cachaça"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-033",
+          "word": "Arco do Triunfo",
+          "forbidden": [
+            "Paris",
+            "Napoleão",
+            "Champs-Élysées",
+            "monumento",
+            "França"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-034",
+          "word": "Taj Mahal",
+          "forbidden": [
+            "Índia",
+            "mármore",
+            "mausoléu",
+            "branco",
+            "amor"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-035",
+          "word": "Monte Fuji",
+          "forbidden": [
+            "Japão",
+            "vulcão",
+            "neve",
+            "sagrado",
+            "Tóquio"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-036",
+          "word": "Saara",
+          "forbidden": [
+            "deserto",
+            "África",
+            "areia",
+            "camelo",
+            "dunas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-037",
+          "word": "Cordilheira dos Andes",
+          "forbidden": [
+            "montanhas",
+            "Chile",
+            "América do Sul",
+            "Aconcágua",
+            "neve"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-038",
+          "word": "Triângulo das Bermudas",
+          "forbidden": [
+            "desaparecimentos",
+            "mistério",
+            "navios",
+            "aviões",
+            "oceano"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-039",
+          "word": "Chile",
+          "forbidden": [
+            "Santiago",
+            "vinho",
+            "Andes",
+            "comprido",
+            "Atacama"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-040",
+          "word": "Fortaleza",
+          "forbidden": [
+            "Ceará",
+            "praia",
+            "Beach Park",
+            "Iracema",
+            "nordestina"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-geography-3-041",
+          "word": "Istambul",
+          "forbidden": [
+            "Turquia",
+            "Constantinopla",
+            "Europa e Ásia",
+            "Bósforo",
+            "mesquita"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-042",
+          "word": "Antártida",
+          "forbidden": [
+            "gelo",
+            "pinguins",
+            "polo sul",
+            "continente",
+            "pesquisa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-043",
+          "word": "Madagascar",
+          "forbidden": [
+            "ilha",
+            "África",
+            "lêmures",
+            "baobá",
+            "desenho animado"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-044",
+          "word": "Mongólia",
+          "forbidden": [
+            "Gengis Khan",
+            "estepe",
+            "Ulan Bator",
+            "nômades",
+            "yurt"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-045",
+          "word": "Nepal",
+          "forbidden": [
+            "Himalaia",
+            "Katmandu",
+            "Everest",
+            "sherpas",
+            "budismo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-046",
+          "word": "Pororoca",
+          "forbidden": [
+            "onda",
+            "rio",
+            "Amazonas",
+            "surfe",
+            "encontro"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-047",
+          "word": "Arquipélago",
+          "forbidden": [
+            "ilhas",
+            "várias",
+            "conjunto",
+            "grupo",
+            "mar"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-048",
+          "word": "Caatinga",
+          "forbidden": [
+            "sertão",
+            "seca",
+            "Nordeste",
+            "cactos",
+            "mandacaru"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-049",
+          "word": "Ilha de Páscoa",
+          "forbidden": [
+            "Moai",
+            "estátuas",
+            "cabeças",
+            "Chile",
+            "Pacífico"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-geography-3-050",
+          "word": "Stonehenge",
+          "forbidden": [
+            "Inglaterra",
+            "pedras",
+            "círculo",
+            "druidas",
+            "mistério"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ]
+}

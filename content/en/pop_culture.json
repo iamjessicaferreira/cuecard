@@ -1,0 +1,1825 @@
+{
+  "theme_id": "pop_culture",
+  "lang": "en",
+  "theme_name": "Pop Culture",
+  "decks": [
+    {
+      "deck_id": "en-pop_culture-1",
+      "name": "Deck 1",
+      "cards": [
+        {
+          "id": "en-pop_culture-1-001",
+          "word": "Harry Potter",
+          "forbidden": [
+            "wizard",
+            "Hogwarts",
+            "wand",
+            "scar",
+            "Hermione"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-002",
+          "word": "Titanic",
+          "forbidden": [
+            "ship",
+            "iceberg",
+            "Jack",
+            "Rose",
+            "sink"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-003",
+          "word": "Star Wars",
+          "forbidden": [
+            "Darth Vader",
+            "lightsaber",
+            "Jedi",
+            "Luke",
+            "galaxy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-004",
+          "word": "Batman",
+          "forbidden": [
+            "Gotham",
+            "bat",
+            "Bruce Wayne",
+            "Joker",
+            "Robin"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-005",
+          "word": "Spider-Man",
+          "forbidden": [
+            "web",
+            "Peter Parker",
+            "Marvel",
+            "Queens",
+            "bite"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-006",
+          "word": "Friends",
+          "forbidden": [
+            "Ross",
+            "Rachel",
+            "Central Perk",
+            "couch",
+            "sitcom"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-007",
+          "word": "Shrek",
+          "forbidden": [
+            "ogre",
+            "green",
+            "Donkey",
+            "Fiona",
+            "swamp"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-008",
+          "word": "The Lion King",
+          "forbidden": [
+            "Simba",
+            "Mufasa",
+            "Hakuna Matata",
+            "Scar",
+            "Pride Rock"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-009",
+          "word": "Netflix",
+          "forbidden": [
+            "streaming",
+            "binge",
+            "chill",
+            "series",
+            "subscription"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-010",
+          "word": "Pokémon",
+          "forbidden": [
+            "Pikachu",
+            "Ash",
+            "gotta catch",
+            "trainer",
+            "Game Boy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-011",
+          "word": "Super Mario",
+          "forbidden": [
+            "Nintendo",
+            "plumber",
+            "Luigi",
+            "mushroom",
+            "Princess Peach"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-012",
+          "word": "Barbie",
+          "forbidden": [
+            "doll",
+            "pink",
+            "Ken",
+            "Margot Robbie",
+            "Malibu"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-013",
+          "word": "Oscars",
+          "forbidden": [
+            "Academy Awards",
+            "statue",
+            "Hollywood",
+            "red carpet",
+            "best picture"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-014",
+          "word": "Frozen",
+          "forbidden": [
+            "Elsa",
+            "Anna",
+            "Olaf",
+            "Let It Go",
+            "snow"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-015",
+          "word": "The Simpsons",
+          "forbidden": [
+            "Homer",
+            "yellow",
+            "Bart",
+            "Springfield",
+            "D'oh"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-016",
+          "word": "Snow White",
+          "forbidden": [
+            "seven dwarfs",
+            "apple",
+            "mirror",
+            "queen",
+            "poison"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-017",
+          "word": "SpongeBob",
+          "forbidden": [
+            "Patrick",
+            "Bikini Bottom",
+            "pineapple",
+            "Squidward",
+            "Krabby Patty"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-018",
+          "word": "Superman",
+          "forbidden": [
+            "Clark Kent",
+            "cape",
+            "Krypton",
+            "Metropolis",
+            "fly"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-019",
+          "word": "Mickey Mouse",
+          "forbidden": [
+            "Disney",
+            "ears",
+            "Minnie",
+            "Goofy",
+            "cartoon"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-020",
+          "word": "Cinderella",
+          "forbidden": [
+            "glass slipper",
+            "pumpkin",
+            "midnight",
+            "stepmother",
+            "ball"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-1-021",
+          "word": "Lord of the Rings",
+          "forbidden": [
+            "Frodo",
+            "Gandalf",
+            "Tolkien",
+            "hobbit",
+            "Mordor"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-022",
+          "word": "The Matrix",
+          "forbidden": [
+            "Neo",
+            "red pill",
+            "Keanu Reeves",
+            "simulation",
+            "Morpheus"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-023",
+          "word": "Game of Thrones",
+          "forbidden": [
+            "dragons",
+            "Westeros",
+            "Jon Snow",
+            "Daenerys",
+            "winter is coming"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-024",
+          "word": "Breaking Bad",
+          "forbidden": [
+            "Walter White",
+            "Heisenberg",
+            "meth",
+            "Albuquerque",
+            "Jesse"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-025",
+          "word": "Stranger Things",
+          "forbidden": [
+            "Eleven",
+            "Upside Down",
+            "Hawkins",
+            "Demogorgon",
+            "1980s"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-026",
+          "word": "Sherlock Holmes",
+          "forbidden": [
+            "detective",
+            "Watson",
+            "Baker Street",
+            "pipe",
+            "elementary"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-027",
+          "word": "Jurassic Park",
+          "forbidden": [
+            "dinosaurs",
+            "T-Rex",
+            "Spielberg",
+            "island",
+            "amber"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-028",
+          "word": "Toy Story",
+          "forbidden": [
+            "Woody",
+            "Buzz Lightyear",
+            "to infinity and beyond",
+            "Pixar",
+            "Andy"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-029",
+          "word": "Back to the Future",
+          "forbidden": [
+            "DeLorean",
+            "Marty McFly",
+            "Doc Brown",
+            "time travel",
+            "88 mph"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-030",
+          "word": "Squid Game",
+          "forbidden": [
+            "Korean",
+            "Red Light Green Light",
+            "Netflix",
+            "dalgona",
+            "tracksuit"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-031",
+          "word": "The Avengers",
+          "forbidden": [
+            "Marvel",
+            "Thanos",
+            "Iron Man",
+            "Captain America",
+            "assemble"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-032",
+          "word": "Hamlet",
+          "forbidden": [
+            "Shakespeare",
+            "to be or not to be",
+            "Denmark",
+            "skull",
+            "prince"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-033",
+          "word": "The Godfather",
+          "forbidden": [
+            "mafia",
+            "Corleone",
+            "offer he can't refuse",
+            "Brando",
+            "Pacino"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-034",
+          "word": "Forrest Gump",
+          "forbidden": [
+            "box of chocolates",
+            "run",
+            "Tom Hanks",
+            "Jenny",
+            "bench"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-035",
+          "word": "The Hunger Games",
+          "forbidden": [
+            "Katniss",
+            "District 12",
+            "Capitol",
+            "tributes",
+            "mockingjay"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-036",
+          "word": "Twilight",
+          "forbidden": [
+            "Edward",
+            "Bella",
+            "vampire",
+            "werewolf",
+            "sparkle"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-037",
+          "word": "Jack Sparrow",
+          "forbidden": [
+            "pirate",
+            "Johnny Depp",
+            "Black Pearl",
+            "Caribbean",
+            "captain"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-038",
+          "word": "Indiana Jones",
+          "forbidden": [
+            "archaeologist",
+            "whip",
+            "hat",
+            "Harrison Ford",
+            "snakes"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-039",
+          "word": "The Office",
+          "forbidden": [
+            "Michael Scott",
+            "Dwight",
+            "Dunder Mifflin",
+            "Scranton",
+            "paper"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-040",
+          "word": "Wonder Woman",
+          "forbidden": [
+            "Diana",
+            "lasso",
+            "Amazon",
+            "Gal Gadot",
+            "DC"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-1-041",
+          "word": "Pulp Fiction",
+          "forbidden": [
+            "Tarantino",
+            "Uma Thurman",
+            "Travolta",
+            "briefcase",
+            "Royale with Cheese"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-042",
+          "word": "A Clockwork Orange",
+          "forbidden": [
+            "Kubrick",
+            "Alex",
+            "droogs",
+            "bowler hat",
+            "milk bar"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-043",
+          "word": "Don Quixote",
+          "forbidden": [
+            "Cervantes",
+            "windmills",
+            "Sancho Panza",
+            "knight",
+            "Spanish"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-044",
+          "word": "1984",
+          "forbidden": [
+            "George Orwell",
+            "Big Brother",
+            "dystopia",
+            "surveillance",
+            "Thought Police"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-045",
+          "word": "The Sopranos",
+          "forbidden": [
+            "Tony",
+            "mafia",
+            "New Jersey",
+            "HBO",
+            "therapist"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-046",
+          "word": "Moby Dick",
+          "forbidden": [
+            "whale",
+            "Captain Ahab",
+            "Melville",
+            "white",
+            "Call me Ishmael"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-047",
+          "word": "The Great Gatsby",
+          "forbidden": [
+            "Fitzgerald",
+            "Daisy",
+            "green light",
+            "1920s",
+            "parties"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-048",
+          "word": "Pride and Prejudice",
+          "forbidden": [
+            "Jane Austen",
+            "Mr. Darcy",
+            "Elizabeth Bennet",
+            "Regency",
+            "marriage"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-049",
+          "word": "Blade Runner",
+          "forbidden": [
+            "replicants",
+            "Harrison Ford",
+            "Ridley Scott",
+            "androids",
+            "rain"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-1-050",
+          "word": "Psycho",
+          "forbidden": [
+            "Hitchcock",
+            "shower",
+            "Norman Bates",
+            "motel",
+            "mother"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "en-pop_culture-2",
+      "name": "Deck 2",
+      "cards": [
+        {
+          "id": "en-pop_culture-2-001",
+          "word": "Hulk",
+          "forbidden": [
+            "green",
+            "Bruce Banner",
+            "smash",
+            "angry",
+            "Marvel"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-002",
+          "word": "Finding Nemo",
+          "forbidden": [
+            "clownfish",
+            "Dory",
+            "ocean",
+            "dad",
+            "Pixar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-003",
+          "word": "Minions",
+          "forbidden": [
+            "yellow",
+            "Gru",
+            "banana",
+            "Despicable Me",
+            "goggles"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-004",
+          "word": "Scooby-Doo",
+          "forbidden": [
+            "dog",
+            "Shaggy",
+            "Velma",
+            "Mystery Machine",
+            "snacks"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-005",
+          "word": "Tom and Jerry",
+          "forbidden": [
+            "cat",
+            "mouse",
+            "chase",
+            "cartoon",
+            "cheese"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-006",
+          "word": "Pinocchio",
+          "forbidden": [
+            "nose",
+            "lie",
+            "puppet",
+            "Geppetto",
+            "cricket"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-007",
+          "word": "James Bond",
+          "forbidden": [
+            "007",
+            "spy",
+            "martini",
+            "shaken",
+            "MI6"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-008",
+          "word": "Peppa Pig",
+          "forbidden": [
+            "oink",
+            "pink",
+            "George",
+            "muddy puddles",
+            "British"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-009",
+          "word": "Inside Out",
+          "forbidden": [
+            "emotions",
+            "Joy",
+            "Sadness",
+            "Anger",
+            "Pixar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-010",
+          "word": "Smurfs",
+          "forbidden": [
+            "blue",
+            "mushroom",
+            "Gargamel",
+            "village",
+            "little"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-011",
+          "word": "Red Riding Hood",
+          "forbidden": [
+            "wolf",
+            "grandma",
+            "basket",
+            "woods",
+            "big eyes"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-012",
+          "word": "Joker",
+          "forbidden": [
+            "Batman",
+            "clown",
+            "villain",
+            "Joaquin Phoenix",
+            "smile"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-013",
+          "word": "Sesame Street",
+          "forbidden": [
+            "Elmo",
+            "Big Bird",
+            "Cookie Monster",
+            "Muppets",
+            "alphabet"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-014",
+          "word": "Winnie the Pooh",
+          "forbidden": [
+            "honey",
+            "Piglet",
+            "Tigger",
+            "Eeyore",
+            "bear"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-015",
+          "word": "Bugs Bunny",
+          "forbidden": [
+            "What's up Doc",
+            "carrot",
+            "rabbit",
+            "Looney Tunes",
+            "Elmer Fudd"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-016",
+          "word": "Garfield",
+          "forbidden": [
+            "cat",
+            "lasagna",
+            "orange",
+            "Mondays",
+            "Odie"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-017",
+          "word": "Aladdin",
+          "forbidden": [
+            "genie",
+            "lamp",
+            "magic carpet",
+            "Jasmine",
+            "three wishes"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-018",
+          "word": "Peter Pan",
+          "forbidden": [
+            "Neverland",
+            "Tinker Bell",
+            "Captain Hook",
+            "fly",
+            "grow up"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-019",
+          "word": "Tarzan",
+          "forbidden": [
+            "jungle",
+            "apes",
+            "Jane",
+            "vine",
+            "yell"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-020",
+          "word": "Kermit the Frog",
+          "forbidden": [
+            "Muppets",
+            "green",
+            "Miss Piggy",
+            "puppet",
+            "It's not easy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-2-021",
+          "word": "Interstellar",
+          "forbidden": [
+            "Nolan",
+            "black hole",
+            "space",
+            "Matthew McConaughey",
+            "time"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-022",
+          "word": "Oppenheimer",
+          "forbidden": [
+            "atomic bomb",
+            "Nolan",
+            "Cillian Murphy",
+            "Manhattan Project",
+            "physicist"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-023",
+          "word": "Money Heist",
+          "forbidden": [
+            "Professor",
+            "Dalí mask",
+            "robbery",
+            "Bella Ciao",
+            "Spanish"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-024",
+          "word": "Grey's Anatomy",
+          "forbidden": [
+            "Meredith",
+            "hospital",
+            "surgeons",
+            "Seattle",
+            "McDreamy"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-025",
+          "word": "Wednesday",
+          "forbidden": [
+            "Addams Family",
+            "Jenna Ortega",
+            "Nevermore",
+            "dance",
+            "Thing"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-026",
+          "word": "Percy Jackson",
+          "forbidden": [
+            "demigod",
+            "Poseidon",
+            "camp",
+            "Greek gods",
+            "Annabeth"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-027",
+          "word": "Captain America",
+          "forbidden": [
+            "shield",
+            "Steve Rogers",
+            "Avengers",
+            "stars",
+            "Marvel"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-028",
+          "word": "Mad Max",
+          "forbidden": [
+            "desert",
+            "Furiosa",
+            "road",
+            "cars",
+            "apocalypse"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-029",
+          "word": "Jaws",
+          "forbidden": [
+            "shark",
+            "Spielberg",
+            "beach",
+            "bigger boat",
+            "music"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-030",
+          "word": "Gladiator",
+          "forbidden": [
+            "Russell Crowe",
+            "Rome",
+            "arena",
+            "Maximus",
+            "Colosseum"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-031",
+          "word": "Black Panther",
+          "forbidden": [
+            "Wakanda",
+            "Chadwick Boseman",
+            "Marvel",
+            "king",
+            "vibranium"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-032",
+          "word": "Dune",
+          "forbidden": [
+            "Arrakis",
+            "desert",
+            "Timothée Chalamet",
+            "spice",
+            "sandworms"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-033",
+          "word": "The Crown",
+          "forbidden": [
+            "Queen",
+            "Elizabeth",
+            "Netflix",
+            "royal",
+            "Buckingham"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-034",
+          "word": "Lost",
+          "forbidden": [
+            "island",
+            "plane crash",
+            "numbers",
+            "Locke",
+            "hatch"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-035",
+          "word": "Rick and Morty",
+          "forbidden": [
+            "scientist",
+            "grandson",
+            "portal",
+            "Pickle",
+            "multiverse"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-036",
+          "word": "Bridgerton",
+          "forbidden": [
+            "Netflix",
+            "duke",
+            "Lady Whistledown",
+            "Regency",
+            "romance"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-037",
+          "word": "Narnia",
+          "forbidden": [
+            "wardrobe",
+            "Aslan",
+            "lion",
+            "witch",
+            "C.S. Lewis"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-038",
+          "word": "Fight Club",
+          "forbidden": [
+            "Brad Pitt",
+            "Tyler Durden",
+            "rules",
+            "Edward Norton",
+            "soap"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-039",
+          "word": "Wolverine",
+          "forbidden": [
+            "claws",
+            "X-Men",
+            "Hugh Jackman",
+            "Logan",
+            "adamantium"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-040",
+          "word": "Home Alone",
+          "forbidden": [
+            "Kevin",
+            "Christmas",
+            "burglars",
+            "Macaulay Culkin",
+            "traps"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-2-041",
+          "word": "The Shining",
+          "forbidden": [
+            "Jack Nicholson",
+            "hotel",
+            "twins",
+            "Here's Johnny",
+            "Stephen King"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-042",
+          "word": "Kafka",
+          "forbidden": [
+            "Metamorphosis",
+            "bug",
+            "Czech",
+            "Prague",
+            "absurd"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-043",
+          "word": "Stephen King",
+          "forbidden": [
+            "horror",
+            "It",
+            "Maine",
+            "clown",
+            "Carrie"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-044",
+          "word": "Agatha Christie",
+          "forbidden": [
+            "Poirot",
+            "mystery",
+            "Orient Express",
+            "murder",
+            "British"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-045",
+          "word": "Tolkien",
+          "forbidden": [
+            "Lord of the Rings",
+            "Hobbit",
+            "Middle-earth",
+            "Elvish",
+            "Oxford"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-046",
+          "word": "Hitchcock",
+          "forbidden": [
+            "Psycho",
+            "suspense",
+            "The Birds",
+            "director",
+            "Vertigo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-047",
+          "word": "Stanley Kubrick",
+          "forbidden": [
+            "2001",
+            "The Shining",
+            "director",
+            "Clockwork Orange",
+            "perfectionist"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-048",
+          "word": "Twin Peaks",
+          "forbidden": [
+            "David Lynch",
+            "Laura Palmer",
+            "cherry pie",
+            "coffee",
+            "owls"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-049",
+          "word": "Citizen Kane",
+          "forbidden": [
+            "Rosebud",
+            "Orson Welles",
+            "newspaper",
+            "sled",
+            "greatest film"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-2-050",
+          "word": "Jane Austen",
+          "forbidden": [
+            "Pride and Prejudice",
+            "Mr. Darcy",
+            "Emma",
+            "English",
+            "Regency"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "en-pop_culture-3",
+      "name": "Deck 3",
+      "cards": [
+        {
+          "id": "en-pop_culture-3-001",
+          "word": "Avatar",
+          "forbidden": [
+            "blue",
+            "Pandora",
+            "Na'vi",
+            "James Cameron",
+            "3D"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-002",
+          "word": "Iron Man",
+          "forbidden": [
+            "Tony Stark",
+            "suit",
+            "Marvel",
+            "Robert Downey Jr.",
+            "Avengers"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-003",
+          "word": "Rapunzel",
+          "forbidden": [
+            "long hair",
+            "tower",
+            "Tangled",
+            "braid",
+            "let down"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-004",
+          "word": "Moana",
+          "forbidden": [
+            "ocean",
+            "Maui",
+            "Polynesian",
+            "boat",
+            "Dwayne Johnson"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-005",
+          "word": "The Little Mermaid",
+          "forbidden": [
+            "Ariel",
+            "Ursula",
+            "Sebastian",
+            "fins",
+            "under the sea"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-006",
+          "word": "Sonic",
+          "forbidden": [
+            "hedgehog",
+            "blue",
+            "Sega",
+            "fast",
+            "rings"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-007",
+          "word": "Pac-Man",
+          "forbidden": [
+            "dots",
+            "ghosts",
+            "yellow",
+            "eat",
+            "maze"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-008",
+          "word": "Minecraft",
+          "forbidden": [
+            "blocks",
+            "creeper",
+            "build",
+            "pickaxe",
+            "cube"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-009",
+          "word": "Ninja Turtles",
+          "forbidden": [
+            "pizza",
+            "sewer",
+            "Splinter",
+            "Leonardo",
+            "shells"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-010",
+          "word": "Power Rangers",
+          "forbidden": [
+            "colors",
+            "Megazord",
+            "red",
+            "morph",
+            "Go Go"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-011",
+          "word": "The Flintstones",
+          "forbidden": [
+            "Fred",
+            "Barney",
+            "Bedrock",
+            "Yabba Dabba Doo",
+            "Wilma"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-012",
+          "word": "Zorro",
+          "forbidden": [
+            "mask",
+            "sword",
+            "Z",
+            "cape",
+            "horse"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-013",
+          "word": "Godzilla",
+          "forbidden": [
+            "monster",
+            "Japan",
+            "giant lizard",
+            "Tokyo",
+            "radioactive"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-014",
+          "word": "Thor",
+          "forbidden": [
+            "hammer",
+            "lightning",
+            "Asgard",
+            "Loki",
+            "god"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-015",
+          "word": "Hello Kitty",
+          "forbidden": [
+            "Sanrio",
+            "bow",
+            "cat",
+            "Japanese",
+            "no mouth"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-016",
+          "word": "Ghostbusters",
+          "forbidden": [
+            "Who you gonna call",
+            "proton pack",
+            "Bill Murray",
+            "Stay Puft",
+            "Slimer"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-017",
+          "word": "E.T.",
+          "forbidden": [
+            "alien",
+            "phone home",
+            "Spielberg",
+            "bicycle",
+            "finger"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-018",
+          "word": "King Kong",
+          "forbidden": [
+            "gorilla",
+            "Empire State Building",
+            "giant",
+            "ape",
+            "Skull Island"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-019",
+          "word": "Dracula",
+          "forbidden": [
+            "vampire",
+            "Transylvania",
+            "fangs",
+            "Count",
+            "blood"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-020",
+          "word": "Cookie Monster",
+          "forbidden": [
+            "blue",
+            "Sesame Street",
+            "Me want",
+            "Om nom nom",
+            "Muppet"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-pop_culture-3-021",
+          "word": "Dragon Ball",
+          "forbidden": [
+            "Goku",
+            "Kamehameha",
+            "Super Saiyan",
+            "Vegeta",
+            "anime"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-022",
+          "word": "Naruto",
+          "forbidden": [
+            "ninja",
+            "Konoha",
+            "Hokage",
+            "Sasuke",
+            "fox"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-023",
+          "word": "Mulan",
+          "forbidden": [
+            "China",
+            "warrior",
+            "Mushu",
+            "dragon",
+            "army"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-024",
+          "word": "Fast & Furious",
+          "forbidden": [
+            "Vin Diesel",
+            "family",
+            "cars",
+            "racing",
+            "Toretto"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-025",
+          "word": "Seinfeld",
+          "forbidden": [
+            "Jerry",
+            "Kramer",
+            "show about nothing",
+            "George",
+            "sitcom"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-026",
+          "word": "Succession",
+          "forbidden": [
+            "Logan Roy",
+            "HBO",
+            "Kendall",
+            "media empire",
+            "siblings"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-027",
+          "word": "Ted Lasso",
+          "forbidden": [
+            "soccer coach",
+            "Apple TV",
+            "biscuits",
+            "believe",
+            "Richmond"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-028",
+          "word": "The Walking Dead",
+          "forbidden": [
+            "zombies",
+            "Rick Grimes",
+            "apocalypse",
+            "Negan",
+            "AMC"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-029",
+          "word": "Gilmore Girls",
+          "forbidden": [
+            "Lorelai",
+            "Rory",
+            "Stars Hollow",
+            "coffee",
+            "mother-daughter"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-030",
+          "word": "Mean Girls",
+          "forbidden": [
+            "Regina George",
+            "Plastics",
+            "pink",
+            "Wednesdays",
+            "fetch"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-031",
+          "word": "Grease",
+          "forbidden": [
+            "Danny",
+            "Sandy",
+            "John Travolta",
+            "Pink Ladies",
+            "summer nights"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-032",
+          "word": "Star Trek",
+          "forbidden": [
+            "Spock",
+            "Enterprise",
+            "Captain Kirk",
+            "Vulcan",
+            "beam me up"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-033",
+          "word": "Doctor Who",
+          "forbidden": [
+            "TARDIS",
+            "time lord",
+            "police box",
+            "Daleks",
+            "British"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-034",
+          "word": "Hannibal Lecter",
+          "forbidden": [
+            "cannibal",
+            "Silence of the Lambs",
+            "Anthony Hopkins",
+            "mask",
+            "Clarice"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-035",
+          "word": "Frankenstein",
+          "forbidden": [
+            "monster",
+            "Mary Shelley",
+            "scientist",
+            "bolts",
+            "lightning"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-036",
+          "word": "Willy Wonka",
+          "forbidden": [
+            "chocolate factory",
+            "Oompa Loompas",
+            "golden ticket",
+            "Charlie",
+            "candy"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-037",
+          "word": "Mary Poppins",
+          "forbidden": [
+            "umbrella",
+            "nanny",
+            "Supercalifragilistic",
+            "spoonful of sugar",
+            "Julie Andrews"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-038",
+          "word": "The Wizard of Oz",
+          "forbidden": [
+            "Dorothy",
+            "yellow brick road",
+            "Toto",
+            "ruby slippers",
+            "Kansas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-039",
+          "word": "The Breakfast Club",
+          "forbidden": [
+            "detention",
+            "1980s",
+            "John Hughes",
+            "Saturday",
+            "students"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-040",
+          "word": "Rocky",
+          "forbidden": [
+            "Stallone",
+            "boxing",
+            "Philadelphia",
+            "steps",
+            "Eye of the Tiger"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-pop_culture-3-041",
+          "word": "García Márquez",
+          "forbidden": [
+            "One Hundred Years of Solitude",
+            "Colombian",
+            "magical realism",
+            "Nobel",
+            "Gabo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-042",
+          "word": "Tarantino",
+          "forbidden": [
+            "Pulp Fiction",
+            "Kill Bill",
+            "director",
+            "feet",
+            "violence"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-043",
+          "word": "The Odyssey",
+          "forbidden": [
+            "Homer",
+            "Cyclops",
+            "Greek",
+            "journey",
+            "Ithaca"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-044",
+          "word": "Les Misérables",
+          "forbidden": [
+            "Jean Valjean",
+            "Victor Hugo",
+            "French",
+            "musical",
+            "bread"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-045",
+          "word": "Casablanca",
+          "forbidden": [
+            "Bogart",
+            "here's looking at you",
+            "kid",
+            "Rick's café",
+            "Morocco"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-046",
+          "word": "Atticus Finch",
+          "forbidden": [
+            "To Kill a Mockingbird",
+            "lawyer",
+            "Harper Lee",
+            "Scout",
+            "Alabama"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-047",
+          "word": "Wes Anderson",
+          "forbidden": [
+            "symmetry",
+            "pastel",
+            "Grand Budapest Hotel",
+            "quirky",
+            "director"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-048",
+          "word": "Mad Men",
+          "forbidden": [
+            "Don Draper",
+            "advertising",
+            "1960s",
+            "AMC",
+            "whiskey"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-049",
+          "word": "The Twilight Zone",
+          "forbidden": [
+            "Rod Serling",
+            "eerie",
+            "black and white",
+            "anthology",
+            "doo-doo-doo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-pop_culture-3-050",
+          "word": "City of God",
+          "forbidden": [
+            "Brazil",
+            "Rio",
+            "favela",
+            "Li'l Zé",
+            "Rocket"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ]
+}

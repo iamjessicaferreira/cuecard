@@ -1,29 +1,1824 @@
 {
-  "version": 1,
   "theme_id": "history",
   "lang": "en",
   "theme_name": "History",
   "decks": [
     {
-      "deck_id": "history-en-1",
-      "name": "Empire",
+      "deck_id": "en-history-1",
+      "name": "Deck 1",
       "cards": [
-        { "id": "history-en-1-01", "word": "Cleopatra", "forbidden": ["Egypt", "queen", "Nile", "Rome", "asp"], "difficulty": "medium" },
-        { "id": "history-en-1-02", "word": "Viking", "forbidden": ["ship", "Norse", "raid", "helmet", "fjord"], "difficulty": "easy" },
-        { "id": "history-en-1-03", "word": "Castle", "forbidden": ["moat", "knight", "tower", "drawbridge", "medieval"], "difficulty": "easy" },
-        { "id": "history-en-1-04", "word": "Revolution", "forbidden": ["rebel", "overthrow", "protest", "uprising", "barricade"], "difficulty": "hard" },
-        { "id": "history-en-1-05", "word": "Mummy", "forbidden": ["bandage", "tomb", "Egypt", "pharaoh", "linen"], "difficulty": "easy" }
+        {
+          "id": "en-history-1-001",
+          "word": "Pharaoh",
+          "forbidden": [
+            "Egypt",
+            "pyramid",
+            "king",
+            "Tutankhamun",
+            "mummy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-002",
+          "word": "Cleopatra",
+          "forbidden": [
+            "Egypt",
+            "queen",
+            "Julius Caesar",
+            "Mark Antony",
+            "asp"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-003",
+          "word": "Napoleon",
+          "forbidden": [
+            "France",
+            "short",
+            "emperor",
+            "Waterloo",
+            "hat"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-004",
+          "word": "Knight",
+          "forbidden": [
+            "armor",
+            "horse",
+            "sword",
+            "shining",
+            "Sir"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-005",
+          "word": "Castle",
+          "forbidden": [
+            "moat",
+            "king",
+            "towers",
+            "drawbridge",
+            "medieval"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-006",
+          "word": "Vikings",
+          "forbidden": [
+            "Norse",
+            "longship",
+            "Scandinavia",
+            "helmets",
+            "raid"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-007",
+          "word": "Dinosaurs",
+          "forbidden": [
+            "Jurassic",
+            "extinct",
+            "fossils",
+            "T-Rex",
+            "asteroid"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-008",
+          "word": "Mummy",
+          "forbidden": [
+            "Egypt",
+            "wrapped",
+            "bandages",
+            "tomb",
+            "pharaoh"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-009",
+          "word": "Crown",
+          "forbidden": [
+            "king",
+            "queen",
+            "jewels",
+            "head",
+            "royal"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-010",
+          "word": "Caveman",
+          "forbidden": [
+            "prehistoric",
+            "club",
+            "Flintstones",
+            "fire",
+            "Stone Age"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-011",
+          "word": "Pirate",
+          "forbidden": [
+            "ship",
+            "eye patch",
+            "treasure",
+            "parrot",
+            "Arrr"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-012",
+          "word": "Wheel",
+          "forbidden": [
+            "round",
+            "invention",
+            "roll",
+            "cart",
+            "axle"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-013",
+          "word": "Berlin Wall",
+          "forbidden": [
+            "Germany",
+            "fall",
+            "1989",
+            "Cold War",
+            "divided"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-014",
+          "word": "Christopher Columbus",
+          "forbidden": [
+            "1492",
+            "America",
+            "sailed",
+            "Niña",
+            "Spain"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-015",
+          "word": "Neil Armstrong",
+          "forbidden": [
+            "Moon",
+            "astronaut",
+            "Apollo",
+            "one small step",
+            "first"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-016",
+          "word": "Abraham Lincoln",
+          "forbidden": [
+            "president",
+            "top hat",
+            "beard",
+            "Civil War",
+            "Gettysburg"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-017",
+          "word": "Cowboy",
+          "forbidden": [
+            "Wild West",
+            "horse",
+            "hat",
+            "lasso",
+            "ranch"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-018",
+          "word": "Samurai",
+          "forbidden": [
+            "Japan",
+            "sword",
+            "katana",
+            "warrior",
+            "honor"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-019",
+          "word": "George Washington",
+          "forbidden": [
+            "first president",
+            "cherry tree",
+            "dollar bill",
+            "general",
+            "Mount Vernon"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-020",
+          "word": "Albert Einstein",
+          "forbidden": [
+            "relativity",
+            "E=mc²",
+            "physicist",
+            "genius",
+            "crazy hair"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-1-021",
+          "word": "French Revolution",
+          "forbidden": [
+            "Bastille",
+            "guillotine",
+            "1789",
+            "Marie Antoinette",
+            "liberty"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-022",
+          "word": "Cold War",
+          "forbidden": [
+            "USA",
+            "Soviet Union",
+            "nuclear",
+            "Iron Curtain",
+            "communism"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-023",
+          "word": "Roman Empire",
+          "forbidden": [
+            "Caesar",
+            "Augustus",
+            "legions",
+            "gladiators",
+            "Latin"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-024",
+          "word": "Middle Ages",
+          "forbidden": [
+            "medieval",
+            "castles",
+            "knights",
+            "plague",
+            "feudal"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-025",
+          "word": "Industrial Revolution",
+          "forbidden": [
+            "factories",
+            "steam engine",
+            "Britain",
+            "coal",
+            "machines"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-026",
+          "word": "Martin Luther King",
+          "forbidden": [
+            "I Have a Dream",
+            "civil rights",
+            "speech",
+            "Montgomery",
+            "Baptist"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-027",
+          "word": "Gandhi",
+          "forbidden": [
+            "India",
+            "nonviolence",
+            "independence",
+            "salt march",
+            "glasses"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-028",
+          "word": "Nelson Mandela",
+          "forbidden": [
+            "South Africa",
+            "apartheid",
+            "prison",
+            "president",
+            "Madiba"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-029",
+          "word": "Joan of Arc",
+          "forbidden": [
+            "France",
+            "burned",
+            "saint",
+            "Orléans",
+            "maid"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-030",
+          "word": "Marco Polo",
+          "forbidden": [
+            "Venice",
+            "China",
+            "explorer",
+            "Silk Road",
+            "Kublai Khan"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-031",
+          "word": "Aztecs",
+          "forbidden": [
+            "Mexico",
+            "Tenochtitlan",
+            "Montezuma",
+            "empire",
+            "temples"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-032",
+          "word": "Trojan Horse",
+          "forbidden": [
+            "Odysseus",
+            "Greeks",
+            "wooden",
+            "gift",
+            "inside"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-033",
+          "word": "Declaration of Independence",
+          "forbidden": [
+            "1776",
+            "Jefferson",
+            "July 4th",
+            "signed",
+            "Founding Fathers"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-034",
+          "word": "Boston Tea Party",
+          "forbidden": [
+            "Sons of Liberty",
+            "harbor",
+            "taxes",
+            "colonists",
+            "protest"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-035",
+          "word": "Henry VIII",
+          "forbidden": [
+            "six wives",
+            "Tudor",
+            "England",
+            "king",
+            "Anne Boleyn"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-036",
+          "word": "Gold Rush",
+          "forbidden": [
+            "California",
+            "1849",
+            "miners",
+            "panning",
+            "forty-niners"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-037",
+          "word": "Space Race",
+          "forbidden": [
+            "Soviet Union",
+            "NASA",
+            "Moon",
+            "Sputnik",
+            "astronauts"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-038",
+          "word": "Moon landing",
+          "forbidden": [
+            "Apollo 11",
+            "1969",
+            "Armstrong",
+            "one small step",
+            "NASA"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-039",
+          "word": "Wright brothers",
+          "forbidden": [
+            "airplane",
+            "first flight",
+            "Kitty Hawk",
+            "Orville",
+            "Wilbur"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-040",
+          "word": "Wild West",
+          "forbidden": [
+            "cowboys",
+            "outlaws",
+            "saloon",
+            "sheriff",
+            "frontier"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-1-041",
+          "word": "Magna Carta",
+          "forbidden": [
+            "England",
+            "King John",
+            "1215",
+            "rights",
+            "document"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-042",
+          "word": "Silk Road",
+          "forbidden": [
+            "trade",
+            "China",
+            "caravans",
+            "Marco Polo",
+            "route"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-043",
+          "word": "Pompeii",
+          "forbidden": [
+            "Vesuvius",
+            "volcano",
+            "ash",
+            "Roman",
+            "buried"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-044",
+          "word": "Mesopotamia",
+          "forbidden": [
+            "Tigris",
+            "Euphrates",
+            "Sumerians",
+            "cuneiform",
+            "cradle of civilization"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-045",
+          "word": "Rosetta Stone",
+          "forbidden": [
+            "hieroglyphs",
+            "Egypt",
+            "British Museum",
+            "translate",
+            "Champollion"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-046",
+          "word": "Treaty of Versailles",
+          "forbidden": [
+            "World War I",
+            "Germany",
+            "1919",
+            "peace",
+            "France"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-047",
+          "word": "Byzantine Empire",
+          "forbidden": [
+            "Constantinople",
+            "Justinian",
+            "Eastern Roman",
+            "Orthodox",
+            "Istanbul"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-048",
+          "word": "Phoenicians",
+          "forbidden": [
+            "alphabet",
+            "sailors",
+            "traders",
+            "purple dye",
+            "Carthage"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-049",
+          "word": "Iron Curtain",
+          "forbidden": [
+            "Churchill",
+            "Europe",
+            "Cold War",
+            "Soviet",
+            "divide"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-1-050",
+          "word": "Enlightenment",
+          "forbidden": [
+            "reason",
+            "Voltaire",
+            "philosophers",
+            "18th century",
+            "Locke"
+          ],
+          "difficulty": "hard"
+        }
       ]
     },
     {
-      "deck_id": "history-en-2",
-      "name": "Relic",
+      "deck_id": "en-history-2",
+      "name": "Deck 2",
       "cards": [
-        { "id": "history-en-2-01", "word": "Knight", "forbidden": ["armor", "sword", "horse", "lance", "shield"], "difficulty": "easy" },
-        { "id": "history-en-2-02", "word": "Colosseum", "forbidden": ["Rome", "gladiator", "arena", "ancient", "crowd"], "difficulty": "medium" },
-        { "id": "history-en-2-03", "word": "Samurai", "forbidden": ["Japan", "sword", "warrior", "honor", "armor"], "difficulty": "medium" },
-        { "id": "history-en-2-04", "word": "Treasure", "forbidden": ["chest", "gold", "map", "buried", "coins"], "difficulty": "easy" },
-        { "id": "history-en-2-05", "word": "Crown", "forbidden": ["king", "jewel", "royal", "head", "throne"], "difficulty": "easy" }
+        {
+          "id": "en-history-2-001",
+          "word": "King Arthur",
+          "forbidden": [
+            "Round Table",
+            "Excalibur",
+            "Merlin",
+            "Camelot",
+            "knights"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-002",
+          "word": "Robin Hood",
+          "forbidden": [
+            "Sherwood Forest",
+            "steal from the rich",
+            "arrow",
+            "Little John",
+            "Nottingham"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-003",
+          "word": "Sword",
+          "forbidden": [
+            "blade",
+            "knight",
+            "sharp",
+            "sheath",
+            "fight"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-004",
+          "word": "Armor",
+          "forbidden": [
+            "metal",
+            "knight",
+            "protect",
+            "helmet",
+            "suit"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-005",
+          "word": "Throne",
+          "forbidden": [
+            "king",
+            "chair",
+            "queen",
+            "sit",
+            "royal"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-006",
+          "word": "Sphinx",
+          "forbidden": [
+            "Egypt",
+            "lion",
+            "riddle",
+            "Giza",
+            "nose"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-007",
+          "word": "Stone Age",
+          "forbidden": [
+            "prehistoric",
+            "tools",
+            "flint",
+            "cavemen",
+            "hunters"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-008",
+          "word": "Queen Elizabeth",
+          "forbidden": [
+            "England",
+            "corgis",
+            "Buckingham Palace",
+            "crown",
+            "monarch"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-009",
+          "word": "Emperor",
+          "forbidden": [
+            "empire",
+            "ruler",
+            "Rome",
+            "Napoleon",
+            "crown"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-010",
+          "word": "Fossil",
+          "forbidden": [
+            "dinosaur",
+            "bones",
+            "rock",
+            "imprint",
+            "paleontologist"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-011",
+          "word": "Archaeologist",
+          "forbidden": [
+            "dig",
+            "ruins",
+            "Indiana Jones",
+            "bones",
+            "artifacts"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-012",
+          "word": "Telephone",
+          "forbidden": [
+            "Alexander Graham Bell",
+            "call",
+            "ring",
+            "dial",
+            "hello"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-013",
+          "word": "Light bulb",
+          "forbidden": [
+            "Edison",
+            "electricity",
+            "invention",
+            "idea",
+            "glow"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-014",
+          "word": "Coin",
+          "forbidden": [
+            "money",
+            "penny",
+            "metal",
+            "flip",
+            "heads or tails"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-015",
+          "word": "Army",
+          "forbidden": [
+            "soldiers",
+            "troops",
+            "general",
+            "military",
+            "march"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-016",
+          "word": "Calendar",
+          "forbidden": [
+            "days",
+            "months",
+            "year",
+            "dates",
+            "Gregorian"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-017",
+          "word": "Mammoth",
+          "forbidden": [
+            "woolly",
+            "elephant",
+            "tusks",
+            "ice age",
+            "extinct"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-018",
+          "word": "Shield",
+          "forbidden": [
+            "protect",
+            "knight",
+            "sword",
+            "defend",
+            "Captain America"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-019",
+          "word": "Catapult",
+          "forbidden": [
+            "launch",
+            "siege",
+            "castle",
+            "throw",
+            "rocks"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-020",
+          "word": "Ninja",
+          "forbidden": [
+            "Japan",
+            "black",
+            "stealth",
+            "throwing star",
+            "mask"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-2-021",
+          "word": "World War I",
+          "forbidden": [
+            "1914",
+            "trenches",
+            "Archduke Ferdinand",
+            "Allies",
+            "Somme"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-022",
+          "word": "Monarchy",
+          "forbidden": [
+            "king",
+            "queen",
+            "royal",
+            "throne",
+            "crown"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-023",
+          "word": "Charles Darwin",
+          "forbidden": [
+            "evolution",
+            "Galápagos",
+            "natural selection",
+            "Origin of Species",
+            "finches"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-024",
+          "word": "Galileo",
+          "forbidden": [
+            "telescope",
+            "astronomer",
+            "Earth moves",
+            "Italian",
+            "Inquisition"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-025",
+          "word": "Socrates",
+          "forbidden": [
+            "philosopher",
+            "Greek",
+            "Plato",
+            "hemlock",
+            "questions"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-026",
+          "word": "Alexander the Great",
+          "forbidden": [
+            "Macedonia",
+            "conquered",
+            "Aristotle",
+            "empire",
+            "young"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-027",
+          "word": "Julius Caesar",
+          "forbidden": [
+            "Rome",
+            "Brutus",
+            "Et tu",
+            "Ides of March",
+            "Cleopatra"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-028",
+          "word": "Tutankhamun",
+          "forbidden": [
+            "King Tut",
+            "pharaoh",
+            "boy",
+            "gold mask",
+            "tomb"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-029",
+          "word": "Feudalism",
+          "forbidden": [
+            "lords",
+            "peasants",
+            "serfs",
+            "vassals",
+            "land"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-030",
+          "word": "Crusades",
+          "forbidden": [
+            "Jerusalem",
+            "knights",
+            "holy war",
+            "Christians",
+            "Middle Ages"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-031",
+          "word": "Black Death",
+          "forbidden": [
+            "plague",
+            "rats",
+            "fleas",
+            "Middle Ages",
+            "Europe"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-032",
+          "word": "Marie Curie",
+          "forbidden": [
+            "radioactivity",
+            "Nobel Prize",
+            "scientist",
+            "Polish",
+            "radium"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-033",
+          "word": "Russian Revolution",
+          "forbidden": [
+            "Lenin",
+            "czar",
+            "Bolsheviks",
+            "1917",
+            "communism"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-034",
+          "word": "Benjamin Franklin",
+          "forbidden": [
+            "kite",
+            "lightning",
+            "$100 bill",
+            "Founding Father",
+            "inventor"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-035",
+          "word": "Paul Revere",
+          "forbidden": [
+            "midnight ride",
+            "The British are coming",
+            "lanterns",
+            "horse",
+            "Boston"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-036",
+          "word": "Winston Churchill",
+          "forbidden": [
+            "Britain",
+            "prime minister",
+            "cigar",
+            "World War II",
+            "V for victory"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-037",
+          "word": "Queen Victoria",
+          "forbidden": [
+            "longest reign",
+            "Britain",
+            "19th century",
+            "Albert",
+            "empire"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-038",
+          "word": "Isaac Newton",
+          "forbidden": [
+            "apple",
+            "gravity",
+            "physics",
+            "laws",
+            "English"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-039",
+          "word": "Mayflower",
+          "forbidden": [
+            "Pilgrims",
+            "ship",
+            "Plymouth",
+            "1620",
+            "Thanksgiving"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-040",
+          "word": "Thomas Edison",
+          "forbidden": [
+            "light bulb",
+            "inventor",
+            "phonograph",
+            "Menlo Park",
+            "Tesla"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-2-041",
+          "word": "Bastille",
+          "forbidden": [
+            "prison",
+            "Paris",
+            "July 14",
+            "storming",
+            "French Revolution"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-042",
+          "word": "Protestant Reformation",
+          "forbidden": [
+            "Martin Luther",
+            "95 Theses",
+            "church",
+            "Catholic",
+            "Germany"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-043",
+          "word": "Genghis Khan",
+          "forbidden": [
+            "Mongol",
+            "empire",
+            "conqueror",
+            "horses",
+            "Asia"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-044",
+          "word": "Sparta",
+          "forbidden": [
+            "warriors",
+            "300",
+            "Leonidas",
+            "Greece",
+            "Athens"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-045",
+          "word": "Spanish Armada",
+          "forbidden": [
+            "fleet",
+            "Spain",
+            "England",
+            "1588",
+            "Elizabeth I"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-046",
+          "word": "Battle of Hastings",
+          "forbidden": [
+            "1066",
+            "Normans",
+            "William the Conqueror",
+            "England",
+            "arrow in the eye"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-047",
+          "word": "Ottoman Empire",
+          "forbidden": [
+            "Turkey",
+            "sultan",
+            "Istanbul",
+            "Constantinople",
+            "Suleiman"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-048",
+          "word": "Lewis and Clark",
+          "forbidden": [
+            "expedition",
+            "Sacagawea",
+            "Louisiana",
+            "West",
+            "explorers"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-049",
+          "word": "Louisiana Purchase",
+          "forbidden": [
+            "Jefferson",
+            "France",
+            "Napoleon",
+            "1803",
+            "land"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-2-050",
+          "word": "Hadrian's Wall",
+          "forbidden": [
+            "Roman",
+            "England",
+            "Scotland",
+            "barrier",
+            "emperor"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "en-history-3",
+      "name": "Deck 3",
+      "cards": [
+        {
+          "id": "en-history-3-001",
+          "word": "Atlantis",
+          "forbidden": [
+            "sunken city",
+            "lost",
+            "myth",
+            "ocean",
+            "Plato"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-002",
+          "word": "Hercules",
+          "forbidden": [
+            "strong",
+            "twelve labors",
+            "demigod",
+            "Zeus",
+            "Greek"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-003",
+          "word": "Zeus",
+          "forbidden": [
+            "lightning",
+            "god",
+            "Olympus",
+            "Greek",
+            "Jupiter"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-004",
+          "word": "Medusa",
+          "forbidden": [
+            "snakes",
+            "hair",
+            "stone",
+            "Perseus",
+            "gaze"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-005",
+          "word": "Olympics",
+          "forbidden": [
+            "rings",
+            "medals",
+            "torch",
+            "Greece",
+            "games"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-006",
+          "word": "Soldier",
+          "forbidden": [
+            "army",
+            "uniform",
+            "war",
+            "troops",
+            "military"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-007",
+          "word": "Court jester",
+          "forbidden": [
+            "king",
+            "fool",
+            "juggling",
+            "bells",
+            "funny hat"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-008",
+          "word": "Three Musketeers",
+          "forbidden": [
+            "D'Artagnan",
+            "all for one",
+            "French",
+            "swords",
+            "Dumas"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-009",
+          "word": "Vatican",
+          "forbidden": [
+            "Pope",
+            "Rome",
+            "Catholic",
+            "Sistine Chapel",
+            "St. Peter's"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-010",
+          "word": "Papyrus",
+          "forbidden": [
+            "Egypt",
+            "paper",
+            "scroll",
+            "reed",
+            "writing"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-011",
+          "word": "Gunpowder",
+          "forbidden": [
+            "China",
+            "explosion",
+            "cannon",
+            "fireworks",
+            "black"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-012",
+          "word": "Typewriter",
+          "forbidden": [
+            "keys",
+            "typing",
+            "paper",
+            "ribbon",
+            "ding"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-013",
+          "word": "Telegraph",
+          "forbidden": [
+            "Morse code",
+            "dots",
+            "dashes",
+            "wire",
+            "message"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-014",
+          "word": "Hourglass",
+          "forbidden": [
+            "sand",
+            "minutes",
+            "flip",
+            "countdown",
+            "narrow"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-015",
+          "word": "Time capsule",
+          "forbidden": [
+            "bury",
+            "future",
+            "box",
+            "letters",
+            "open later"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-016",
+          "word": "Treasure map",
+          "forbidden": [
+            "X marks the spot",
+            "pirate",
+            "gold",
+            "buried",
+            "island"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-017",
+          "word": "Pilgrims",
+          "forbidden": [
+            "Mayflower",
+            "Thanksgiving",
+            "Plymouth",
+            "buckle hat",
+            "settlers"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-018",
+          "word": "Stagecoach",
+          "forbidden": [
+            "horses",
+            "Wild West",
+            "carriage",
+            "robbers",
+            "passengers"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-019",
+          "word": "Sundial",
+          "forbidden": [
+            "shadow",
+            "sun",
+            "time",
+            "clock",
+            "garden"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-020",
+          "word": "Toga",
+          "forbidden": [
+            "Rome",
+            "sheet",
+            "Greek",
+            "robe",
+            "party"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-history-3-021",
+          "word": "Amelia Earhart",
+          "forbidden": [
+            "pilot",
+            "disappeared",
+            "aviator",
+            "Atlantic",
+            "woman"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-022",
+          "word": "Rosa Parks",
+          "forbidden": [
+            "bus",
+            "seat",
+            "Montgomery",
+            "civil rights",
+            "refused"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-023",
+          "word": "Tsar",
+          "forbidden": [
+            "Russia",
+            "emperor",
+            "Romanov",
+            "Nicholas",
+            "Moscow"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-024",
+          "word": "Apollo 11",
+          "forbidden": [
+            "Moon",
+            "1969",
+            "NASA",
+            "Armstrong",
+            "rocket"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-025",
+          "word": "Sputnik",
+          "forbidden": [
+            "satellite",
+            "Soviet",
+            "1957",
+            "space",
+            "first"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-026",
+          "word": "Knights Templar",
+          "forbidden": [
+            "crusades",
+            "red cross",
+            "order",
+            "monks",
+            "treasure"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-027",
+          "word": "Louis XIV",
+          "forbidden": [
+            "Sun King",
+            "Versailles",
+            "France",
+            "absolute",
+            "I am the state"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-028",
+          "word": "Marie Antoinette",
+          "forbidden": [
+            "let them eat cake",
+            "guillotine",
+            "queen",
+            "France",
+            "Versailles"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-029",
+          "word": "Neanderthal",
+          "forbidden": [
+            "caveman",
+            "extinct",
+            "Homo sapiens",
+            "prehistoric",
+            "brow"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-030",
+          "word": "Model T",
+          "forbidden": [
+            "Ford",
+            "car",
+            "assembly line",
+            "black",
+            "Henry"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-031",
+          "word": "Printing press",
+          "forbidden": [
+            "Gutenberg",
+            "books",
+            "ink",
+            "Bible",
+            "movable type"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-032",
+          "word": "Florence Nightingale",
+          "forbidden": [
+            "nurse",
+            "lamp",
+            "Crimean War",
+            "hospital",
+            "British"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-033",
+          "word": "Ellis Island",
+          "forbidden": [
+            "immigrants",
+            "New York",
+            "Statue of Liberty",
+            "ferry",
+            "arrival"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-034",
+          "word": "Pony Express",
+          "forbidden": [
+            "horse",
+            "mail",
+            "riders",
+            "West",
+            "delivery"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-035",
+          "word": "Roaring Twenties",
+          "forbidden": [
+            "flappers",
+            "jazz",
+            "1920s",
+            "Gatsby",
+            "Charleston"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-036",
+          "word": "Prohibition",
+          "forbidden": [
+            "alcohol",
+            "ban",
+            "speakeasy",
+            "Al Capone",
+            "bootlegging"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-037",
+          "word": "Great Depression",
+          "forbidden": [
+            "1929",
+            "stock market crash",
+            "unemployment",
+            "Dust Bowl",
+            "poverty"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-038",
+          "word": "Spartacus",
+          "forbidden": [
+            "gladiator",
+            "slave revolt",
+            "Rome",
+            "Kirk Douglas",
+            "I am"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-039",
+          "word": "Mayans",
+          "forbidden": [
+            "calendar",
+            "Mexico",
+            "pyramids",
+            "2012",
+            "Chichén Itzá"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-040",
+          "word": "Inca Empire",
+          "forbidden": [
+            "Peru",
+            "Machu Picchu",
+            "Cusco",
+            "Andes",
+            "Atahualpa"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-history-3-041",
+          "word": "Waterloo",
+          "forbidden": [
+            "Napoleon",
+            "battle",
+            "defeat",
+            "Belgium",
+            "1815"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-042",
+          "word": "Marshall Plan",
+          "forbidden": [
+            "Europe",
+            "rebuild",
+            "aid",
+            "post-war",
+            "America"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-043",
+          "word": "Ramses II",
+          "forbidden": [
+            "pharaoh",
+            "Egypt",
+            "Abu Simbel",
+            "Moses",
+            "long reign"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-044",
+          "word": "Thermopylae",
+          "forbidden": [
+            "300",
+            "Spartans",
+            "Persians",
+            "Leonidas",
+            "pass"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-045",
+          "word": "Domesday Book",
+          "forbidden": [
+            "William the Conqueror",
+            "survey",
+            "England",
+            "1086",
+            "census"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-046",
+          "word": "Code of Hammurabi",
+          "forbidden": [
+            "Babylon",
+            "laws",
+            "eye for an eye",
+            "king",
+            "stone"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-047",
+          "word": "Charlemagne",
+          "forbidden": [
+            "Holy Roman Emperor",
+            "Franks",
+            "800",
+            "crowned",
+            "Aachen"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-048",
+          "word": "Tudors",
+          "forbidden": [
+            "Henry VIII",
+            "Elizabeth",
+            "dynasty",
+            "England",
+            "rose"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-049",
+          "word": "Meiji Restoration",
+          "forbidden": [
+            "Japan",
+            "emperor",
+            "modernization",
+            "samurai",
+            "1868"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-history-3-050",
+          "word": "Sacagawea",
+          "forbidden": [
+            "Lewis and Clark",
+            "guide",
+            "Shoshone",
+            "coin",
+            "expedition"
+          ],
+          "difficulty": "hard"
+        }
       ]
     }
   ]

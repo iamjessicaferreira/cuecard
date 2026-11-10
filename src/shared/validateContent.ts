@@ -14,7 +14,8 @@ export interface DeckFile {
 }
 
 export interface ThemeFile {
-  version: number;
+  /** Optional. Omitted files are treated as version 1 so a new drop-in bank still loads. */
+  version?: number;
   theme_id: string;
   lang: Lang;
   theme_name: string;
@@ -56,10 +57,10 @@ export function validateThemeDocument(
     return [issue(filePath, "$", "Theme file must be a JSON object")];
   }
 
-  if (typeof data.version !== "number" || !Number.isInteger(data.version) || data.version < 1) {
-    issues.push(issue(filePath, "version", "version must be a positive integer"));
+  if (data.version !== undefined && (typeof data.version !== "number" || !Number.isInteger(data.version) || data.version < 1)) {
+    issues.push(issue(filePath, "version", "version must be a positive integer when present"));
   }
-  if (typeof data.theme_id !== "string" || !/^[a-z0-9-]+$/.test(data.theme_id)) {
+  if (typeof data.theme_id !== "string" || !/^[a-z0-9_-]+$/.test(data.theme_id)) {
     issues.push(issue(filePath, "theme_id", "theme_id must be a lowercase slug"));
   } else if (expected?.themeId && data.theme_id !== expected.themeId) {
     issues.push(issue(filePath, "theme_id", `theme_id must be "${expected.themeId}"`));

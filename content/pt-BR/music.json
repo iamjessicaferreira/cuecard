@@ -1,29 +1,1824 @@
 {
-  "version": 1,
   "theme_id": "music",
   "lang": "pt-BR",
   "theme_name": "Música",
   "decks": [
     {
-      "deck_id": "music-pt-1",
-      "name": "Ensaio",
+      "deck_id": "pt-music-1",
+      "name": "Baralho 1",
       "cards": [
-        { "id": "music-pt-1-01", "word": "Violino", "forbidden": ["arco", "cordas", "orquestra", "queixo", "clássico"], "difficulty": "easy" },
-        { "id": "music-pt-1-02", "word": "Karaokê", "forbidden": ["microfone", "cantar", "bar", "letra", "playback"], "difficulty": "easy" },
-        { "id": "music-pt-1-03", "word": "Bateria", "forbidden": ["baqueta", "ritmo", "prato", "surdo", "caixa"], "difficulty": "easy" },
-        { "id": "music-pt-1-04", "word": "Violão", "forbidden": ["acorde", "dedilhar", "acústico", "palheta", "corda"], "difficulty": "easy" },
-        { "id": "music-pt-1-05", "word": "DJ", "forbidden": ["toca-discos", "mix", "balada", "fone", "scratch"], "difficulty": "medium" }
+        {
+          "id": "pt-music-1-001",
+          "word": "Violão",
+          "forbidden": [
+            "cordas",
+            "tocar",
+            "acústico",
+            "Bossa Nova",
+            "palheta"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-002",
+          "word": "Bateria",
+          "forbidden": [
+            "baquetas",
+            "pratos",
+            "bumbo",
+            "tocar",
+            "caixa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-003",
+          "word": "Samba",
+          "forbidden": [
+            "carnaval",
+            "Rio",
+            "pandeiro",
+            "Cartola",
+            "escola"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-004",
+          "word": "Microfone",
+          "forbidden": [
+            "cantar",
+            "voz",
+            "karaokê",
+            "som",
+            "palco"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-005",
+          "word": "Piano",
+          "forbidden": [
+            "teclas",
+            "preto e branco",
+            "cauda",
+            "teclado",
+            "Chopin"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-006",
+          "word": "Karaokê",
+          "forbidden": [
+            "cantar",
+            "microfone",
+            "letra",
+            "tela",
+            "desafinado"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-007",
+          "word": "Carnaval",
+          "forbidden": [
+            "fevereiro",
+            "fantasia",
+            "bloco",
+            "desfile",
+            "Sapucaí"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-008",
+          "word": "Show",
+          "forbidden": [
+            "palco",
+            "ingresso",
+            "banda",
+            "plateia",
+            "ao vivo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-009",
+          "word": "Fone de ouvido",
+          "forbidden": [
+            "música",
+            "cabeça",
+            "sem fio",
+            "bluetooth",
+            "orelha"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-010",
+          "word": "Rock",
+          "forbidden": [
+            "guitarra",
+            "banda",
+            "Rolling Stones",
+            "cabelo",
+            "pesado"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-011",
+          "word": "Funk",
+          "forbidden": [
+            "baile",
+            "MC",
+            "favela",
+            "batidão",
+            "Anitta"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-012",
+          "word": "Michael Jackson",
+          "forbidden": [
+            "moonwalk",
+            "Thriller",
+            "Rei do Pop",
+            "luva",
+            "Billie Jean"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-013",
+          "word": "Beatles",
+          "forbidden": [
+            "Liverpool",
+            "John Lennon",
+            "Paul McCartney",
+            "banda",
+            "Yellow Submarine"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-014",
+          "word": "Pandeiro",
+          "forbidden": [
+            "samba",
+            "chocalho",
+            "pele",
+            "platinelas",
+            "roda"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-015",
+          "word": "Forró",
+          "forbidden": [
+            "Nordeste",
+            "sanfona",
+            "zabumba",
+            "xote",
+            "Luiz Gonzaga"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-016",
+          "word": "Sanfona",
+          "forbidden": [
+            "acordeão",
+            "fole",
+            "forró",
+            "gaúcho",
+            "teclas"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-017",
+          "word": "Guitarra",
+          "forbidden": [
+            "elétrica",
+            "cordas",
+            "solo",
+            "rock",
+            "amplificador"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-018",
+          "word": "Rádio",
+          "forbidden": [
+            "estação",
+            "FM",
+            "locutor",
+            "ouvir",
+            "antena"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-019",
+          "word": "Roberto Carlos",
+          "forbidden": [
+            "Rei",
+            "Jovem Guarda",
+            "Detalhes",
+            "Natal",
+            "cantor"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-020",
+          "word": "Hino Nacional",
+          "forbidden": [
+            "Brasil",
+            "Ouviram do Ipiranga",
+            "cantar",
+            "bandeira",
+            "pátria"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-1-021",
+          "word": "Bossa Nova",
+          "forbidden": [
+            "Tom Jobim",
+            "João Gilberto",
+            "Garota de Ipanema",
+            "violão",
+            "anos 60"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-022",
+          "word": "Tropicália",
+          "forbidden": [
+            "Caetano",
+            "Gil",
+            "Mutantes",
+            "anos 60",
+            "ditadura"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-023",
+          "word": "Ivete Sangalo",
+          "forbidden": [
+            "Bahia",
+            "axé",
+            "trio elétrico",
+            "Veveta",
+            "carnaval"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-024",
+          "word": "Caetano Veloso",
+          "forbidden": [
+            "Tropicália",
+            "baiano",
+            "Sampa",
+            "Bethânia",
+            "Leãozinho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-025",
+          "word": "Elis Regina",
+          "forbidden": [
+            "Pimentinha",
+            "Águas de Março",
+            "cantora",
+            "Maria Rita",
+            "gaúcha"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-026",
+          "word": "Sertanejo",
+          "forbidden": [
+            "dupla",
+            "chapéu",
+            "caipira",
+            "Goiânia",
+            "modão"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-027",
+          "word": "Axé",
+          "forbidden": [
+            "Bahia",
+            "carnaval",
+            "Salvador",
+            "Ivete",
+            "dança"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-028",
+          "word": "Orquestra",
+          "forbidden": [
+            "maestro",
+            "músicos",
+            "sinfônica",
+            "violinos",
+            "concerto"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-029",
+          "word": "Maestro",
+          "forbidden": [
+            "batuta",
+            "orquestra",
+            "reger",
+            "regente",
+            "braços"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-030",
+          "word": "Freddie Mercury",
+          "forbidden": [
+            "Queen",
+            "bigode",
+            "Bohemian Rhapsody",
+            "vocalista",
+            "Wembley"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-031",
+          "word": "Madonna",
+          "forbidden": [
+            "Rainha do Pop",
+            "Like a Virgin",
+            "Copacabana",
+            "Material Girl",
+            "cantora"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-032",
+          "word": "Saxofone",
+          "forbidden": [
+            "sopro",
+            "jazz",
+            "dourado",
+            "metal",
+            "Kenny G"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-033",
+          "word": "Violino",
+          "forbidden": [
+            "arco",
+            "cordas",
+            "queixo",
+            "orquestra",
+            "Paganini"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-034",
+          "word": "DJ",
+          "forbidden": [
+            "pickup",
+            "festa",
+            "balada",
+            "mixar",
+            "discotecagem"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-035",
+          "word": "Playlist",
+          "forbidden": [
+            "Spotify",
+            "lista",
+            "sequência",
+            "favoritas",
+            "aleatório"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-036",
+          "word": "Vinil",
+          "forbidden": [
+            "LP",
+            "toca-discos",
+            "agulha",
+            "bolachão",
+            "retrô"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-037",
+          "word": "Partitura",
+          "forbidden": [
+            "notas",
+            "pauta",
+            "ler",
+            "clave",
+            "pentagrama"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-038",
+          "word": "Rock in Rio",
+          "forbidden": [
+            "festival",
+            "Barra",
+            "palco",
+            "1985",
+            "Roberto Medina"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-039",
+          "word": "Reggae",
+          "forbidden": [
+            "Bob Marley",
+            "Jamaica",
+            "dreadlock",
+            "Maranhão",
+            "rastafári"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-040",
+          "word": "Ópera",
+          "forbidden": [
+            "soprano",
+            "tenor",
+            "teatro",
+            "Pavarotti",
+            "cantar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-1-041",
+          "word": "Tom Jobim",
+          "forbidden": [
+            "Garota de Ipanema",
+            "Bossa Nova",
+            "Vinicius",
+            "piano",
+            "Águas de Março"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-042",
+          "word": "Villa-Lobos",
+          "forbidden": [
+            "Bachianas",
+            "maestro",
+            "Trenzinho do Caipira",
+            "erudito",
+            "compositor"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-043",
+          "word": "Chorinho",
+          "forbidden": [
+            "Pixinguinha",
+            "cavaquinho",
+            "flauta",
+            "Carinhoso",
+            "regional"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-044",
+          "word": "Cavaquinho",
+          "forbidden": [
+            "cordas",
+            "samba",
+            "pequeno",
+            "pagode",
+            "Waldir Azevedo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-045",
+          "word": "Berimbau",
+          "forbidden": [
+            "capoeira",
+            "arco",
+            "cabaça",
+            "corda",
+            "Bahia"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-046",
+          "word": "Mangue beat",
+          "forbidden": [
+            "Recife",
+            "Chico Science",
+            "Nação Zumbi",
+            "caranguejo",
+            "Pernambuco"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-047",
+          "word": "Beethoven",
+          "forbidden": [
+            "surdo",
+            "Nona Sinfonia",
+            "Für Elise",
+            "alemão",
+            "compositor"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-048",
+          "word": "Metrônomo",
+          "forbidden": [
+            "tempo",
+            "ritmo",
+            "tique-taque",
+            "pêndulo",
+            "batidas"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-049",
+          "word": "Afinador",
+          "forbidden": [
+            "corda",
+            "nota",
+            "tom",
+            "desafinado",
+            "ajustar"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-1-050",
+          "word": "Clave de sol",
+          "forbidden": [
+            "partitura",
+            "pauta",
+            "símbolo",
+            "notas",
+            "pentagrama"
+          ],
+          "difficulty": "hard"
+        }
       ]
     },
     {
-      "deck_id": "music-pt-2",
-      "name": "Palco",
+      "deck_id": "pt-music-2",
+      "name": "Baralho 2",
       "cards": [
-        { "id": "music-pt-2-01", "word": "Piano", "forbidden": ["teclas", "pedal", "cauda", "marfim", "teclado"], "difficulty": "easy" },
-        { "id": "music-pt-2-02", "word": "Coral", "forbidden": ["vozes", "hino", "igreja", "harmonia", "ensaio"], "difficulty": "medium" },
-        { "id": "music-pt-2-03", "word": "Trompete", "forbidden": ["metal", "válvula", "jazz", "bocal", "sopro"], "difficulty": "medium" },
-        { "id": "music-pt-2-04", "word": "Fone", "forbidden": ["ouvido", "sem fio", "escutar", "áudio", "música"], "difficulty": "easy" },
-        { "id": "music-pt-2-05", "word": "Festival", "forbidden": ["multidão", "palco", "lineup", "ingresso", "fim de semana"], "difficulty": "easy" }
+        {
+          "id": "pt-music-2-001",
+          "word": "Flauta",
+          "forbidden": [
+            "sopro",
+            "doce",
+            "furos",
+            "escola",
+            "assoprar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-002",
+          "word": "Tambor",
+          "forbidden": [
+            "bater",
+            "pele",
+            "baquetas",
+            "percussão",
+            "rufar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-003",
+          "word": "Banda",
+          "forbidden": [
+            "integrantes",
+            "vocalista",
+            "show",
+            "ensaio",
+            "garagem"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-004",
+          "word": "Pagode",
+          "forbidden": [
+            "samba",
+            "cavaquinho",
+            "roda",
+            "churrasco",
+            "Thiaguinho"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-005",
+          "word": "Anitta",
+          "forbidden": [
+            "Show das Poderosas",
+            "Envolver",
+            "funk",
+            "carioca",
+            "Larissa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-006",
+          "word": "Elvis Presley",
+          "forbidden": [
+            "Rei do Rock",
+            "topete",
+            "Las Vegas",
+            "quadril",
+            "Graceland"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-007",
+          "word": "Taylor Swift",
+          "forbidden": [
+            "Eras Tour",
+            "Shake It Off",
+            "country",
+            "loira",
+            "pop"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-008",
+          "word": "Spotify",
+          "forbidden": [
+            "streaming",
+            "playlist",
+            "aplicativo",
+            "verde",
+            "premium"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-009",
+          "word": "Teclado",
+          "forbidden": [
+            "piano",
+            "eletrônico",
+            "Casio",
+            "sintetizador",
+            "Yamaha"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-010",
+          "word": "Trompete",
+          "forbidden": [
+            "sopro",
+            "metal",
+            "jazz",
+            "Louis Armstrong",
+            "pistões"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-011",
+          "word": "Coral",
+          "forbidden": [
+            "grupo",
+            "cantar",
+            "vozes",
+            "igreja",
+            "regente"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-012",
+          "word": "Parabéns pra você",
+          "forbidden": [
+            "aniversário",
+            "bolo",
+            "vela",
+            "cantar",
+            "palmas"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-013",
+          "word": "Quadrilha",
+          "forbidden": [
+            "festa junina",
+            "São João",
+            "caipira",
+            "anarriê",
+            "dança"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-014",
+          "word": "Palco",
+          "forbidden": [
+            "show",
+            "holofote",
+            "artista",
+            "plateia",
+            "tablado"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-015",
+          "word": "Gaita",
+          "forbidden": [
+            "boca",
+            "sopro",
+            "harmônica",
+            "blues",
+            "Bob Dylan"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-016",
+          "word": "Xilofone",
+          "forbidden": [
+            "plaquinhas",
+            "baquetas",
+            "criança",
+            "colorido",
+            "percussão"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-017",
+          "word": "Cantor",
+          "forbidden": [
+            "voz",
+            "microfone",
+            "show",
+            "música",
+            "artista"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-018",
+          "word": "Balada",
+          "forbidden": [
+            "festa",
+            "noite",
+            "boate",
+            "DJ",
+            "dançar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-019",
+          "word": "Videoclipe",
+          "forbidden": [
+            "YouTube",
+            "MTV",
+            "gravação",
+            "cantor",
+            "imagens"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-020",
+          "word": "Rap",
+          "forbidden": [
+            "rima",
+            "MC",
+            "batida",
+            "Racionais",
+            "hip-hop"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-2-021",
+          "word": "Gilberto Gil",
+          "forbidden": [
+            "Tropicália",
+            "Bahia",
+            "ministro",
+            "Aquele Abraço",
+            "Caetano"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-022",
+          "word": "Chico Buarque",
+          "forbidden": [
+            "Roda Viva",
+            "Construção",
+            "compositor",
+            "olhos verdes",
+            "carioca"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-023",
+          "word": "Rita Lee",
+          "forbidden": [
+            "Mutantes",
+            "rainha do rock",
+            "ruiva",
+            "Ovelha Negra",
+            "paulista"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-024",
+          "word": "Legião Urbana",
+          "forbidden": [
+            "Renato Russo",
+            "Brasília",
+            "Tempo Perdido",
+            "Faroeste Caboclo",
+            "banda"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-025",
+          "word": "Tim Maia",
+          "forbidden": [
+            "soul",
+            "Síndico",
+            "Gostava Tanto de Você",
+            "Azul da Cor do Mar",
+            "Racional"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-026",
+          "word": "Frevo",
+          "forbidden": [
+            "Recife",
+            "Olinda",
+            "sombrinha",
+            "Pernambuco",
+            "passista"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-027",
+          "word": "MPB",
+          "forbidden": [
+            "música popular brasileira",
+            "Elis",
+            "Chico",
+            "Caetano",
+            "sigla"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-028",
+          "word": "Harpa",
+          "forbidden": [
+            "cordas",
+            "anjo",
+            "dedilhar",
+            "grande",
+            "triangular"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-029",
+          "word": "Violoncelo",
+          "forbidden": [
+            "arco",
+            "grande",
+            "cordas",
+            "sentado",
+            "cello"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-030",
+          "word": "Beyoncé",
+          "forbidden": [
+            "Destiny's Child",
+            "Single Ladies",
+            "Jay-Z",
+            "Queen B",
+            "diva"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-031",
+          "word": "Bob Marley",
+          "forbidden": [
+            "reggae",
+            "Jamaica",
+            "dreadlocks",
+            "One Love",
+            "rastafári"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-032",
+          "word": "Lady Gaga",
+          "forbidden": [
+            "Poker Face",
+            "Bad Romance",
+            "monstrinhos",
+            "vestido de carne",
+            "excêntrica"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-033",
+          "word": "Grammy",
+          "forbidden": [
+            "prêmio",
+            "estatueta",
+            "Oscar da música",
+            "Latin",
+            "troféu"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-034",
+          "word": "Turnê",
+          "forbidden": [
+            "shows",
+            "cidades",
+            "viagem",
+            "tour",
+            "datas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-035",
+          "word": "Acústico",
+          "forbidden": [
+            "MTV",
+            "violão",
+            "desplugado",
+            "unplugged",
+            "intimista"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-036",
+          "word": "Refrão",
+          "forbidden": [
+            "repetir",
+            "chiclete",
+            "parte",
+            "estrofe",
+            "grudar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-037",
+          "word": "Trio elétrico",
+          "forbidden": [
+            "caminhão",
+            "carnaval",
+            "Salvador",
+            "Dodô e Osmar",
+            "axé"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-038",
+          "word": "Maracatu",
+          "forbidden": [
+            "Pernambuco",
+            "Recife",
+            "alfaias",
+            "rainha",
+            "tambores"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-039",
+          "word": "Sinfonia",
+          "forbidden": [
+            "orquestra",
+            "movimentos",
+            "Beethoven",
+            "clássica",
+            "maestro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-040",
+          "word": "Heavy metal",
+          "forbidden": [
+            "guitarra",
+            "cabeludo",
+            "pesado",
+            "Iron Maiden",
+            "headbanger"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-2-041",
+          "word": "Mozart",
+          "forbidden": [
+            "austríaco",
+            "Flauta Mágica",
+            "gênio",
+            "Amadeus",
+            "Salzburgo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-042",
+          "word": "João Gilberto",
+          "forbidden": [
+            "Bossa Nova",
+            "violão",
+            "baiano",
+            "Chega de Saudade",
+            "banquinho"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-043",
+          "word": "Pixinguinha",
+          "forbidden": [
+            "Carinhoso",
+            "choro",
+            "flauta",
+            "saxofone",
+            "Rio"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-044",
+          "word": "Cartola",
+          "forbidden": [
+            "Mangueira",
+            "As Rosas Não Falam",
+            "sambista",
+            "O Mundo É um Moinho",
+            "verde e rosa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-045",
+          "word": "Clube da Esquina",
+          "forbidden": [
+            "Milton Nascimento",
+            "Lô Borges",
+            "Minas Gerais",
+            "Belo Horizonte",
+            "disco"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-046",
+          "word": "Fado",
+          "forbidden": [
+            "Portugal",
+            "Lisboa",
+            "saudade",
+            "Amália Rodrigues",
+            "guitarra portuguesa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-047",
+          "word": "Acorde",
+          "forbidden": [
+            "notas",
+            "violão",
+            "cifra",
+            "juntas",
+            "harmonia"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-048",
+          "word": "Falsete",
+          "forbidden": [
+            "agudo",
+            "voz fina",
+            "Bee Gees",
+            "cabeça",
+            "cantar"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-049",
+          "word": "Tango",
+          "forbidden": [
+            "Argentina",
+            "Buenos Aires",
+            "dança",
+            "bandoneon",
+            "Gardel"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-2-050",
+          "word": "Tuba",
+          "forbidden": [
+            "grande",
+            "sopro",
+            "metal",
+            "grave",
+            "fanfarra"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "pt-music-3",
+      "name": "Baralho 3",
+      "cards": [
+        {
+          "id": "pt-music-3-001",
+          "word": "Caixa de som",
+          "forbidden": [
+            "alto-falante",
+            "volume",
+            "bluetooth",
+            "JBL",
+            "grave"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-002",
+          "word": "Bis",
+          "forbidden": [
+            "de novo",
+            "mais um",
+            "repetir",
+            "plateia",
+            "pedir"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-003",
+          "word": "Aplauso",
+          "forbidden": [
+            "palmas",
+            "mãos",
+            "plateia",
+            "bater",
+            "fim"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-004",
+          "word": "Chocalho",
+          "forbidden": [
+            "sacudir",
+            "sementes",
+            "bebê",
+            "percussão",
+            "barulho"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-005",
+          "word": "Triângulo",
+          "forbidden": [
+            "forró",
+            "metal",
+            "ferrinho",
+            "três lados",
+            "Nordeste"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-006",
+          "word": "Shakira",
+          "forbidden": [
+            "Colômbia",
+            "quadril",
+            "Waka Waka",
+            "Hips Don't Lie",
+            "Piqué"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-007",
+          "word": "Zeca Pagodinho",
+          "forbidden": [
+            "Deixa a Vida Me Levar",
+            "cerveja",
+            "Xerém",
+            "sambista",
+            "samba"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-008",
+          "word": "Marília Mendonça",
+          "forbidden": [
+            "sofrência",
+            "sertanejo",
+            "rainha",
+            "Infiel",
+            "Goiânia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-009",
+          "word": "Dó ré mi",
+          "forbidden": [
+            "notas",
+            "escala",
+            "solfejo",
+            "sete",
+            "Noviça Rebelde"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-010",
+          "word": "Xuxa",
+          "forbidden": [
+            "Ilariê",
+            "baixinhos",
+            "rainha",
+            "loira",
+            "nave"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-011",
+          "word": "Galinha Pintadinha",
+          "forbidden": [
+            "Borboletinha",
+            "desenho animado",
+            "crianças",
+            "YouTube",
+            "cocoricó"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-012",
+          "word": "K-pop",
+          "forbidden": [
+            "Coreia",
+            "BTS",
+            "coreografia",
+            "grupo",
+            "fãs"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-013",
+          "word": "Discoteca",
+          "forbidden": [
+            "anos 70",
+            "globo espelhado",
+            "dança",
+            "Bee Gees",
+            "boate"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-014",
+          "word": "Assobio",
+          "forbidden": [
+            "boca",
+            "lábios",
+            "som",
+            "vento",
+            "chamar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-015",
+          "word": "Bruno Mars",
+          "forbidden": [
+            "Uptown Funk",
+            "havaiano",
+            "Grenade",
+            "Just the Way You Are",
+            "chapéu"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-016",
+          "word": "Justin Bieber",
+          "forbidden": [
+            "Baby",
+            "canadense",
+            "beliebers",
+            "Selena Gomez",
+            "YouTube"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-017",
+          "word": "Sino",
+          "forbidden": [
+            "igreja",
+            "badalar",
+            "Natal",
+            "tocar",
+            "bronze"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-018",
+          "word": "Ukulele",
+          "forbidden": [
+            "Havaí",
+            "pequeno",
+            "cordas",
+            "violão",
+            "quatro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-019",
+          "word": "Música eletrônica",
+          "forbidden": [
+            "DJ",
+            "rave",
+            "batida",
+            "festa",
+            "sintetizador"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-020",
+          "word": "Fanfarra",
+          "forbidden": [
+            "banda",
+            "desfile",
+            "escola",
+            "tambores",
+            "7 de Setembro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-music-3-021",
+          "word": "Milton Nascimento",
+          "forbidden": [
+            "Bituca",
+            "Clube da Esquina",
+            "Minas",
+            "Travessia",
+            "voz"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-022",
+          "word": "Djavan",
+          "forbidden": [
+            "Alagoas",
+            "Oceano",
+            "Flor de Lis",
+            "Sina",
+            "Lilás"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-023",
+          "word": "Gal Costa",
+          "forbidden": [
+            "Tropicália",
+            "baiana",
+            "voz",
+            "Baby",
+            "Divino Maravilhoso"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-024",
+          "word": "Maria Bethânia",
+          "forbidden": [
+            "Caetano",
+            "irmã",
+            "Bahia",
+            "Santo Amaro",
+            "Carcará"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-025",
+          "word": "Cazuza",
+          "forbidden": [
+            "Barão Vermelho",
+            "Exagerado",
+            "Ideologia",
+            "poeta",
+            "Brasil"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-026",
+          "word": "Raul Seixas",
+          "forbidden": [
+            "Maluco Beleza",
+            "Gita",
+            "Metamorfose Ambulante",
+            "baiano",
+            "rock"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-027",
+          "word": "Racionais MC's",
+          "forbidden": [
+            "Mano Brown",
+            "rap",
+            "Diário de um Detento",
+            "periferia",
+            "São Paulo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-028",
+          "word": "Lollapalooza",
+          "forbidden": [
+            "festival",
+            "Interlagos",
+            "São Paulo",
+            "Chicago",
+            "bandas"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-029",
+          "word": "Ed Sheeran",
+          "forbidden": [
+            "ruivo",
+            "Shape of You",
+            "Perfect",
+            "inglês",
+            "loop"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-030",
+          "word": "Adele",
+          "forbidden": [
+            "Hello",
+            "Someone Like You",
+            "britânica",
+            "voz",
+            "21"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-031",
+          "word": "ABBA",
+          "forbidden": [
+            "Mamma Mia",
+            "suecos",
+            "Dancing Queen",
+            "Eurovision",
+            "Waterloo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-032",
+          "word": "Pink Floyd",
+          "forbidden": [
+            "The Wall",
+            "Dark Side of the Moon",
+            "prisma",
+            "psicodélico",
+            "rock"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-033",
+          "word": "Contrabaixo",
+          "forbidden": [
+            "grave",
+            "cordas",
+            "baixista",
+            "jazz",
+            "grande"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-034",
+          "word": "Clarinete",
+          "forbidden": [
+            "sopro",
+            "palheta",
+            "madeira",
+            "preto",
+            "orquestra"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-035",
+          "word": "Playback",
+          "forbidden": [
+            "dublar",
+            "fingir",
+            "gravado",
+            "boca",
+            "mentira"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-036",
+          "word": "Viola caipira",
+          "forbidden": [
+            "sertão",
+            "cordas",
+            "Almir Sater",
+            "roça",
+            "Tião Carreiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-037",
+          "word": "Cifra",
+          "forbidden": [
+            "acordes",
+            "violão",
+            "letras",
+            "tom",
+            "site"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-038",
+          "word": "Gravadora",
+          "forbidden": [
+            "contrato",
+            "disco",
+            "selo",
+            "artista",
+            "Sony"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-039",
+          "word": "Musical",
+          "forbidden": [
+            "Broadway",
+            "teatro",
+            "cantar",
+            "Rei Leão",
+            "palco"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-040",
+          "word": "Blues",
+          "forbidden": [
+            "tristeza",
+            "Estados Unidos",
+            "B.B. King",
+            "gaita",
+            "guitarra"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-music-3-041",
+          "word": "Bach",
+          "forbidden": [
+            "barroco",
+            "alemão",
+            "órgão",
+            "fuga",
+            "Johann Sebastian"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-042",
+          "word": "Chiquinha Gonzaga",
+          "forbidden": [
+            "maestrina",
+            "Ó Abre Alas",
+            "marchinha",
+            "pioneira",
+            "compositora"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-043",
+          "word": "Luiz Gonzaga",
+          "forbidden": [
+            "Rei do Baião",
+            "Asa Branca",
+            "sanfona",
+            "chapéu de couro",
+            "Pernambuco"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-044",
+          "word": "Bumba meu boi",
+          "forbidden": [
+            "Maranhão",
+            "folclore",
+            "Parintins",
+            "festa",
+            "junho"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-045",
+          "word": "Ney Matogrosso",
+          "forbidden": [
+            "Secos & Molhados",
+            "figurino",
+            "falsete",
+            "performance",
+            "Homem com H"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-046",
+          "word": "Woodstock",
+          "forbidden": [
+            "festival",
+            "1969",
+            "hippies",
+            "paz e amor",
+            "Jimi Hendrix"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-047",
+          "word": "Sintetizador",
+          "forbidden": [
+            "teclado",
+            "eletrônico",
+            "anos 80",
+            "Moog",
+            "som"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-048",
+          "word": "Barítono",
+          "forbidden": [
+            "voz",
+            "grave",
+            "tenor",
+            "cantor",
+            "ópera"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-049",
+          "word": "Jovem Guarda",
+          "forbidden": [
+            "Roberto Carlos",
+            "Erasmo",
+            "Wanderléa",
+            "anos 60",
+            "iê-iê-iê"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-music-3-050",
+          "word": "A cappella",
+          "forbidden": [
+            "sem instrumentos",
+            "vozes",
+            "coral",
+            "Pentatonix",
+            "só voz"
+          ],
+          "difficulty": "hard"
+        }
       ]
     }
   ]

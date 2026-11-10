@@ -6,7 +6,7 @@ import { useI18n } from "../i18n";
 import type { MessageKey } from "../locales/en";
 import { Badge } from "../components/ui/badge";
 
-const COUNTS = [4, 5, 8, 10, 15, 20];
+const COUNTS = [8, 15, 20, 30, 50];
 const TIMES = [60, 90, 120] as const;
 
 function deckMark(cardIds: string[], seen: Set<string>): "fresh" | "partial" | "played" {

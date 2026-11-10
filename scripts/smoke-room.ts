@@ -37,7 +37,7 @@ async function main() {
     settings: {
       cardLang: "en",
       themeIds: ["art"],
-      deckId: "art-en-1",
+      deckId: "en-art-1",
       mix: false,
       cardCount: 5,
       turnSeconds: 60,

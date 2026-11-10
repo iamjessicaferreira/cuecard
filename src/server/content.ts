@@ -4,7 +4,7 @@ import type { Catalog, CatalogTheme } from "../shared/catalog";
 import type { Card, Lang, RoomSettings } from "../shared/types";
 import { validateContentSet, type CardFile, type ContentDocument, type ThemeFile } from "../shared/validateContent";
 
-const THEME_ORDER = ["art", "music", "travel", "pop", "cooking", "history"];
+const THEME_ORDER = ["art", "music", "geography", "pop_culture", "cooking", "history"];
 
 interface StoredCard extends Card {
   lang: Lang;
@@ -75,7 +75,13 @@ export function loadContent(dir: string): ContentLibrary {
   }
 
   const catalog: Catalog = {
-    themes: [...themes.values()].sort((a, b) => THEME_ORDER.indexOf(a.id) - THEME_ORDER.indexOf(b.id)),
+    themes: [...themes.values()].sort((a, b) => {
+      const rank = (id: string) => {
+        const index = THEME_ORDER.indexOf(id);
+        return index === -1 ? THEME_ORDER.length : index;
+      };
+      return rank(a.id) - rank(b.id) || a.id.localeCompare(b.id);
+    }),
   };
 
   return {

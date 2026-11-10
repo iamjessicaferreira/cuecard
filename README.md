@@ -74,29 +74,31 @@ The free instance sleeps after a stretch of idle time. The first request after t
 
 ## Card files
 
-Real cards can replace the samples without a code change. Put one JSON file per theme at:
+The live bank is already in the repo: six themes, three decks of 50 cards, in `pt-BR` and `en` (1,800 cards). Files are ordered easy to hard. A match does not play them in that order. When the room starts, the chosen cards are shuffled into the round-1 pile, and round 2 shuffles the same set again.
+
+Replace a file, or the whole `content/pt-BR` and `content/en` trees, and restart. The filename (without `.json`) must match `theme_id`. Current ids: `art`, `music`, `geography`, `pop_culture`, `cooking`, `history`.
 
 ```text
 content/{lang}/{theme_id}.json
+content/validate.py
 ```
 
-`lang` is `pt-BR` or `en`. `theme_id` is the filename without `.json` (`art`, `music`, `travel`, `pop`, `cooking`, `history`).
+`lang` is `pt-BR` or `en`. `version` is optional.
 
 ```json
 {
-  "version": 1,
   "theme_id": "art",
   "lang": "en",
   "theme_name": "Art",
   "decks": [
     {
-      "deck_id": "art-en-1",
-      "name": "Studio",
+      "deck_id": "en-art-1",
+      "name": "Deck 1",
       "cards": [
         {
-          "id": "art-en-1-01",
+          "id": "en-art-1-001",
           "word": "Mona Lisa",
-          "forbidden": ["smile", "Louvre", "portrait", "Da Vinci", "painting"],
+          "forbidden": ["Leonardo", "smile", "Louvre", "painting", "Paris"],
           "difficulty": "easy"
         }
       ]
@@ -105,18 +107,20 @@ content/{lang}/{theme_id}.json
 }
 ```
 
-Rules the validator enforces (`npm run validate:content`):
+`npm run validate:content` checks the drop-in shape:
 
-- `version` is a positive integer.
-- Every card has a unique id across the whole `content/` tree, and each deck id is unique too.
-- `forbidden` is exactly five non-empty strings.
+- Every card id is unique across `content/`, and every deck id is unique too.
+- `forbidden` is exactly five non-empty strings, with no duplicates on a card.
 - A forbidden word must not contain the main word (accents and case ignored).
-- Main words are unique across the decks of a theme in one language. Decks do not share cards.
+- Main words are unique across the decks of one theme in one language.
 - `difficulty` is `easy`, `medium`, or `hard`.
+- If `version` is present, it is a positive integer.
 
-The samples are two decks of five cards for each of the six themes, in both languages, so a match can be played before the full 3×50 banks arrive. The host picks one deck, or **Mix**, which draws the requested count from the chosen themes and prefers cards this room's phones have not seen. Seen ids are stored in `localStorage` on each phone and sent to the room. Within a round, a guessed card does not come back; an unfinished card returns to the end of the queue on purpose.
+`python3 content/validate.py` is the bank's own checker (3 decks × 50 cards, 20/20/10 difficulty mix, and a stricter root check). It prints warnings for near-duplicate titles and exits 0 when there are no errors.
 
-A match size larger than the chosen deck just uses the whole deck.
+The host picks one deck, or **Mix**, which draws the requested count from the chosen themes and prefers cards this room's phones have not seen. Seen ids are stored in `localStorage` on each phone and sent to the room. Within a round, a guessed card does not come back; an unfinished card returns to the end of the queue on purpose.
+
+A match size larger than the chosen deck just uses the whole deck. The setup screen offers 8, 15, 20, 30, and 50.
 
 ## Sounds
 

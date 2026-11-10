@@ -93,6 +93,14 @@ describe("deck building", () => {
     expect(new Set(all.ids).size).toBe(4);
   });
 
+  it("shuffles a deck instead of keeping the file order", () => {
+    const pool = cards(Array.from({ length: 20 }, (_, index) => `c${String(index).padStart(2, "0")}`));
+    const built = buildMatchDeck(pool, new Set(), pool.length, mulberry32(99));
+    expect(built.ids).not.toEqual(pool.map((card) => card.id));
+    expect([...built.ids].sort()).toEqual(pool.map((card) => card.id).sort());
+    expect(built.short).toBe(false);
+  });
+
   it("parks the current card at the end of the shared queue", () => {
     expect(parkFront(["a", "b", "c", "d"])).toEqual(["b", "c", "d", "a"]);
     expect(parkFront(["only"])).toEqual(["only"]);

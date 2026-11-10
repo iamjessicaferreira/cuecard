@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync } from "node:fs";
+import { readdirSync, readFileSync, statSync } from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { validateContentSet, validateThemeDocument, type ContentDocument } from "../src/shared/validateContent";
@@ -10,6 +10,7 @@ function loadDocuments(): ContentDocument[] {
   const documents: ContentDocument[] = [];
   for (const lang of readdirSync(root)) {
     const dir = path.join(root, lang);
+    if (!statSync(dir).isDirectory()) continue;
     for (const file of readdirSync(dir).filter((name) => name.endsWith(".json"))) {
       documents.push({
         path: path.join("content", lang, file),
@@ -23,10 +24,21 @@ function loadDocuments(): ContentDocument[] {
 }
 
 describe("content validator", () => {
-  it("accepts the sample banks", () => {
+  it("accepts the full banks and keeps every deck at 3 x 50", () => {
     const documents = loadDocuments();
     expect(documents.length).toBe(12);
     expect(validateContentSet(documents)).toEqual([]);
+    const themeIds = new Set<string>();
+    for (const document of documents) {
+      const data = document.data as {
+        theme_id: string;
+        decks: { cards: unknown[] }[];
+      };
+      themeIds.add(data.theme_id);
+      expect(data.decks).toHaveLength(3);
+      for (const deck of data.decks) expect(deck.cards).toHaveLength(50);
+    }
+    expect([...themeIds].sort()).toEqual(["art", "cooking", "geography", "history", "music", "pop_culture"]);
   });
 
   it("rejects a forbidden word that contains the main word", () => {

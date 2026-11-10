@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync } from "node:fs";
+import { readdirSync, readFileSync, statSync } from "node:fs";
 import path from "node:path";
 import { validateContentSet, type ContentDocument } from "../src/shared/validateContent";
 import type { Lang } from "../src/shared/types";
@@ -9,6 +9,7 @@ function loadDocuments(): ContentDocument[] {
   const documents: ContentDocument[] = [];
   for (const lang of readdirSync(root)) {
     const dir = path.join(root, lang);
+    if (!statSync(dir).isDirectory()) continue;
     for (const file of readdirSync(dir).filter((name) => name.endsWith(".json"))) {
       const full = path.join(dir, file);
       const data = JSON.parse(readFileSync(full, "utf8")) as unknown;

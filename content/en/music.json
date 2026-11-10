@@ -1,29 +1,1824 @@
 {
-  "version": 1,
   "theme_id": "music",
   "lang": "en",
   "theme_name": "Music",
   "decks": [
     {
-      "deck_id": "music-en-1",
-      "name": "Band room",
+      "deck_id": "en-music-1",
+      "name": "Deck 1",
       "cards": [
-        { "id": "music-en-1-01", "word": "Violin", "forbidden": ["bow", "strings", "orchestra", "chin", "fiddle"], "difficulty": "easy" },
-        { "id": "music-en-1-02", "word": "Karaoke", "forbidden": ["microphone", "sing", "bar", "lyrics", "backing"], "difficulty": "easy" },
-        { "id": "music-en-1-03", "word": "Drum", "forbidden": ["sticks", "beat", "snare", "rhythm", "kit"], "difficulty": "easy" },
-        { "id": "music-en-1-04", "word": "Guitar", "forbidden": ["chord", "fret", "acoustic", "pick", "strum"], "difficulty": "easy" },
-        { "id": "music-en-1-05", "word": "DJ", "forbidden": ["turntable", "mix", "club", "headphones", "scratch"], "difficulty": "medium" }
+        {
+          "id": "en-music-1-001",
+          "word": "Guitar",
+          "forbidden": [
+            "strings",
+            "strum",
+            "pick",
+            "acoustic",
+            "electric"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-002",
+          "word": "Drums",
+          "forbidden": [
+            "sticks",
+            "beat",
+            "cymbals",
+            "snare",
+            "kit"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-003",
+          "word": "Piano",
+          "forbidden": [
+            "keys",
+            "black and white",
+            "grand",
+            "Chopin",
+            "pedals"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-004",
+          "word": "Microphone",
+          "forbidden": [
+            "sing",
+            "voice",
+            "mic drop",
+            "stand",
+            "amplify"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-005",
+          "word": "Karaoke",
+          "forbidden": [
+            "sing",
+            "lyrics",
+            "screen",
+            "bar",
+            "off-key"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-006",
+          "word": "Concert",
+          "forbidden": [
+            "tickets",
+            "stage",
+            "live",
+            "crowd",
+            "band"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-007",
+          "word": "Headphones",
+          "forbidden": [
+            "ears",
+            "listen",
+            "wireless",
+            "noise-canceling",
+            "Beats"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-008",
+          "word": "Rock and roll",
+          "forbidden": [
+            "Elvis",
+            "guitar",
+            "Chuck Berry",
+            "1950s",
+            "dance"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-009",
+          "word": "Hip-hop",
+          "forbidden": [
+            "rap",
+            "beats",
+            "DJ",
+            "breakdance",
+            "MC"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-010",
+          "word": "Michael Jackson",
+          "forbidden": [
+            "moonwalk",
+            "Thriller",
+            "King of Pop",
+            "glove",
+            "Billie Jean"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-011",
+          "word": "The Beatles",
+          "forbidden": [
+            "Liverpool",
+            "John Lennon",
+            "Paul McCartney",
+            "Abbey Road",
+            "Ringo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-012",
+          "word": "Elvis Presley",
+          "forbidden": [
+            "King",
+            "hips",
+            "Graceland",
+            "Memphis",
+            "blue suede shoes"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-013",
+          "word": "Taylor Swift",
+          "forbidden": [
+            "Eras Tour",
+            "Blank Space",
+            "Travis Kelce",
+            "country",
+            "Shake It Off"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-014",
+          "word": "Violin",
+          "forbidden": [
+            "bow",
+            "strings",
+            "fiddle",
+            "chin",
+            "orchestra"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-015",
+          "word": "Radio",
+          "forbidden": [
+            "station",
+            "FM",
+            "DJ",
+            "airwaves",
+            "car"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-016",
+          "word": "Choir",
+          "forbidden": [
+            "sing",
+            "church",
+            "group",
+            "robes",
+            "voices"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-017",
+          "word": "Lullaby",
+          "forbidden": [
+            "baby",
+            "sleep",
+            "rock-a-bye",
+            "cradle",
+            "soft"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-018",
+          "word": "Christmas carol",
+          "forbidden": [
+            "Jingle Bells",
+            "December",
+            "sing",
+            "Silent Night",
+            "holiday"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-019",
+          "word": "Happy Birthday",
+          "forbidden": [
+            "cake",
+            "candles",
+            "sing",
+            "party",
+            "wish"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-020",
+          "word": "Banjo",
+          "forbidden": [
+            "bluegrass",
+            "strings",
+            "country",
+            "pluck",
+            "Deliverance"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-1-021",
+          "word": "Jazz",
+          "forbidden": [
+            "saxophone",
+            "improvise",
+            "New Orleans",
+            "swing",
+            "trumpet"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-022",
+          "word": "Beyoncé",
+          "forbidden": [
+            "Queen B",
+            "Destiny's Child",
+            "Single Ladies",
+            "Jay-Z",
+            "Renaissance"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-023",
+          "word": "Freddie Mercury",
+          "forbidden": [
+            "Queen",
+            "mustache",
+            "Bohemian Rhapsody",
+            "Live Aid",
+            "frontman"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-024",
+          "word": "Madonna",
+          "forbidden": [
+            "Like a Virgin",
+            "Material Girl",
+            "Vogue",
+            "Queen of Pop",
+            "cone bra"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-025",
+          "word": "Saxophone",
+          "forbidden": [
+            "brass",
+            "jazz",
+            "reed",
+            "Careless Whisper",
+            "curved"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-026",
+          "word": "DJ",
+          "forbidden": [
+            "turntables",
+            "mix",
+            "club",
+            "spin",
+            "scratch"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-027",
+          "word": "Playlist",
+          "forbidden": [
+            "Spotify",
+            "songs",
+            "shuffle",
+            "queue",
+            "mixtape"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-028",
+          "word": "Vinyl",
+          "forbidden": [
+            "record",
+            "turntable",
+            "LP",
+            "needle",
+            "scratch"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-029",
+          "word": "Sheet music",
+          "forbidden": [
+            "notes",
+            "read",
+            "staff",
+            "score",
+            "pianist"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-030",
+          "word": "Woodstock",
+          "forbidden": [
+            "festival",
+            "1969",
+            "hippies",
+            "mud",
+            "Jimi Hendrix"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-031",
+          "word": "Reggae",
+          "forbidden": [
+            "Bob Marley",
+            "Jamaica",
+            "dreadlocks",
+            "rasta",
+            "ska"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-032",
+          "word": "Opera",
+          "forbidden": [
+            "soprano",
+            "tenor",
+            "aria",
+            "Pavarotti",
+            "fat lady"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-033",
+          "word": "Bob Marley",
+          "forbidden": [
+            "reggae",
+            "Jamaica",
+            "dreadlocks",
+            "One Love",
+            "Wailers"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-034",
+          "word": "Grammy",
+          "forbidden": [
+            "award",
+            "Recording Academy",
+            "trophy",
+            "music",
+            "ceremony"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-035",
+          "word": "Boy band",
+          "forbidden": [
+            "NSYNC",
+            "Backstreet Boys",
+            "One Direction",
+            "choreography",
+            "heartthrob"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-036",
+          "word": "Encore",
+          "forbidden": [
+            "one more",
+            "again",
+            "chant",
+            "end of show",
+            "bow"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-037",
+          "word": "Musical",
+          "forbidden": [
+            "Broadway",
+            "Hamilton",
+            "singing",
+            "stage",
+            "theater"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-038",
+          "word": "Lady Gaga",
+          "forbidden": [
+            "Poker Face",
+            "meat dress",
+            "Little Monsters",
+            "Bad Romance",
+            "A Star Is Born"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-039",
+          "word": "Elton John",
+          "forbidden": [
+            "Rocket Man",
+            "glasses",
+            "Tiny Dancer",
+            "Lion King",
+            "Sir"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-040",
+          "word": "Dolly Parton",
+          "forbidden": [
+            "country",
+            "9 to 5",
+            "Jolene",
+            "Tennessee",
+            "wig"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-1-041",
+          "word": "Mozart",
+          "forbidden": [
+            "Amadeus",
+            "Austrian",
+            "prodigy",
+            "Magic Flute",
+            "Salzburg"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-042",
+          "word": "Beethoven",
+          "forbidden": [
+            "deaf",
+            "Fifth Symphony",
+            "Für Elise",
+            "German",
+            "composer"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-043",
+          "word": "Metronome",
+          "forbidden": [
+            "tick",
+            "tempo",
+            "beat",
+            "pendulum",
+            "steady"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-044",
+          "word": "Treble clef",
+          "forbidden": [
+            "G",
+            "staff",
+            "symbol",
+            "notes",
+            "swirl"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-045",
+          "word": "Bossa nova",
+          "forbidden": [
+            "Brazil",
+            "Girl from Ipanema",
+            "Jobim",
+            "guitar",
+            "samba"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-046",
+          "word": "Falsetto",
+          "forbidden": [
+            "high",
+            "voice",
+            "Bee Gees",
+            "head",
+            "squeaky"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-047",
+          "word": "Tuning fork",
+          "forbidden": [
+            "pitch",
+            "hum",
+            "vibrate",
+            "prongs",
+            "metal"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-048",
+          "word": "Barbershop quartet",
+          "forbidden": [
+            "four",
+            "harmony",
+            "straw hats",
+            "mustache",
+            "a cappella"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-049",
+          "word": "Motown",
+          "forbidden": [
+            "Detroit",
+            "Supremes",
+            "Stevie Wonder",
+            "soul",
+            "label"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-1-050",
+          "word": "Bach",
+          "forbidden": [
+            "Baroque",
+            "organ",
+            "fugue",
+            "German",
+            "Johann Sebastian"
+          ],
+          "difficulty": "hard"
+        }
       ]
     },
     {
-      "deck_id": "music-en-2",
-      "name": "Stage",
+      "deck_id": "en-music-2",
+      "name": "Deck 2",
       "cards": [
-        { "id": "music-en-2-01", "word": "Piano", "forbidden": ["keys", "pedal", "keyboard", "grand", "ivory"], "difficulty": "easy" },
-        { "id": "music-en-2-02", "word": "Choir", "forbidden": ["voices", "hymn", "church", "harmony", "rehearsal"], "difficulty": "medium" },
-        { "id": "music-en-2-03", "word": "Trumpet", "forbidden": ["brass", "valve", "jazz", "mouthpiece", "blast"], "difficulty": "medium" },
-        { "id": "music-en-2-04", "word": "Headphones", "forbidden": ["ears", "wireless", "listen", "audio", "cans"], "difficulty": "easy" },
-        { "id": "music-en-2-05", "word": "Festival", "forbidden": ["crowd", "lineup", "outdoor", "ticket", "weekend"], "difficulty": "easy" }
+        {
+          "id": "en-music-2-001",
+          "word": "Flute",
+          "forbidden": [
+            "blow",
+            "holes",
+            "woodwind",
+            "silver",
+            "recorder"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-002",
+          "word": "Tambourine",
+          "forbidden": [
+            "shake",
+            "jingle",
+            "hit",
+            "circle",
+            "hand"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-003",
+          "word": "Rehearsal",
+          "forbidden": [
+            "practice",
+            "run-through",
+            "band",
+            "before",
+            "dress"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-004",
+          "word": "Rap",
+          "forbidden": [
+            "rhyme",
+            "MC",
+            "beat",
+            "flow",
+            "Eminem"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-005",
+          "word": "Spotify",
+          "forbidden": [
+            "streaming",
+            "playlist",
+            "green",
+            "Swedish",
+            "Wrapped"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-006",
+          "word": "Keyboard",
+          "forbidden": [
+            "piano",
+            "electric",
+            "synth",
+            "Yamaha",
+            "Casio"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-007",
+          "word": "Trumpet",
+          "forbidden": [
+            "brass",
+            "valves",
+            "blow",
+            "jazz",
+            "Louis Armstrong"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-008",
+          "word": "Kazoo",
+          "forbidden": [
+            "hum",
+            "buzz",
+            "toy",
+            "plastic",
+            "mouth"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-009",
+          "word": "Harmonica",
+          "forbidden": [
+            "mouth organ",
+            "blues",
+            "blow",
+            "Bob Dylan",
+            "pocket"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-010",
+          "word": "Stage",
+          "forbidden": [
+            "platform",
+            "spotlight",
+            "perform",
+            "curtain",
+            "audience"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-011",
+          "word": "Xylophone",
+          "forbidden": [
+            "mallets",
+            "bars",
+            "kids",
+            "wooden",
+            "toy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-012",
+          "word": "Singer",
+          "forbidden": [
+            "vocalist",
+            "voice",
+            "pop star",
+            "microphone",
+            "solo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-013",
+          "word": "Nightclub",
+          "forbidden": [
+            "dance",
+            "DJ",
+            "bouncer",
+            "weekend",
+            "drinks"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-014",
+          "word": "Music video",
+          "forbidden": [
+            "MTV",
+            "YouTube",
+            "director",
+            "clip",
+            "dance"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-015",
+          "word": "Lyrics",
+          "forbidden": [
+            "words",
+            "song",
+            "verse",
+            "sing",
+            "written"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-016",
+          "word": "Justin Bieber",
+          "forbidden": [
+            "Baby",
+            "Canadian",
+            "Beliebers",
+            "Hailey",
+            "YouTube"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-017",
+          "word": "Rihanna",
+          "forbidden": [
+            "Umbrella",
+            "Barbados",
+            "Fenty",
+            "Diamonds",
+            "Super Bowl"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-018",
+          "word": "Disco",
+          "forbidden": [
+            "1970s",
+            "Bee Gees",
+            "mirror ball",
+            "Saturday Night Fever",
+            "dance"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-019",
+          "word": "Ukulele",
+          "forbidden": [
+            "Hawaii",
+            "small",
+            "four strings",
+            "strum",
+            "guitar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-020",
+          "word": "Cowbell",
+          "forbidden": [
+            "more",
+            "hit",
+            "metal",
+            "cow",
+            "Saturday Night Live"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-2-021",
+          "word": "Bruce Springsteen",
+          "forbidden": [
+            "The Boss",
+            "New Jersey",
+            "Born in the USA",
+            "E Street",
+            "rock"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-022",
+          "word": "Bob Dylan",
+          "forbidden": [
+            "harmonica",
+            "folk",
+            "Nobel Prize",
+            "Blowin' in the Wind",
+            "poet"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-023",
+          "word": "Johnny Cash",
+          "forbidden": [
+            "Man in Black",
+            "Folsom Prison",
+            "Ring of Fire",
+            "country",
+            "June Carter"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-024",
+          "word": "Prince",
+          "forbidden": [
+            "Purple Rain",
+            "Raspberry Beret",
+            "Minneapolis",
+            "symbol",
+            "guitar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-025",
+          "word": "ABBA",
+          "forbidden": [
+            "Swedish",
+            "Mamma Mia",
+            "Dancing Queen",
+            "Eurovision",
+            "Waterloo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-026",
+          "word": "Adele",
+          "forbidden": [
+            "Hello",
+            "British",
+            "Rolling in the Deep",
+            "21",
+            "Someone Like You"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-027",
+          "word": "Shakira",
+          "forbidden": [
+            "Colombian",
+            "She Wolf",
+            "Waka Waka",
+            "Hips Don't Lie",
+            "World Cup"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-028",
+          "word": "Harp",
+          "forbidden": [
+            "strings",
+            "angel",
+            "pluck",
+            "heaven",
+            "large"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-029",
+          "word": "Cello",
+          "forbidden": [
+            "bow",
+            "big",
+            "strings",
+            "sit",
+            "Yo-Yo Ma"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-030",
+          "word": "Tuba",
+          "forbidden": [
+            "big",
+            "brass",
+            "low",
+            "oompah",
+            "marching"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-031",
+          "word": "Bagpipes",
+          "forbidden": [
+            "Scotland",
+            "kilt",
+            "Amazing Grace",
+            "drone",
+            "bag"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-032",
+          "word": "Country music",
+          "forbidden": [
+            "cowboy",
+            "Nashville",
+            "banjo",
+            "twang",
+            "boots"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-033",
+          "word": "Heavy metal",
+          "forbidden": [
+            "headbanging",
+            "Iron Maiden",
+            "loud",
+            "guitar",
+            "mosh pit"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-034",
+          "word": "Punk rock",
+          "forbidden": [
+            "Sex Pistols",
+            "mohawk",
+            "Ramones",
+            "rebellious",
+            "safety pins"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-035",
+          "word": "Chorus",
+          "forbidden": [
+            "refrain",
+            "repeat",
+            "catchy",
+            "verse",
+            "sing along"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-036",
+          "word": "World tour",
+          "forbidden": [
+            "concerts",
+            "cities",
+            "stadium",
+            "bus",
+            "dates"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-037",
+          "word": "Unplugged",
+          "forbidden": [
+            "MTV",
+            "acoustic",
+            "Nirvana",
+            "stripped",
+            "live"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-038",
+          "word": "Coachella",
+          "forbidden": [
+            "festival",
+            "desert",
+            "California",
+            "flower crowns",
+            "Beyoncé"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-039",
+          "word": "Super Bowl halftime",
+          "forbidden": [
+            "football",
+            "show",
+            "performer",
+            "February",
+            "Rihanna"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-040",
+          "word": "Mixtape",
+          "forbidden": [
+            "cassette",
+            "playlist",
+            "crush",
+            "homemade",
+            "songs"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-2-041",
+          "word": "Tchaikovsky",
+          "forbidden": [
+            "Nutcracker",
+            "Swan Lake",
+            "Russian",
+            "ballet",
+            "1812 Overture"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-042",
+          "word": "Jimi Hendrix",
+          "forbidden": [
+            "guitar",
+            "Woodstock",
+            "Purple Haze",
+            "left-handed",
+            "Star-Spangled Banner"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-043",
+          "word": "Nirvana",
+          "forbidden": [
+            "Kurt Cobain",
+            "grunge",
+            "Seattle",
+            "Smells Like Teen Spirit",
+            "Nevermind"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-044",
+          "word": "Led Zeppelin",
+          "forbidden": [
+            "Stairway to Heaven",
+            "Robert Plant",
+            "Jimmy Page",
+            "blimp",
+            "rock"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-045",
+          "word": "Ella Fitzgerald",
+          "forbidden": [
+            "jazz",
+            "scat",
+            "First Lady of Song",
+            "singer",
+            "Louis Armstrong"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-046",
+          "word": "Louis Armstrong",
+          "forbidden": [
+            "trumpet",
+            "What a Wonderful World",
+            "Satchmo",
+            "jazz",
+            "gravelly"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-047",
+          "word": "A cappella",
+          "forbidden": [
+            "no instruments",
+            "voices",
+            "Pitch Perfect",
+            "Pentatonix",
+            "choir"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-048",
+          "word": "Baritone",
+          "forbidden": [
+            "voice",
+            "low",
+            "tenor",
+            "bass",
+            "male"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-049",
+          "word": "Synthesizer",
+          "forbidden": [
+            "electronic",
+            "keyboard",
+            "1980s",
+            "Moog",
+            "knobs"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-2-050",
+          "word": "Samba",
+          "forbidden": [
+            "Brazil",
+            "Carnival",
+            "Rio",
+            "dance",
+            "drums"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "en-music-3",
+      "name": "Deck 3",
+      "cards": [
+        {
+          "id": "en-music-3-001",
+          "word": "Speaker",
+          "forbidden": [
+            "loud",
+            "sound",
+            "Bluetooth",
+            "volume",
+            "boom"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-002",
+          "word": "Applause",
+          "forbidden": [
+            "clap",
+            "hands",
+            "audience",
+            "cheer",
+            "standing ovation"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-003",
+          "word": "Maracas",
+          "forbidden": [
+            "shake",
+            "rattle",
+            "Mexican",
+            "pair",
+            "beans"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-004",
+          "word": "Triangle",
+          "forbidden": [
+            "metal",
+            "ding",
+            "three sides",
+            "ring",
+            "orchestra"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-005",
+          "word": "Whistle",
+          "forbidden": [
+            "lips",
+            "blow",
+            "tune",
+            "referee",
+            "wolf"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-006",
+          "word": "K-pop",
+          "forbidden": [
+            "Korean",
+            "BTS",
+            "Blackpink",
+            "idols",
+            "choreography"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-007",
+          "word": "Bruno Mars",
+          "forbidden": [
+            "Uptown Funk",
+            "Hawaiian",
+            "Just the Way You Are",
+            "Grenade",
+            "Super Bowl"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-008",
+          "word": "Mariah Carey",
+          "forbidden": [
+            "All I Want for Christmas",
+            "high notes",
+            "diva",
+            "whistle register",
+            "December"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-009",
+          "word": "Bell",
+          "forbidden": [
+            "ring",
+            "church",
+            "ding dong",
+            "tower",
+            "Liberty"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-010",
+          "word": "Do re mi",
+          "forbidden": [
+            "notes",
+            "scale",
+            "Sound of Music",
+            "solfège",
+            "Julie Andrews"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-011",
+          "word": "Nursery rhyme",
+          "forbidden": [
+            "Mother Goose",
+            "kids",
+            "Humpty Dumpty",
+            "Twinkle Twinkle",
+            "poem"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-012",
+          "word": "Marching band",
+          "forbidden": [
+            "parade",
+            "drum major",
+            "halftime",
+            "uniforms",
+            "football"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-013",
+          "word": "Boombox",
+          "forbidden": [
+            "shoulder",
+            "1980s",
+            "cassette",
+            "portable",
+            "loud"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-014",
+          "word": "Jukebox",
+          "forbidden": [
+            "diner",
+            "coins",
+            "records",
+            "play",
+            "retro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-015",
+          "word": "Air guitar",
+          "forbidden": [
+            "pretend",
+            "invisible",
+            "strum",
+            "rock",
+            "mime"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-016",
+          "word": "Cassette tape",
+          "forbidden": [
+            "rewind",
+            "pencil",
+            "Walkman",
+            "magnetic",
+            "1980s"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-017",
+          "word": "Rock star",
+          "forbidden": [
+            "famous",
+            "guitar",
+            "groupies",
+            "tour",
+            "fame"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-018",
+          "word": "Drumsticks",
+          "forbidden": [
+            "wooden",
+            "pair",
+            "hit",
+            "rhythm",
+            "snare"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-019",
+          "word": "iPod",
+          "forbidden": [
+            "Apple",
+            "click wheel",
+            "songs",
+            "white earbuds",
+            "Steve Jobs"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-020",
+          "word": "Lip sync",
+          "forbidden": [
+            "mouth",
+            "pretend",
+            "playback",
+            "battle",
+            "mime"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-music-3-021",
+          "word": "Whitney Houston",
+          "forbidden": [
+            "I Will Always Love You",
+            "The Bodyguard",
+            "voice",
+            "diva",
+            "I Wanna Dance"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-022",
+          "word": "Stevie Wonder",
+          "forbidden": [
+            "blind",
+            "harmonica",
+            "Superstition",
+            "Motown",
+            "piano"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-023",
+          "word": "Frank Sinatra",
+          "forbidden": [
+            "Ol' Blue Eyes",
+            "My Way",
+            "Rat Pack",
+            "New York New York",
+            "crooner"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-024",
+          "word": "Ray Charles",
+          "forbidden": [
+            "blind",
+            "piano",
+            "Georgia",
+            "soul",
+            "sunglasses"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-025",
+          "word": "Aretha Franklin",
+          "forbidden": [
+            "Respect",
+            "Queen of Soul",
+            "gospel",
+            "Detroit",
+            "Natural Woman"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-026",
+          "word": "Eminem",
+          "forbidden": [
+            "Slim Shady",
+            "Detroit",
+            "Lose Yourself",
+            "rapper",
+            "8 Mile"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-027",
+          "word": "Drake",
+          "forbidden": [
+            "Toronto",
+            "rapper",
+            "Hotline Bling",
+            "Canadian",
+            "OVO"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-028",
+          "word": "Pink Floyd",
+          "forbidden": [
+            "The Wall",
+            "Dark Side of the Moon",
+            "prism",
+            "psychedelic",
+            "Roger Waters"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-029",
+          "word": "The Rolling Stones",
+          "forbidden": [
+            "Mick Jagger",
+            "tongue",
+            "Satisfaction",
+            "Keith Richards",
+            "British"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-030",
+          "word": "Cymbals",
+          "forbidden": [
+            "crash",
+            "drums",
+            "clash",
+            "brass",
+            "hi-hat"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-031",
+          "word": "Clarinet",
+          "forbidden": [
+            "woodwind",
+            "reed",
+            "black",
+            "Benny Goodman",
+            "squeak"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-032",
+          "word": "Accordion",
+          "forbidden": [
+            "squeeze",
+            "polka",
+            "bellows",
+            "keys",
+            "French"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-033",
+          "word": "Blues",
+          "forbidden": [
+            "sad",
+            "B.B. King",
+            "Mississippi",
+            "guitar",
+            "twelve-bar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-034",
+          "word": "Gospel",
+          "forbidden": [
+            "church",
+            "choir",
+            "praise",
+            "soul",
+            "hallelujah"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-035",
+          "word": "Salsa",
+          "forbidden": [
+            "dance",
+            "Cuba",
+            "Latin",
+            "spicy",
+            "partner"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-036",
+          "word": "Tango",
+          "forbidden": [
+            "Argentina",
+            "dance",
+            "rose",
+            "Buenos Aires",
+            "partner"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-037",
+          "word": "Record label",
+          "forbidden": [
+            "contract",
+            "sign",
+            "artists",
+            "Sony",
+            "release"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-038",
+          "word": "Billboard",
+          "forbidden": [
+            "Hot 100",
+            "chart",
+            "number one",
+            "magazine",
+            "ranking"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-039",
+          "word": "Eurovision",
+          "forbidden": [
+            "song",
+            "contest",
+            "ABBA",
+            "Sweden",
+            "points"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-040",
+          "word": "Glastonbury",
+          "forbidden": [
+            "festival",
+            "England",
+            "mud",
+            "Pyramid Stage",
+            "farm"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-music-3-041",
+          "word": "Vivaldi",
+          "forbidden": [
+            "Four Seasons",
+            "Baroque",
+            "Venice",
+            "violin",
+            "Italian"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-042",
+          "word": "Miles Davis",
+          "forbidden": [
+            "Kind of Blue",
+            "trumpet",
+            "jazz",
+            "cool",
+            "Bitches Brew"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-043",
+          "word": "Nashville",
+          "forbidden": [
+            "Tennessee",
+            "country",
+            "Music City",
+            "Grand Ole Opry",
+            "honky-tonk"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-044",
+          "word": "Conductor",
+          "forbidden": [
+            "baton",
+            "orchestra",
+            "wave",
+            "maestro",
+            "lead"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-045",
+          "word": "Octave",
+          "forbidden": [
+            "eight",
+            "notes",
+            "scale",
+            "higher",
+            "same note"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-046",
+          "word": "Crescendo",
+          "forbidden": [
+            "louder",
+            "gradually",
+            "build",
+            "dynamics",
+            "volume"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-047",
+          "word": "Harpsichord",
+          "forbidden": [
+            "Baroque",
+            "keyboard",
+            "pluck",
+            "piano",
+            "antique"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-048",
+          "word": "Didgeridoo",
+          "forbidden": [
+            "Australia",
+            "Aboriginal",
+            "drone",
+            "long",
+            "wooden"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-049",
+          "word": "Steel drum",
+          "forbidden": [
+            "Caribbean",
+            "Trinidad",
+            "metal",
+            "island",
+            "pan"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "en-music-3-050",
+          "word": "Yodeling",
+          "forbidden": [
+            "Alps",
+            "Swiss",
+            "voice",
+            "mountain",
+            "cowboy"
+          ],
+          "difficulty": "hard"
+        }
       ]
     }
   ]

@@ -1,29 +1,1824 @@
 {
-  "version": 1,
   "theme_id": "history",
   "lang": "pt-BR",
   "theme_name": "História",
   "decks": [
     {
-      "deck_id": "history-pt-1",
-      "name": "Império",
+      "deck_id": "pt-history-1",
+      "name": "Baralho 1",
       "cards": [
-        { "id": "history-pt-1-01", "word": "Cleópatra", "forbidden": ["Egito", "rainha", "Nilo", "Roma", "serpente"], "difficulty": "medium" },
-        { "id": "history-pt-1-02", "word": "Viking", "forbidden": ["navio", "nórdico", "saque", "elmo", "fiorde"], "difficulty": "easy" },
-        { "id": "history-pt-1-03", "word": "Castelo", "forbidden": ["fosso", "cavaleiro", "torre", "ponte levadiça", "medieval"], "difficulty": "easy" },
-        { "id": "history-pt-1-04", "word": "Revolução", "forbidden": ["rebelião", "protesto", "mudança", "povo", "barricada"], "difficulty": "hard" },
-        { "id": "history-pt-1-05", "word": "Múmia", "forbidden": ["atadura", "tumba", "Egito", "faraó", "linho"], "difficulty": "easy" }
+        {
+          "id": "pt-history-1-001",
+          "word": "Faraó",
+          "forbidden": [
+            "Egito",
+            "pirâmide",
+            "rei",
+            "múmia",
+            "Tutancâmon"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-002",
+          "word": "Cleópatra",
+          "forbidden": [
+            "Egito",
+            "rainha",
+            "Júlio César",
+            "Marco Antônio",
+            "serpente"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-003",
+          "word": "Napoleão",
+          "forbidden": [
+            "França",
+            "baixinho",
+            "imperador",
+            "Waterloo",
+            "chapéu"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-004",
+          "word": "Cavaleiro",
+          "forbidden": [
+            "armadura",
+            "lança",
+            "espada",
+            "medieval",
+            "rei"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-005",
+          "word": "Castelo",
+          "forbidden": [
+            "rei",
+            "torres",
+            "muralhas",
+            "medieval",
+            "princesa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-006",
+          "word": "Vikings",
+          "forbidden": [
+            "Escandinávia",
+            "barcos",
+            "chifres",
+            "nórdicos",
+            "Thor"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-007",
+          "word": "Dom Pedro I",
+          "forbidden": [
+            "Independência",
+            "Ipiranga",
+            "imperador",
+            "grito",
+            "1822"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-008",
+          "word": "Descobrimento do Brasil",
+          "forbidden": [
+            "Cabral",
+            "1500",
+            "caravelas",
+            "Portugal",
+            "Porto Seguro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-009",
+          "word": "Independência",
+          "forbidden": [
+            "7 de Setembro",
+            "Dom Pedro",
+            "grito",
+            "Ipiranga",
+            "liberdade"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-010",
+          "word": "Tiradentes",
+          "forbidden": [
+            "Inconfidência Mineira",
+            "21 de abril",
+            "enforcado",
+            "Minas",
+            "barba"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-011",
+          "word": "Dinossauros",
+          "forbidden": [
+            "Jurássico",
+            "extintos",
+            "fóssil",
+            "T-Rex",
+            "meteoro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-012",
+          "word": "Múmia",
+          "forbidden": [
+            "Egito",
+            "faixas",
+            "sarcófago",
+            "faraó",
+            "embalsamado"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-013",
+          "word": "Coroa",
+          "forbidden": [
+            "rei",
+            "rainha",
+            "cabeça",
+            "ouro",
+            "joias"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-014",
+          "word": "Homem das cavernas",
+          "forbidden": [
+            "pré-história",
+            "fogo",
+            "pedra",
+            "clava",
+            "primitivo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-015",
+          "word": "Pirata",
+          "forbidden": [
+            "navio",
+            "tapa-olho",
+            "tesouro",
+            "papagaio",
+            "perna de pau"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-016",
+          "word": "Roda",
+          "forbidden": [
+            "invenção",
+            "redonda",
+            "girar",
+            "carro",
+            "eixo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-017",
+          "word": "Muro de Berlim",
+          "forbidden": [
+            "Alemanha",
+            "queda",
+            "1989",
+            "Guerra Fria",
+            "dividir"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-018",
+          "word": "Cristóvão Colombo",
+          "forbidden": [
+            "América",
+            "1492",
+            "navegador",
+            "caravelas",
+            "Espanha"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-019",
+          "word": "Neil Armstrong",
+          "forbidden": [
+            "Lua",
+            "astronauta",
+            "Apollo",
+            "pisar",
+            "pequeno passo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-020",
+          "word": "Abraham Lincoln",
+          "forbidden": [
+            "presidente",
+            "EUA",
+            "cartola",
+            "barba",
+            "Guerra Civil"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-1-021",
+          "word": "Revolução Francesa",
+          "forbidden": [
+            "Bastilha",
+            "guilhotina",
+            "1789",
+            "liberdade",
+            "Maria Antonieta"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-022",
+          "word": "Guerra Fria",
+          "forbidden": [
+            "EUA",
+            "União Soviética",
+            "comunismo",
+            "capitalismo",
+            "corrida espacial"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-023",
+          "word": "Império Romano",
+          "forbidden": [
+            "César",
+            "Coliseu",
+            "legiões",
+            "gladiadores",
+            "latim"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-024",
+          "word": "Idade Média",
+          "forbidden": [
+            "castelos",
+            "feudalismo",
+            "cavaleiros",
+            "peste",
+            "Igreja"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-025",
+          "word": "Pedro Álvares Cabral",
+          "forbidden": [
+            "descobrimento",
+            "1500",
+            "Portugal",
+            "caravelas",
+            "navegador"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-026",
+          "word": "Getúlio Vargas",
+          "forbidden": [
+            "Estado Novo",
+            "presidente",
+            "carta-testamento",
+            "CLT",
+            "gaúcho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-027",
+          "word": "Santos Dumont",
+          "forbidden": [
+            "14-Bis",
+            "avião",
+            "Paris",
+            "inventor",
+            "relógio de pulso"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-028",
+          "word": "Juscelino Kubitschek",
+          "forbidden": [
+            "JK",
+            "Brasília",
+            "presidente",
+            "50 anos em 5",
+            "mineiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-029",
+          "word": "Inconfidência Mineira",
+          "forbidden": [
+            "Tiradentes",
+            "Minas Gerais",
+            "Ouro Preto",
+            "conspiração",
+            "1789"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-030",
+          "word": "Martin Luther King",
+          "forbidden": [
+            "Eu tenho um sonho",
+            "direitos civis",
+            "EUA",
+            "pastor",
+            "discurso"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-031",
+          "word": "Gandhi",
+          "forbidden": [
+            "Índia",
+            "não violência",
+            "independência",
+            "óculos",
+            "paz"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-032",
+          "word": "Nelson Mandela",
+          "forbidden": [
+            "África do Sul",
+            "apartheid",
+            "presidente",
+            "preso",
+            "Madiba"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-033",
+          "word": "Revolução Industrial",
+          "forbidden": [
+            "fábricas",
+            "máquina a vapor",
+            "Inglaterra",
+            "operários",
+            "carvão"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-034",
+          "word": "Grandes Navegações",
+          "forbidden": [
+            "caravelas",
+            "Portugal",
+            "oceano",
+            "descobrimentos",
+            "Vasco da Gama"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-035",
+          "word": "Joana d'Arc",
+          "forbidden": [
+            "França",
+            "guerreira",
+            "fogueira",
+            "santa",
+            "Orléans"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-036",
+          "word": "Marco Polo",
+          "forbidden": [
+            "Veneza",
+            "China",
+            "viajante",
+            "Rota da Seda",
+            "mercador"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-037",
+          "word": "Astecas",
+          "forbidden": [
+            "México",
+            "Tenochtitlán",
+            "império",
+            "Montezuma",
+            "sacrifícios"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-038",
+          "word": "Bandeirantes",
+          "forbidden": [
+            "São Paulo",
+            "sertão",
+            "expedições",
+            "Borba Gato",
+            "ouro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-039",
+          "word": "Guerra de Troia",
+          "forbidden": [
+            "cavalo",
+            "gregos",
+            "Helena",
+            "Aquiles",
+            "Homero"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-040",
+          "word": "Proclamação da República",
+          "forbidden": [
+            "15 de novembro",
+            "Deodoro",
+            "1889",
+            "monarquia",
+            "império"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-1-041",
+          "word": "Canudos",
+          "forbidden": [
+            "Antônio Conselheiro",
+            "Bahia",
+            "sertão",
+            "Os Sertões",
+            "Euclides da Cunha"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-042",
+          "word": "Revolta da Vacina",
+          "forbidden": [
+            "Oswaldo Cruz",
+            "Rodrigues Alves",
+            "1904",
+            "varíola",
+            "obrigatória"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-043",
+          "word": "Guerra do Paraguai",
+          "forbidden": [
+            "Solano López",
+            "Tríplice Aliança",
+            "Argentina",
+            "Uruguai",
+            "Caxias"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-044",
+          "word": "Diretas Já",
+          "forbidden": [
+            "eleição",
+            "comício",
+            "anos 80",
+            "presidente",
+            "voto"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-045",
+          "word": "Plano Real",
+          "forbidden": [
+            "moeda",
+            "inflação",
+            "1994",
+            "Fernando Henrique",
+            "cruzeiro"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-046",
+          "word": "Mesopotâmia",
+          "forbidden": [
+            "Tigre",
+            "Eufrates",
+            "sumérios",
+            "escrita cuneiforme",
+            "Babilônia"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-047",
+          "word": "Magna Carta",
+          "forbidden": [
+            "Inglaterra",
+            "rei João",
+            "1215",
+            "documento",
+            "direitos"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-048",
+          "word": "Rota da Seda",
+          "forbidden": [
+            "China",
+            "comércio",
+            "caravanas",
+            "Marco Polo",
+            "Oriente"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-049",
+          "word": "Pompeia",
+          "forbidden": [
+            "Vesúvio",
+            "vulcão",
+            "cinzas",
+            "Itália",
+            "romana"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-1-050",
+          "word": "Tratado de Tordesilhas",
+          "forbidden": [
+            "linha",
+            "Portugal",
+            "Espanha",
+            "1494",
+            "dividir"
+          ],
+          "difficulty": "hard"
+        }
       ]
     },
     {
-      "deck_id": "history-pt-2",
-      "name": "Relíquia",
+      "deck_id": "pt-history-2",
+      "name": "Baralho 2",
       "cards": [
-        { "id": "history-pt-2-01", "word": "Cavaleiro", "forbidden": ["armadura", "espada", "cavalo", "lança", "escudo"], "difficulty": "easy" },
-        { "id": "history-pt-2-02", "word": "Coliseu", "forbidden": ["Roma", "gladiador", "arena", "antigo", "plateia"], "difficulty": "medium" },
-        { "id": "history-pt-2-03", "word": "Samurai", "forbidden": ["Japão", "katana", "guerreiro", "honra", "armadura"], "difficulty": "medium" },
-        { "id": "history-pt-2-04", "word": "Tesouro", "forbidden": ["baú", "ouro", "mapa", "enterrado", "moedas"], "difficulty": "easy" },
-        { "id": "history-pt-2-05", "word": "Coroa", "forbidden": ["rei", "joia", "real", "cabeça", "trono"], "difficulty": "easy" }
+        {
+          "id": "pt-history-2-001",
+          "word": "Rei Arthur",
+          "forbidden": [
+            "Távola Redonda",
+            "Excalibur",
+            "Merlin",
+            "Camelot",
+            "cavaleiros"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-002",
+          "word": "Robin Hood",
+          "forbidden": [
+            "arco",
+            "flecha",
+            "ricos",
+            "pobres",
+            "Sherwood"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-003",
+          "word": "Espada",
+          "forbidden": [
+            "lâmina",
+            "cavaleiro",
+            "lutar",
+            "bainha",
+            "afiada"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-004",
+          "word": "Armadura",
+          "forbidden": [
+            "metal",
+            "cavaleiro",
+            "proteção",
+            "elmo",
+            "ferro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-005",
+          "word": "Trono",
+          "forbidden": [
+            "rei",
+            "cadeira",
+            "rainha",
+            "sentar",
+            "poder"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-006",
+          "word": "Pirâmides",
+          "forbidden": [
+            "Egito",
+            "faraó",
+            "Gizé",
+            "triângulo",
+            "deserto"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-007",
+          "word": "Esfinge",
+          "forbidden": [
+            "Egito",
+            "leão",
+            "enigma",
+            "Gizé",
+            "cabeça"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-008",
+          "word": "Idade da Pedra",
+          "forbidden": [
+            "pré-história",
+            "ferramentas",
+            "caverna",
+            "fogo",
+            "lascada"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-009",
+          "word": "Rainha Elizabeth",
+          "forbidden": [
+            "Inglaterra",
+            "coroa",
+            "corgis",
+            "Buckingham",
+            "monarca"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-010",
+          "word": "Imperador",
+          "forbidden": [
+            "Napoleão",
+            "coroa",
+            "rei",
+            "Roma",
+            "Japão"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-011",
+          "word": "Fóssil",
+          "forbidden": [
+            "dinossauro",
+            "ossos",
+            "pedra",
+            "paleontólogo",
+            "escavação"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-012",
+          "word": "Arqueólogo",
+          "forbidden": [
+            "escavar",
+            "ruínas",
+            "Indiana Jones",
+            "ossos",
+            "pincel"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-013",
+          "word": "Telefone",
+          "forbidden": [
+            "Graham Bell",
+            "ligar",
+            "fio",
+            "alô",
+            "discar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-014",
+          "word": "Lâmpada",
+          "forbidden": [
+            "Thomas Edison",
+            "luz",
+            "acender",
+            "filamento",
+            "ideia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-015",
+          "word": "Moeda",
+          "forbidden": [
+            "dinheiro",
+            "metal",
+            "troco",
+            "cara ou coroa",
+            "real"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-016",
+          "word": "Templo",
+          "forbidden": [
+            "deuses",
+            "sagrado",
+            "colunas",
+            "rezar",
+            "Grécia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-017",
+          "word": "Exército",
+          "forbidden": [
+            "soldados",
+            "guerra",
+            "general",
+            "tropas",
+            "farda"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-018",
+          "word": "Caravela",
+          "forbidden": [
+            "navio",
+            "velas",
+            "Cabral",
+            "Portugal",
+            "Colombo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-019",
+          "word": "Calendário",
+          "forbidden": [
+            "dias",
+            "meses",
+            "semanas",
+            "datas",
+            "gregoriano"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-020",
+          "word": "Mamute",
+          "forbidden": [
+            "peludo",
+            "elefante",
+            "gelo",
+            "extinto",
+            "presas"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-2-021",
+          "word": "Primeira Guerra Mundial",
+          "forbidden": [
+            "1914",
+            "trincheiras",
+            "Áustria",
+            "Tríplice Entente",
+            "arquiduque"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-022",
+          "word": "Hieróglifo",
+          "forbidden": [
+            "Egito",
+            "escrita",
+            "símbolos",
+            "desenhos",
+            "Champollion"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-023",
+          "word": "Monarquia",
+          "forbidden": [
+            "rei",
+            "rainha",
+            "coroa",
+            "príncipe",
+            "herdeiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-024",
+          "word": "Charles Darwin",
+          "forbidden": [
+            "evolução",
+            "Galápagos",
+            "Origem das Espécies",
+            "seleção natural",
+            "macaco"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-025",
+          "word": "Galileu",
+          "forbidden": [
+            "telescópio",
+            "Terra gira",
+            "Inquisição",
+            "astrônomo",
+            "italiano"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-026",
+          "word": "Sócrates",
+          "forbidden": [
+            "filósofo",
+            "Grécia",
+            "só sei que nada sei",
+            "Platão",
+            "cicuta"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-027",
+          "word": "Alexandre o Grande",
+          "forbidden": [
+            "Macedônia",
+            "conquistador",
+            "Aristóteles",
+            "império",
+            "Grécia"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-028",
+          "word": "Júlio César",
+          "forbidden": [
+            "Roma",
+            "imperador",
+            "Brutus",
+            "Cleópatra",
+            "Até tu"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-029",
+          "word": "Tutancâmon",
+          "forbidden": [
+            "faraó",
+            "menino",
+            "máscara de ouro",
+            "tumba",
+            "maldição"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-030",
+          "word": "Feudalismo",
+          "forbidden": [
+            "suserano",
+            "servos",
+            "terra",
+            "medieval",
+            "vassalo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-031",
+          "word": "Cruzadas",
+          "forbidden": [
+            "Jerusalém",
+            "cristãos",
+            "Idade Média",
+            "guerra santa",
+            "cavaleiros"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-032",
+          "word": "Peste negra",
+          "forbidden": [
+            "ratos",
+            "pulgas",
+            "Idade Média",
+            "epidemia",
+            "Europa"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-033",
+          "word": "Lampião",
+          "forbidden": [
+            "cangaço",
+            "Maria Bonita",
+            "sertão",
+            "chapéu",
+            "Nordeste"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-034",
+          "word": "Zumbi dos Palmares",
+          "forbidden": [
+            "quilombo",
+            "20 de novembro",
+            "Consciência Negra",
+            "líder",
+            "resistência"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-035",
+          "word": "Anita Garibaldi",
+          "forbidden": [
+            "heroína",
+            "dois mundos",
+            "Farroupilha",
+            "Santa Catarina",
+            "Itália"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-036",
+          "word": "Marie Curie",
+          "forbidden": [
+            "radioatividade",
+            "Nobel",
+            "cientista",
+            "polonesa",
+            "Pierre"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-037",
+          "word": "Guerra dos Farrapos",
+          "forbidden": [
+            "Rio Grande do Sul",
+            "gaúchos",
+            "Garibaldi",
+            "Bento Gonçalves",
+            "1835"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-038",
+          "word": "Corrida espacial",
+          "forbidden": [
+            "EUA",
+            "URSS",
+            "Lua",
+            "Sputnik",
+            "Guerra Fria"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-039",
+          "word": "Revolução Russa",
+          "forbidden": [
+            "Lenin",
+            "czar",
+            "1917",
+            "bolcheviques",
+            "comunismo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-040",
+          "word": "Brasil Colônia",
+          "forbidden": [
+            "Portugal",
+            "Coroa",
+            "cana-de-açúcar",
+            "capitanias",
+            "1500"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-2-041",
+          "word": "Carlota Joaquina",
+          "forbidden": [
+            "rainha",
+            "Dom João VI",
+            "espanhola",
+            "Portugal",
+            "sapatos"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-042",
+          "word": "Bastilha",
+          "forbidden": [
+            "prisão",
+            "Paris",
+            "14 de julho",
+            "queda",
+            "Revolução Francesa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-043",
+          "word": "Reforma Protestante",
+          "forbidden": [
+            "Lutero",
+            "95 teses",
+            "Igreja",
+            "católica",
+            "Alemanha"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-044",
+          "word": "Hamurabi",
+          "forbidden": [
+            "código",
+            "olho por olho",
+            "Babilônia",
+            "leis",
+            "rei"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-045",
+          "word": "Iluminismo",
+          "forbidden": [
+            "razão",
+            "Voltaire",
+            "Rousseau",
+            "século XVIII",
+            "luzes"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-046",
+          "word": "Pedra de Roseta",
+          "forbidden": [
+            "Egito",
+            "hieróglifos",
+            "Champollion",
+            "Museu Britânico",
+            "tradução"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-047",
+          "word": "Revolta da Chibata",
+          "forbidden": [
+            "marinheiros",
+            "João Cândido",
+            "1910",
+            "castigo",
+            "Almirante Negro"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-048",
+          "word": "Gengis Khan",
+          "forbidden": [
+            "Mongólia",
+            "império",
+            "conquistador",
+            "cavalo",
+            "mongóis"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-049",
+          "word": "Esparta",
+          "forbidden": [
+            "guerreiros",
+            "300",
+            "Leônidas",
+            "Grécia",
+            "Atenas"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-2-050",
+          "word": "Leopoldina",
+          "forbidden": [
+            "imperatriz",
+            "austríaca",
+            "Dom Pedro I",
+            "Independência",
+            "Habsburgo"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "pt-history-3",
+      "name": "Baralho 3",
+      "cards": [
+        {
+          "id": "pt-history-3-001",
+          "word": "Samurai",
+          "forbidden": [
+            "Japão",
+            "espada",
+            "katana",
+            "guerreiro",
+            "honra"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-002",
+          "word": "Ninja",
+          "forbidden": [
+            "Japão",
+            "preto",
+            "espião",
+            "estrela",
+            "silencioso"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-003",
+          "word": "Velho Oeste",
+          "forbidden": [
+            "cowboy",
+            "xerife",
+            "cavalo",
+            "duelo",
+            "saloon"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-004",
+          "word": "Atlântida",
+          "forbidden": [
+            "afundou",
+            "cidade perdida",
+            "mito",
+            "oceano",
+            "Platão"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-005",
+          "word": "Hércules",
+          "forbidden": [
+            "força",
+            "doze trabalhos",
+            "semideus",
+            "Zeus",
+            "grego"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-006",
+          "word": "Zeus",
+          "forbidden": [
+            "raio",
+            "deus",
+            "Olimpo",
+            "grego",
+            "Júpiter"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-007",
+          "word": "Medusa",
+          "forbidden": [
+            "cobras",
+            "cabelo",
+            "pedra",
+            "olhar",
+            "Perseu"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-008",
+          "word": "Olimpíadas",
+          "forbidden": [
+            "jogos",
+            "medalha",
+            "tocha",
+            "Grécia",
+            "aros"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-009",
+          "word": "Soldado",
+          "forbidden": [
+            "exército",
+            "farda",
+            "guerra",
+            "arma",
+            "quartel"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-010",
+          "word": "Bobo da corte",
+          "forbidden": [
+            "rei",
+            "palhaço",
+            "castelo",
+            "piadas",
+            "guizos"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-011",
+          "word": "Escudo",
+          "forbidden": [
+            "proteger",
+            "guerreiro",
+            "espada",
+            "defesa",
+            "braço"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-012",
+          "word": "Catapulta",
+          "forbidden": [
+            "lançar",
+            "pedras",
+            "castelo",
+            "cerco",
+            "arremessar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-013",
+          "word": "Mosqueteiros",
+          "forbidden": [
+            "três",
+            "D'Artagnan",
+            "um por todos",
+            "França",
+            "espada"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-014",
+          "word": "Vaticano",
+          "forbidden": [
+            "papa",
+            "Roma",
+            "igreja",
+            "católico",
+            "Capela Sistina"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-015",
+          "word": "Papiro",
+          "forbidden": [
+            "Egito",
+            "papel",
+            "escrever",
+            "rolo",
+            "planta"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-016",
+          "word": "Pólvora",
+          "forbidden": [
+            "China",
+            "explosão",
+            "canhão",
+            "fogos de artifício",
+            "preta"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-017",
+          "word": "Máquina de escrever",
+          "forbidden": [
+            "teclas",
+            "datilografar",
+            "papel",
+            "antiga",
+            "letras"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-018",
+          "word": "Telegrama",
+          "forbidden": [
+            "mensagem",
+            "código Morse",
+            "correio",
+            "urgente",
+            "antigo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-019",
+          "word": "Fogo",
+          "forbidden": [
+            "descoberta",
+            "chama",
+            "queimar",
+            "calor",
+            "pré-história"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-020",
+          "word": "Ampulheta",
+          "forbidden": [
+            "areia",
+            "tempo",
+            "vidro",
+            "virar",
+            "minutos"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-history-3-021",
+          "word": "Chico Mendes",
+          "forbidden": [
+            "seringueiro",
+            "Acre",
+            "Amazônia",
+            "ambientalista",
+            "floresta"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-022",
+          "word": "Carmen Miranda",
+          "forbidden": [
+            "frutas",
+            "turbante",
+            "Hollywood",
+            "Pequena Notável",
+            "cantora"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-023",
+          "word": "Ayrton Senna",
+          "forbidden": [
+            "Fórmula 1",
+            "piloto",
+            "McLaren",
+            "Tema da Vitória",
+            "Ímola"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-024",
+          "word": "Marechal Deodoro",
+          "forbidden": [
+            "República",
+            "1889",
+            "proclamação",
+            "militar",
+            "presidente"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-025",
+          "word": "Princesa Isabel",
+          "forbidden": [
+            "Lei Áurea",
+            "1888",
+            "Dom Pedro II",
+            "abolição",
+            "assinatura"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-026",
+          "word": "George Washington",
+          "forbidden": [
+            "EUA",
+            "primeiro presidente",
+            "nota de dólar",
+            "independência",
+            "general"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-027",
+          "word": "Rainha Vitória",
+          "forbidden": [
+            "Inglaterra",
+            "Londres",
+            "século XIX",
+            "império",
+            "Albert"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-028",
+          "word": "Isaac Newton",
+          "forbidden": [
+            "maçã",
+            "gravidade",
+            "física",
+            "leis",
+            "inglês"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-029",
+          "word": "Czar",
+          "forbidden": [
+            "Rússia",
+            "imperador",
+            "Romanov",
+            "Nicolau",
+            "Moscou"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-030",
+          "word": "Ciclo do Ouro",
+          "forbidden": [
+            "Minas Gerais",
+            "garimpo",
+            "século XVIII",
+            "Vila Rica",
+            "mineração"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-031",
+          "word": "Imigração italiana",
+          "forbidden": [
+            "Mooca",
+            "São Paulo",
+            "colonos",
+            "café",
+            "navio"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-032",
+          "word": "Apollo 11",
+          "forbidden": [
+            "Lua",
+            "1969",
+            "Armstrong",
+            "NASA",
+            "foguete"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-033",
+          "word": "Sputnik",
+          "forbidden": [
+            "satélite",
+            "URSS",
+            "1957",
+            "espaço",
+            "primeiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-034",
+          "word": "Templários",
+          "forbidden": [
+            "cavaleiros",
+            "cruz vermelha",
+            "Cruzadas",
+            "ordem",
+            "monges"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-035",
+          "word": "Luís XIV",
+          "forbidden": [
+            "Rei Sol",
+            "Versalhes",
+            "França",
+            "absolutismo",
+            "O Estado sou eu"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-036",
+          "word": "Maria Antonieta",
+          "forbidden": [
+            "brioches",
+            "guilhotina",
+            "rainha",
+            "França",
+            "Versalhes"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-037",
+          "word": "Winston Churchill",
+          "forbidden": [
+            "Inglaterra",
+            "primeiro-ministro",
+            "charuto",
+            "Segunda Guerra",
+            "V da vitória"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-038",
+          "word": "Família Real portuguesa",
+          "forbidden": [
+            "Dom João VI",
+            "1808",
+            "Rio de Janeiro",
+            "fuga",
+            "Napoleão"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-039",
+          "word": "Neandertal",
+          "forbidden": [
+            "hominídeo",
+            "pré-histórico",
+            "extinto",
+            "caverna",
+            "Homo sapiens"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-040",
+          "word": "Café com leite",
+          "forbidden": [
+            "política",
+            "São Paulo",
+            "Minas Gerais",
+            "República Velha",
+            "alternância"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-history-3-041",
+          "word": "Cabanagem",
+          "forbidden": [
+            "Amazônia",
+            "revolta",
+            "regência",
+            "Grão-Pará",
+            "Belém"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-042",
+          "word": "Waterloo",
+          "forbidden": [
+            "Napoleão",
+            "batalha",
+            "derrota",
+            "Bélgica",
+            "1815"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-043",
+          "word": "Tratado de Versalhes",
+          "forbidden": [
+            "Primeira Guerra",
+            "Alemanha",
+            "1919",
+            "paz",
+            "culpa"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-044",
+          "word": "Império Bizantino",
+          "forbidden": [
+            "Constantinopla",
+            "Justiniano",
+            "Oriente",
+            "Istambul",
+            "romano"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-045",
+          "word": "Fenícios",
+          "forbidden": [
+            "alfabeto",
+            "navegadores",
+            "comércio",
+            "púrpura",
+            "Cartago"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-046",
+          "word": "Plano Marshall",
+          "forbidden": [
+            "EUA",
+            "Europa",
+            "reconstrução",
+            "pós-guerra",
+            "ajuda"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-047",
+          "word": "Cortina de Ferro",
+          "forbidden": [
+            "Churchill",
+            "Europa",
+            "Guerra Fria",
+            "comunismo",
+            "divisão"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-048",
+          "word": "Dom João VI",
+          "forbidden": [
+            "rei",
+            "Portugal",
+            "1808",
+            "Rio de Janeiro",
+            "frango"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-049",
+          "word": "Ramsés II",
+          "forbidden": [
+            "faraó",
+            "Egito",
+            "Abu Simbel",
+            "Moisés",
+            "longevo"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-history-3-050",
+          "word": "Missões jesuíticas",
+          "forbidden": [
+            "São Miguel",
+            "guaranis",
+            "padres",
+            "Rio Grande do Sul",
+            "ruínas"
+          ],
+          "difficulty": "hard"
+        }
       ]
     }
   ]
