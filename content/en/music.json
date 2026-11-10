@@ -189,13 +189,13 @@
         },
         {
           "id": "en-music-1-016",
-          "word": "Gramophone",
+          "word": "Dance",
           "forbidden": [
-            "old",
-            "record",
-            "horn",
-            "antique",
-            "phonograph"
+            "move",
+            "groove",
+            "party",
+            "steps",
+            "choreography"
           ],
           "difficulty": "easy"
         },
@@ -663,13 +663,13 @@
         },
         {
           "id": "en-music-2-005",
-          "word": "Xylophone",
+          "word": "Jingle Bells",
           "forbidden": [
-            "bars",
-            "mallets",
-            "kids",
-            "colorful",
-            "hit"
+            "Christmas",
+            "Santa",
+            "sleigh",
+            "December",
+            "carol"
           ],
           "difficulty": "easy"
         },
@@ -915,37 +915,37 @@
         },
         {
           "id": "en-music-2-026",
-          "word": "Cello",
+          "word": "Queen",
           "forbidden": [
-            "bow",
-            "big",
-            "strings",
-            "sitting",
-            "low"
+            "Freddie Mercury",
+            "band",
+            "royal",
+            "Bohemian Rhapsody",
+            "We Will Rock You"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-music-2-027",
-          "word": "Tuba",
+          "word": "Grammy",
           "forbidden": [
-            "big",
-            "brass",
-            "low",
-            "blow",
-            "marching band"
+            "award",
+            "trophy",
+            "statuette",
+            "music",
+            "Oscar"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-music-2-028",
-          "word": "Double bass",
+          "word": "Elton John",
           "forbidden": [
-            "low",
-            "strings",
-            "orchestra",
-            "huge",
-            "jazz"
+            "glasses",
+            "piano",
+            "Rocketman",
+            "British",
+            "The Lion King"
           ],
           "difficulty": "medium"
         },
@@ -1035,13 +1035,13 @@
         },
         {
           "id": "en-music-2-036",
-          "word": "Woodstock",
+          "word": "Classical music",
           "forbidden": [
-            "festival",
-            "1969",
-            "hippies",
-            "peace and love",
-            "mud"
+            "Mozart",
+            "Beethoven",
+            "orchestra",
+            "symphony",
+            "piano"
           ],
           "difficulty": "medium"
         },
@@ -1221,25 +1221,25 @@
       "cards": [
         {
           "id": "en-music-3-001",
-          "word": "Maracas",
+          "word": "CD",
           "forbidden": [
-            "shake",
-            "Mexico",
-            "pair",
-            "rattle",
-            "beans"
+            "disc",
+            "silver",
+            "player",
+            "album",
+            "round"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-music-3-002",
-          "word": "Bagpipes",
+          "word": "iPod",
           "forbidden": [
-            "Scotland",
-            "kilt",
-            "skirt",
-            "blow",
-            "bag"
+            "Apple",
+            "music",
+            "earbuds",
+            "white",
+            "pocket"
           ],
           "difficulty": "easy"
         },
@@ -1281,13 +1281,13 @@
         },
         {
           "id": "en-music-3-006",
-          "word": "Ringtone",
+          "word": "Britney Spears",
           "forbidden": [
-            "call",
-            "phone",
-            "Nokia",
-            "alarm",
-            "cell"
+            "Oops",
+            "pop",
+            "blonde",
+            "Toxic",
+            "shaved head"
           ],
           "difficulty": "easy"
         },
@@ -1389,13 +1389,13 @@
         },
         {
           "id": "en-music-3-015",
-          "word": "Jingle",
+          "word": "Moonwalk",
           "forbidden": [
-            "commercial",
-            "ad",
-            "catchy",
-            "short",
-            "brand"
+            "Michael Jackson",
+            "dance",
+            "backwards",
+            "slide",
+            "step"
           ],
           "difficulty": "easy"
         },
@@ -1449,13 +1449,13 @@
         },
         {
           "id": "en-music-3-020",
-          "word": "Marching band",
+          "word": "Mariachi",
           "forbidden": [
-            "parade",
-            "drums",
-            "uniforms",
-            "trombones",
-            "football"
+            "Mexico",
+            "sombrero",
+            "trumpet",
+            "guitars",
+            "band"
           ],
           "difficulty": "easy"
         },
@@ -1497,13 +1497,13 @@
         },
         {
           "id": "en-music-3-024",
-          "word": "Encore",
+          "word": "Despacito",
           "forbidden": [
-            "again",
-            "one more",
-            "repeat",
-            "chant",
-            "end of show"
+            "Luis Fonsi",
+            "Justin Bieber",
+            "reggaeton",
+            "Spanish",
+            "YouTube"
           ],
           "difficulty": "easy"
         },
@@ -1629,13 +1629,13 @@
         },
         {
           "id": "en-music-3-035",
-          "word": "Do re mi",
+          "word": "Chord",
           "forbidden": [
             "notes",
-            "scale",
-            "seven",
-            "sing",
-            "Sound of Music"
+            "guitar",
+            "strum",
+            "play",
+            "C major"
           ],
           "difficulty": "medium"
         },
@@ -1701,13 +1701,13 @@
         },
         {
           "id": "en-music-3-041",
-          "word": "Synthesizer",
+          "word": "Mariah Carey",
           "forbidden": [
-            "keyboard",
-            "electronic",
-            "1980s",
-            "knobs",
-            "sounds"
+            "December",
+            "All I Want for Christmas",
+            "high notes",
+            "diva",
+            "singer"
           ],
           "difficulty": "medium"
         },

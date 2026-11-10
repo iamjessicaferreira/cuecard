@@ -1035,13 +1035,13 @@
         },
         {
           "id": "pt-cooking-2-036",
-          "word": "Paella",
+          "word": "Risoto",
           "forbidden": [
-            "Espanha",
             "arroz",
-            "frutos do mar",
-            "amarelo",
-            "panela grande"
+            "Itália",
+            "cremoso",
+            "queijo",
+            "mexer"
           ],
           "difficulty": "medium"
         },

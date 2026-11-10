@@ -189,13 +189,13 @@
         },
         {
           "id": "pt-music-1-016",
-          "word": "Gramofone",
+          "word": "Dançar",
           "forbidden": [
-            "antigo",
-            "disco",
-            "corneta",
-            "vitrola",
-            "tocar música"
+            "balançar",
+            "mexer",
+            "coreografia",
+            "festa",
+            "passos"
           ],
           "difficulty": "easy"
         },
@@ -663,13 +663,13 @@
         },
         {
           "id": "pt-music-2-005",
-          "word": "Xilofone",
+          "word": "Jingle Bells",
           "forbidden": [
-            "plaquinhas",
-            "baquetas",
-            "criança",
-            "colorido",
-            "bater"
+            "Natal",
+            "Papai Noel",
+            "trenó",
+            "dezembro",
+            "bate o sino"
           ],
           "difficulty": "easy"
         },
@@ -915,37 +915,37 @@
         },
         {
           "id": "pt-music-2-026",
-          "word": "Violoncelo",
+          "word": "Queen",
           "forbidden": [
-            "arco",
-            "grande",
-            "cordas",
-            "sentado",
-            "grave"
+            "Freddie Mercury",
+            "banda",
+            "rainha",
+            "Bohemian Rhapsody",
+            "We Will Rock You"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-music-2-027",
-          "word": "Tuba",
+          "word": "Grammy",
           "forbidden": [
-            "grande",
-            "sopro",
-            "grave",
-            "metal",
-            "fanfarra"
+            "prêmio",
+            "troféu",
+            "estatueta",
+            "música",
+            "Oscar"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-music-2-028",
-          "word": "Contrabaixo",
+          "word": "Elton John",
           "forbidden": [
-            "grave",
-            "cordas",
-            "baixista",
-            "grande",
-            "jazz"
+            "óculos",
+            "piano",
+            "Rocketman",
+            "inglês",
+            "O Rei Leão"
           ],
           "difficulty": "medium"
         },
@@ -1035,13 +1035,13 @@
         },
         {
           "id": "pt-music-2-036",
-          "word": "Woodstock",
+          "word": "Música clássica",
           "forbidden": [
-            "festival",
-            "1969",
-            "hippies",
-            "paz e amor",
-            "lama"
+            "Mozart",
+            "Beethoven",
+            "orquestra",
+            "erudita",
+            "piano"
           ],
           "difficulty": "medium"
         },
@@ -1221,25 +1221,25 @@
       "cards": [
         {
           "id": "pt-music-3-001",
-          "word": "Maracas",
+          "word": "CD",
           "forbidden": [
-            "sacudir",
-            "México",
-            "par",
-            "bolinhas",
-            "chocalho"
+            "disco",
+            "prata",
+            "tocador",
+            "álbum",
+            "redondo"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-music-3-002",
-          "word": "Gaita de foles",
+          "word": "iPod",
           "forbidden": [
-            "Escócia",
-            "saia",
-            "kilt",
-            "soprar",
-            "saco"
+            "Apple",
+            "música",
+            "fone",
+            "branco",
+            "bolso"
           ],
           "difficulty": "easy"
         },
@@ -1281,13 +1281,13 @@
         },
         {
           "id": "pt-music-3-006",
-          "word": "Toque de celular",
+          "word": "Britney Spears",
           "forbidden": [
-            "chamada",
-            "ligação",
-            "tocar",
-            "alarme",
-            "telefone"
+            "Oops",
+            "pop",
+            "loira",
+            "Toxic",
+            "careca"
           ],
           "difficulty": "easy"
         },
@@ -1389,13 +1389,13 @@
         },
         {
           "id": "pt-music-3-015",
-          "word": "Jingle",
+          "word": "Moonwalk",
           "forbidden": [
-            "comercial",
-            "propaganda",
-            "chiclete",
-            "curto",
-            "marca"
+            "Michael Jackson",
+            "dança",
+            "andar para trás",
+            "deslizar",
+            "passo"
           ],
           "difficulty": "easy"
         },
@@ -1449,13 +1449,13 @@
         },
         {
           "id": "pt-music-3-020",
-          "word": "Fanfarra",
+          "word": "Mariachi",
           "forbidden": [
-            "banda",
-            "desfile",
-            "escola",
-            "tambores",
-            "marchar"
+            "México",
+            "sombrero",
+            "trompete",
+            "violão",
+            "banda"
           ],
           "difficulty": "easy"
         },
@@ -1497,13 +1497,13 @@
         },
         {
           "id": "pt-music-3-024",
-          "word": "Bis",
+          "word": "Despacito",
           "forbidden": [
-            "de novo",
-            "mais um",
-            "repetir",
-            "pedir",
-            "fim do show"
+            "Luis Fonsi",
+            "Justin Bieber",
+            "reggaeton",
+            "espanhol",
+            "YouTube"
           ],
           "difficulty": "easy"
         },
@@ -1629,13 +1629,13 @@
         },
         {
           "id": "pt-music-3-035",
-          "word": "Dó ré mi",
+          "word": "Acorde",
           "forbidden": [
             "notas",
-            "escala",
-            "sete",
-            "cantar",
-            "A Noviça Rebelde"
+            "violão",
+            "tocar",
+            "junto",
+            "dó maior"
           ],
           "difficulty": "medium"
         },
@@ -1701,13 +1701,13 @@
         },
         {
           "id": "pt-music-3-041",
-          "word": "Sintetizador",
+          "word": "Mariah Carey",
           "forbidden": [
-            "teclado",
-            "eletrônico",
-            "anos 80",
-            "botões",
-            "sons"
+            "dezembro",
+            "All I Want for Christmas",
+            "agudo",
+            "diva",
+            "cantora"
           ],
           "difficulty": "medium"
         },

@@ -1035,13 +1035,13 @@
         },
         {
           "id": "en-cooking-2-036",
-          "word": "Paella",
+          "word": "Risotto",
           "forbidden": [
-            "Spain",
             "rice",
-            "seafood",
-            "yellow",
-            "big pan"
+            "Italy",
+            "creamy",
+            "cheese",
+            "stir"
           ],
           "difficulty": "medium"
         },
