@@ -24,21 +24,34 @@ function loadDocuments(): ContentDocument[] {
 }
 
 describe("content validator", () => {
-  it("accepts the full banks and keeps every deck at 3 x 50", () => {
+  it("accepts the banks, including a theme with a single deck", () => {
     const documents = loadDocuments();
     expect(documents.length).toBe(12);
     expect(validateContentSet(documents)).toEqual([]);
-    const themeIds = new Set<string>();
+    const decksPerTheme: Record<string, number> = {
+      art: 3,
+      music: 3,
+      geography: 3,
+      pop_culture: 3,
+      cooking: 3,
+      history: 1,
+    };
+    const seen = new Set<string>();
     for (const document of documents) {
       const data = document.data as {
         theme_id: string;
-        decks: { cards: unknown[] }[];
+        decks: { cards: { difficulty: string }[] }[];
       };
-      themeIds.add(data.theme_id);
-      expect(data.decks).toHaveLength(3);
-      for (const deck of data.decks) expect(deck.cards).toHaveLength(50);
+      seen.add(data.theme_id);
+      expect(data.decks).toHaveLength(decksPerTheme[data.theme_id]);
+      for (const deck of data.decks) {
+        expect(deck.cards).toHaveLength(50);
+        const mix = { easy: 0, medium: 0, hard: 0 };
+        for (const card of deck.cards) mix[card.difficulty as keyof typeof mix] += 1;
+        expect(mix).toEqual({ easy: 25, medium: 20, hard: 5 });
+      }
     }
-    expect([...themeIds].sort()).toEqual(["art", "cooking", "geography", "history", "music", "pop_culture"]);
+    expect([...seen].sort()).toEqual(Object.keys(decksPerTheme).sort());
   });
 
   it("rejects a forbidden word that contains the main word", () => {

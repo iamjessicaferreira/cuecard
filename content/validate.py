@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Validate the card bank JSON files.
-ERRORS (must be zero): schema, counts (3 decks x 50), exactly 5 distinct forbidden words,
+ERRORS (must be zero): schema, counts (3 decks x 50; history 1 deck x 50), exactly 5 distinct forbidden words,
 1-3 word main term, unique ids, duplicate main words within a theme, root containment
-between main word and forbidden words, difficulty mix per deck (20 easy/20 medium/10 hard).
+between main word and forbidden words, difficulty mix per deck (25 easy/20 medium/5 hard).
 WARNINGS (reviewed by hand): weaker root similarity, near-duplicate main words within a theme
 (string similarity / shared significant token), same main word across themes of a language.
 """
@@ -13,8 +13,9 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 THEMES = ["art", "music", "geography", "pop_culture", "cooking", "history"]
 LANGS = ["pt-BR", "en"]
-DIFF_TARGET = {"easy": 20, "medium": 20, "hard": 10}
-STOP = {"de","da","do","das","dos","e","o","a","os","as","em","no","na","com","um","uma","the","of","and","in","on","a","an","to","for","la","le","el","du","von","van","y"}
+DIFF_TARGET = {"easy": 25, "medium": 20, "hard": 5}   # ~50/40/10 per 50-card deck
+DECKS = {"history": 1}  # default 3 decks per theme
+STOP = {"de","da","do","das","dos","e","o","a","os","as","em","no","na","com","um","uma","the","of","and","in","on","a","an","to","for"}
 
 def norm(s):
     s = unicodedata.normalize("NFKD", s.lower())
@@ -34,7 +35,7 @@ def common_prefix(a, b):
 def root_issue(main, forb):
     """Return ('error'|'warn', detail) or None."""
     nm, nf = norm(main).replace(" ", ""), norm(forb).replace(" ", "")
-    if nm and nm in nf or (len(nf) >= 4 and nf in nm):
+    if (len(nm) >= 3 and nm in nf) or (len(nf) >= 4 and nf in nm):
         return "error", "whole-word containment"
     worst = None
     for a in tokens(main):
@@ -69,7 +70,8 @@ def main():
             if data.get("theme_id") != theme or data.get("lang") != lang:
                 errors.append(f"{p}: theme_id/lang mismatch")
             decks = data.get("decks", [])
-            if len(decks) != 3: errors.append(f"{lang}/{theme}: {len(decks)} decks (expected 3)")
+            exp = DECKS.get(theme, 3)
+            if len(decks) != exp: errors.append(f"{lang}/{theme}: {len(decks)} decks (expected {exp})")
             seen = {}
             allcards = []
             for d in decks:

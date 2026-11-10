@@ -74,7 +74,7 @@ The free instance sleeps after a stretch of idle time. The first request after t
 
 ## Card files
 
-The live bank is already in the repo: six themes, three decks of 50 cards, in `pt-BR` and `en` (1,800 cards). Files are ordered easy to hard. A match does not play them in that order. When the room starts, the chosen cards are shuffled into the round-1 pile, and round 2 shuffles the same set again.
+The live bank is already in the repo, in `pt-BR` and `en`. Art, Music, Geography & Travel, Pop Culture, and Cooking each have three decks of 50. History has one deck of 50. That is 1,600 cards. A theme can ship with any number of decks; the lobby lists whatever is in the file. Files are ordered easy to hard (25 easy, 20 medium, 5 hard). A match does not play them in that order. When the room starts, the chosen cards are shuffled into the round-1 pile, and round 2 shuffles the same set again.
 
 Replace a file, or the whole `content/pt-BR` and `content/en` trees, and restart. The filename (without `.json`) must match `theme_id`. Current ids: `art`, `music`, `geography`, `pop_culture`, `cooking`, `history`.
 
@@ -116,7 +116,7 @@ content/validate.py
 - `difficulty` is `easy`, `medium`, or `hard`.
 - If `version` is present, it is a positive integer.
 
-`python3 content/validate.py` is the bank's own checker (3 decks × 50 cards, 20/20/10 difficulty mix, and a stricter root check). It prints warnings for near-duplicate titles and exits 0 when there are no errors.
+`python3 content/validate.py` is the bank's own checker. It expects three decks of 50 for every theme except History, which has one deck of 50, a 25/20/5 difficulty mix, and a stricter root check. It prints warnings for near-duplicate titles and exits 0 when there are no errors.
 
 The host picks one deck, or **Mix**, which draws the requested count from the chosen themes and prefers cards this room's phones have not seen. Seen ids are stored in `localStorage` on each phone and sent to the room. Within a round, a guessed card does not come back; an unfinished card returns to the end of the queue on purpose.
 

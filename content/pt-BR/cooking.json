@@ -9,54 +9,150 @@
       "cards": [
         {
           "id": "pt-cooking-1-001",
-          "word": "Feijoada",
+          "word": "Geladeira",
           "forbidden": [
-            "preto",
-            "porco",
-            "couve",
-            "sábado",
-            "laranja"
+            "fria",
+            "porta",
+            "cozinha",
+            "comida",
+            "freezer"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-cooking-1-002",
-          "word": "Brigadeiro",
+          "word": "Fogão",
           "forbidden": [
-            "chocolate",
-            "granulado",
-            "festa",
-            "leite condensado",
-            "docinho"
+            "bocas",
+            "gás",
+            "panela",
+            "cozinha",
+            "forno"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-cooking-1-003",
-          "word": "Pão de queijo",
+          "word": "Micro-ondas",
           "forbidden": [
-            "Minas",
-            "polvilho",
-            "café da manhã",
-            "mineiro",
-            "bolinha"
+            "esquentar",
+            "apitar",
+            "pipoca",
+            "rodar",
+            "minutos"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-cooking-1-004",
-          "word": "Pizza",
+          "word": "Liquidificador",
           "forbidden": [
-            "massa",
-            "mussarela",
-            "forno",
-            "Itália",
-            "fatia"
+            "suco",
+            "vitamina",
+            "copo",
+            "lâminas",
+            "barulho"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-cooking-1-005",
+          "word": "Forno",
+          "forbidden": [
+            "assar",
+            "bolo",
+            "quente",
+            "pizza",
+            "porta"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-006",
+          "word": "Panela",
+          "forbidden": [
+            "cozinhar",
+            "tampa",
+            "fogão",
+            "cabo",
+            "arroz"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-007",
+          "word": "Frigideira",
+          "forbidden": [
+            "fritar",
+            "ovo",
+            "cabo",
+            "óleo",
+            "chapa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-008",
+          "word": "Garfo",
+          "forbidden": [
+            "talher",
+            "comer",
+            "dentes",
+            "faca",
+            "espetar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-009",
+          "word": "Faca",
+          "forbidden": [
+            "cortar",
+            "afiada",
+            "lâmina",
+            "talher",
+            "cabo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-010",
+          "word": "Colher",
+          "forbidden": [
+            "sopa",
+            "mexer",
+            "talher",
+            "pequena",
+            "garfo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-011",
+          "word": "Pizza",
+          "forbidden": [
+            "queijo",
+            "fatia",
+            "Itália",
+            "massa",
+            "entrega"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-012",
+          "word": "Hambúrguer",
+          "forbidden": [
+            "pão",
+            "carne",
+            "lanche",
+            "McDonald's",
+            "batata frita"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-013",
           "word": "Sushi",
           "forbidden": [
             "Japão",
@@ -68,1171 +164,55 @@
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-1-006",
-          "word": "Hambúrguer",
-          "forbidden": [
-            "pão",
-            "carne",
-            "lanche",
-            "McDonald's",
-            "cheddar"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-007",
-          "word": "Panela de pressão",
-          "forbidden": [
-            "chiado",
-            "feijão",
-            "apito",
-            "vapor",
-            "explodir"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-008",
-          "word": "Liquidificador",
-          "forbidden": [
-            "suco",
-            "bater",
-            "copo",
-            "lâminas",
-            "vitamina"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-009",
-          "word": "Cenoura",
-          "forbidden": [
-            "laranja",
-            "coelho",
-            "bolo",
-            "legume",
-            "vista"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-010",
-          "word": "Tomate",
-          "forbidden": [
-            "vermelho",
-            "molho",
-            "salada",
-            "ketchup",
-            "fruta"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-011",
-          "word": "Abacaxi",
-          "forbidden": [
-            "coroa",
-            "espinhos",
-            "amarelo",
-            "tropical",
-            "azedo"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-012",
-          "word": "Omelete",
-          "forbidden": [
-            "ovos",
-            "frigideira",
-            "queijo",
-            "bater",
-            "dobrar"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-013",
-          "word": "Pipoca",
-          "forbidden": [
-            "milho",
-            "cinema",
-            "estourar",
-            "manteiga",
-            "panela"
-          ],
-          "difficulty": "easy"
-        },
-        {
           "id": "pt-cooking-1-014",
-          "word": "Churrasco",
+          "word": "Sorvete",
           "forbidden": [
-            "carne",
-            "espeto",
-            "carvão",
-            "picanha",
-            "domingo"
+            "gelado",
+            "casquinha",
+            "verão",
+            "bola",
+            "derreter"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-cooking-1-015",
-          "word": "Café",
-          "forbidden": [
-            "xícara",
-            "manhã",
-            "preto",
-            "expresso",
-            "grão"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-016",
-          "word": "Arroz",
-          "forbidden": [
-            "grão",
-            "branco",
-            "feijão",
-            "panela",
-            "soltinho"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-017",
-          "word": "Banana",
-          "forbidden": [
-            "amarela",
-            "macaco",
-            "casca",
-            "prata",
-            "nanica"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-018",
-          "word": "Alho",
-          "forbidden": [
-            "cheiro",
-            "dente",
-            "vampiro",
-            "cabeça",
-            "tempero"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-019",
-          "word": "Garfo",
-          "forbidden": [
-            "talher",
-            "faca",
-            "dentes",
-            "comer",
-            "colher"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-020",
-          "word": "Geladeira",
-          "forbidden": [
-            "frio",
-            "freezer",
-            "Brastemp",
-            "porta",
-            "cozinha"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-1-021",
-          "word": "Moqueca",
-          "forbidden": [
-            "peixe",
-            "dendê",
-            "Bahia",
-            "leite de coco",
-            "capixaba"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-022",
-          "word": "Acarajé",
-          "forbidden": [
-            "Bahia",
-            "feijão-fradinho",
-            "dendê",
-            "baiana",
-            "vatapá"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-023",
-          "word": "Coxinha",
-          "forbidden": [
-            "frango",
-            "salgado",
-            "festa",
-            "catupiry",
-            "massa"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-024",
-          "word": "Lasanha",
-          "forbidden": [
-            "massa",
-            "camadas",
-            "molho",
-            "queijo",
-            "forno"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-025",
-          "word": "Risoto",
-          "forbidden": [
-            "arroz arbóreo",
-            "cremoso",
-            "italiano",
-            "parmesão",
-            "caldo"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-026",
-          "word": "Tapioca",
-          "forbidden": [
-            "goma",
-            "mandioca",
-            "frigideira",
-            "nordestina",
-            "recheio"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-027",
-          "word": "Farofa",
-          "forbidden": [
-            "farinha de mandioca",
-            "manteiga",
-            "bacon",
-            "churrasco",
-            "torrada"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-028",
-          "word": "Batedeira",
-          "forbidden": [
-            "bolo",
-            "misturar",
-            "massa",
-            "claras",
-            "elétrica"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-029",
-          "word": "Ralador",
-          "forbidden": [
-            "queijo",
-            "cenoura",
-            "parmesão",
-            "buracos",
-            "metal"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-030",
-          "word": "Refogar",
-          "forbidden": [
-            "alho",
-            "cebola",
-            "óleo",
-            "panela",
-            "dourar"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-031",
-          "word": "Banho-maria",
-          "forbidden": [
-            "água",
-            "panela",
-            "derreter",
-            "chocolate",
-            "pudim"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-032",
-          "word": "Fermento",
-          "forbidden": [
-            "crescer",
-            "pão",
-            "bolo",
-            "massa",
-            "biológico"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-033",
-          "word": "Canela",
-          "forbidden": [
-            "pau",
-            "arroz-doce",
-            "pó",
-            "especiaria",
-            "maçã"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-034",
-          "word": "Manjericão",
-          "forbidden": [
-            "folha",
-            "pesto",
-            "pizza",
-            "erva",
-            "italiano"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-035",
-          "word": "Berinjela",
-          "forbidden": [
-            "roxa",
-            "legume",
-            "parmegiana",
-            "babaganuche",
-            "brilhante"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-036",
-          "word": "Abobrinha",
-          "forbidden": [
-            "verde",
-            "legume",
-            "refogada",
-            "italiana",
-            "recheada"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-037",
-          "word": "Guacamole",
-          "forbidden": [
-            "abacate",
-            "México",
-            "nachos",
-            "limão",
-            "pasta"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-038",
-          "word": "Fondue",
-          "forbidden": [
-            "queijo",
-            "chocolate",
-            "Suíça",
-            "panelinha",
-            "garfinho"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-039",
-          "word": "Paella",
-          "forbidden": [
-            "Espanha",
-            "arroz",
-            "frutos do mar",
-            "açafrão",
-            "Valência"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-040",
-          "word": "Air fryer",
-          "forbidden": [
-            "fritadeira",
-            "sem óleo",
-            "elétrica",
-            "batata",
-            "ar quente"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-1-041",
-          "word": "Tacacá",
-          "forbidden": [
-            "Pará",
-            "tucupi",
-            "jambu",
-            "cuia",
-            "camarão"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-042",
-          "word": "Vatapá",
-          "forbidden": [
-            "Bahia",
-            "pão",
-            "camarão",
-            "dendê",
-            "creme"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-043",
-          "word": "Baião de dois",
-          "forbidden": [
-            "arroz",
-            "feijão",
-            "queijo coalho",
-            "Ceará",
-            "nordestino"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-044",
-          "word": "Flambar",
-          "forbidden": [
-            "fogo",
-            "álcool",
-            "conhaque",
-            "chama",
-            "panela"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-045",
-          "word": "Sous vide",
-          "forbidden": [
-            "vácuo",
-            "saco plástico",
-            "temperatura",
-            "francês",
-            "água"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-046",
-          "word": "Açafrão",
-          "forbidden": [
-            "amarelo",
-            "especiaria",
-            "cúrcuma",
-            "paella",
-            "caro"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-047",
-          "word": "Crème brûlée",
-          "forbidden": [
-            "maçarico",
-            "açúcar queimado",
-            "francês",
-            "sobremesa",
-            "casquinha"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-048",
-          "word": "Alcaparra",
-          "forbidden": [
-            "pequena",
-            "verde",
-            "salgada",
-            "conserva",
-            "botão"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-049",
-          "word": "Tucupi",
-          "forbidden": [
-            "mandioca",
-            "amarelo",
-            "Pará",
-            "caldo",
-            "pato"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-1-050",
-          "word": "Ratatouille",
-          "forbidden": [
-            "legumes",
-            "francês",
-            "ratinho",
-            "Pixar",
-            "berinjela"
-          ],
-          "difficulty": "hard"
-        }
-      ]
-    },
-    {
-      "deck_id": "pt-cooking-2",
-      "name": "Baralho 2",
-      "cards": [
-        {
-          "id": "pt-cooking-2-001",
           "word": "Bolo",
           "forbidden": [
             "aniversário",
             "vela",
             "fatia",
-            "cobertura",
-            "confeitaria"
+            "festa",
+            "cobertura"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-2-002",
-          "word": "Sorvete",
-          "forbidden": [
-            "gelado",
-            "casquinha",
-            "picolé",
-            "bola",
-            "verão"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-003",
-          "word": "Macarrão",
-          "forbidden": [
-            "massa",
-            "espaguete",
-            "molho",
-            "Itália",
-            "parafuso"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-004",
-          "word": "Batata frita",
-          "forbidden": [
-            "McDonald's",
-            "palito",
-            "óleo",
-            "ketchup",
-            "crocante"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-005",
-          "word": "Pastel",
-          "forbidden": [
-            "feira",
-            "caldo de cana",
-            "frito",
-            "carne",
-            "massa"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-006",
-          "word": "Açaí",
-          "forbidden": [
-            "roxo",
-            "tigela",
-            "Pará",
-            "granola",
-            "fruta"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-007",
-          "word": "Chocolate",
-          "forbidden": [
-            "cacau",
-            "barra",
-            "doce",
-            "Páscoa",
-            "ovo"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-008",
-          "word": "Pão francês",
-          "forbidden": [
-            "padaria",
-            "manteiga",
-            "café da manhã",
-            "cacetinho",
-            "crocante"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-009",
-          "word": "Queijo",
-          "forbidden": [
-            "leite",
-            "mussarela",
-            "rato",
-            "Minas",
-            "fatia"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-010",
-          "word": "Cebola",
-          "forbidden": [
-            "chorar",
-            "cortar",
-            "camadas",
-            "alho",
-            "roxa"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-011",
-          "word": "Limão",
-          "forbidden": [
-            "azedo",
-            "caipirinha",
-            "verde",
-            "suco",
-            "ácido"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-012",
-          "word": "Morango",
-          "forbidden": [
-            "vermelho",
-            "chantilly",
-            "sementinhas",
-            "fruta",
-            "bolo"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-013",
-          "word": "Melancia",
-          "forbidden": [
-            "verde",
-            "vermelha",
-            "caroços",
-            "verão",
-            "grande"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-014",
-          "word": "Faca",
-          "forbidden": [
-            "cortar",
-            "lâmina",
-            "afiada",
-            "talher",
-            "cozinheiro"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-015",
-          "word": "Forno",
-          "forbidden": [
-            "assar",
-            "quente",
-            "fogão",
-            "bolo",
-            "pizza"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-016",
-          "word": "Micro-ondas",
-          "forbidden": [
-            "esquentar",
-            "apitar",
-            "pipoca",
-            "rodar",
-            "aparelho"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-017",
-          "word": "Salada",
-          "forbidden": [
-            "alface",
-            "tomate",
-            "verde",
-            "folhas",
-            "dieta"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-018",
-          "word": "Sal",
-          "forbidden": [
-            "sódio",
-            "branco",
-            "pitada",
-            "tempero",
-            "mar"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-019",
-          "word": "Mel",
-          "forbidden": [
-            "abelha",
-            "doce",
-            "favo",
-            "amarelo",
-            "própolis"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-020",
-          "word": "Cachorro-quente",
-          "forbidden": [
-            "salsicha",
-            "pão",
-            "molho",
-            "purê",
-            "ketchup"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-2-021",
-          "word": "Strogonoff",
-          "forbidden": [
-            "creme de leite",
-            "carne",
-            "batata palha",
-            "champignon",
-            "frango"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-022",
-          "word": "Escondidinho",
-          "forbidden": [
-            "purê",
-            "mandioca",
-            "carne-seca",
-            "forno",
-            "camada"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-023",
-          "word": "Quindim",
-          "forbidden": [
-            "amarelo",
-            "coco",
-            "gema",
-            "brilhante",
-            "doce"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-024",
-          "word": "Pudim",
-          "forbidden": [
-            "leite condensado",
-            "calda",
-            "caramelo",
-            "furinhos",
-            "sobremesa"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-025",
-          "word": "Bobó de camarão",
-          "forbidden": [
-            "Bahia",
-            "mandioca",
-            "dendê",
-            "crustáceo",
-            "creme"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-026",
-          "word": "Pamonha",
+          "id": "pt-cooking-1-016",
+          "word": "Pipoca",
           "forbidden": [
             "milho",
-            "São João",
-            "palha",
-            "verde",
-            "carro de som"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-027",
-          "word": "Canjica",
-          "forbidden": [
-            "milho branco",
-            "festa junina",
-            "leite",
-            "canela",
-            "mungunzá"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-028",
-          "word": "Ceviche",
-          "forbidden": [
-            "Peru",
-            "peixe cru",
-            "limão",
-            "cebola roxa",
-            "frutos do mar"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-029",
-          "word": "Tempurá",
-          "forbidden": [
-            "Japão",
-            "frito",
-            "empanado",
-            "legumes",
-            "crocante"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-030",
-          "word": "Taco",
-          "forbidden": [
-            "México",
-            "tortilha",
-            "carne",
-            "dobrado",
-            "guacamole"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-031",
-          "word": "Croissant",
-          "forbidden": [
-            "França",
-            "folhado",
-            "manteiga",
-            "padaria",
-            "lua"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-032",
-          "word": "Wok",
-          "forbidden": [
+            "cinema",
+            "estourar",
             "panela",
-            "chinesa",
-            "fundo",
-            "saltear",
-            "yakissoba"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-033",
-          "word": "Peneira",
-          "forbidden": [
-            "furinhos",
-            "coar",
-            "farinha",
-            "separar",
-            "malha"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-034",
-          "word": "Rolo de massa",
-          "forbidden": [
-            "abrir",
-            "madeira",
-            "esticar",
-            "pizza",
-            "cilindro"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-035",
-          "word": "Assar",
-          "forbidden": [
-            "forno",
-            "frango",
-            "dourar",
-            "calor",
-            "bolo"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-036",
-          "word": "Marinar",
-          "forbidden": [
-            "temperar",
-            "vinho",
-            "carne",
-            "descansar",
-            "molho"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-037",
-          "word": "Gengibre",
-          "forbidden": [
-            "raiz",
-            "picante",
-            "chá",
-            "sushi",
-            "gripe"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-038",
-          "word": "Orégano",
-          "forbidden": [
-            "pizza",
-            "tempero",
-            "seco",
-            "erva",
-            "verde"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-039",
-          "word": "Couve-flor",
-          "forbidden": [
-            "branca",
-            "brócolis",
-            "gratinada",
-            "legume",
-            "arvorezinha"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-040",
-          "word": "Beterraba",
-          "forbidden": [
-            "roxa",
-            "vermelha",
-            "salada",
-            "legume",
-            "suco"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-2-041",
-          "word": "Maniçoba",
-          "forbidden": [
-            "Pará",
-            "folha de mandioca",
-            "sete dias",
-            "Círio",
-            "panela de barro"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-042",
-          "word": "Arroz carreteiro",
-          "forbidden": [
-            "charque",
-            "gaúcho",
-            "carne-seca",
-            "panela",
-            "Rio Grande do Sul"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-043",
-          "word": "Bechamel",
-          "forbidden": [
-            "molho branco",
-            "leite",
-            "manteiga",
-            "farinha",
-            "francês"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-044",
-          "word": "Caramelizar",
-          "forbidden": [
-            "açúcar",
-            "dourar",
-            "calda",
-            "queimar",
-            "cebola"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-045",
-          "word": "Cardamomo",
-          "forbidden": [
-            "especiaria",
-            "Índia",
-            "semente",
-            "café árabe",
-            "verde"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-046",
-          "word": "Mandolina",
-          "forbidden": [
-            "fatiar",
-            "lâmina",
-            "finas",
-            "cortador",
-            "legumes"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-047",
-          "word": "Pesto",
-          "forbidden": [
-            "manjericão",
-            "pinoli",
-            "Gênova",
-            "verde",
-            "parmesão"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-048",
-          "word": "Shimeji",
-          "forbidden": [
-            "cogumelo",
-            "japonês",
-            "branco",
-            "manteiga",
-            "shoyu"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-049",
-          "word": "Gaspacho",
-          "forbidden": [
-            "sopa fria",
-            "tomate",
-            "Espanha",
-            "pepino",
-            "Andaluzia"
-          ],
-          "difficulty": "hard"
-        },
-        {
-          "id": "pt-cooking-2-050",
-          "word": "Tahine",
-          "forbidden": [
-            "gergelim",
-            "pasta",
-            "homus",
-            "árabe",
-            "sésamo"
-          ],
-          "difficulty": "hard"
-        }
-      ]
-    },
-    {
-      "deck_id": "pt-cooking-3",
-      "name": "Baralho 3",
-      "cards": [
-        {
-          "id": "pt-cooking-3-001",
-          "word": "Panqueca",
-          "forbidden": [
-            "massa",
-            "enrolada",
-            "frigideira",
-            "recheio",
-            "carne moída"
+            "manteiga"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-002",
+          "id": "pt-cooking-1-017",
+          "word": "Café",
+          "forbidden": [
+            "xícara",
+            "manhã",
+            "preto",
+            "grão",
+            "acordar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-018",
           "word": "Ovo",
           "forbidden": [
             "galinha",
@@ -1244,379 +224,877 @@
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-003",
-          "word": "Feijão",
+          "id": "pt-cooking-1-019",
+          "word": "Pão",
           "forbidden": [
-            "preto",
-            "carioca",
-            "grão",
-            "arroz",
-            "caldo"
+            "padaria",
+            "fatia",
+            "manteiga",
+            "farinha",
+            "torrada"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-004",
-          "word": "Churros",
+          "id": "pt-cooking-1-020",
+          "word": "Queijo",
           "forbidden": [
-            "doce de leite",
-            "açúcar",
-            "canela",
-            "frito",
-            "recheado"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-005",
-          "word": "Picanha",
-          "forbidden": [
-            "churrasco",
-            "carne",
-            "gordura",
-            "boi",
-            "corte"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-006",
-          "word": "Milho",
-          "forbidden": [
-            "espiga",
+            "leite",
             "amarelo",
-            "pipoca",
-            "pamonha",
-            "verde"
+            "rato",
+            "fatia",
+            "derretido"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-007",
-          "word": "Alface",
+          "id": "pt-cooking-1-021",
+          "word": "Banana",
           "forbidden": [
-            "folha",
-            "verde",
-            "salada",
-            "hambúrguer",
-            "crespa"
+            "amarela",
+            "macaco",
+            "casca",
+            "fruta",
+            "cacho"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-008",
+          "id": "pt-cooking-1-022",
+          "word": "Chocolate",
+          "forbidden": [
+            "doce",
+            "cacau",
+            "barra",
+            "marrom",
+            "Páscoa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-023",
+          "word": "Batata frita",
+          "forbidden": [
+            "McDonald's",
+            "palito",
+            "óleo",
+            "ketchup",
+            "crocante"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-024",
+          "word": "Sal",
+          "forbidden": [
+            "branco",
+            "oceano",
+            "mar",
+            "tempero",
+            "pitada"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-1-025",
           "word": "Pimenta",
           "forbidden": [
             "ardida",
             "picante",
             "vermelha",
-            "malagueta",
-            "queimar"
+            "queimar",
+            "boca"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-009",
-          "word": "Abacate",
+          "id": "pt-cooking-1-026",
+          "word": "Lasanha",
           "forbidden": [
+            "massa",
+            "camadas",
+            "queijo",
+            "forno",
+            "molho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-027",
+          "word": "Macarrão",
+          "forbidden": [
+            "massa",
+            "Itália",
+            "molho",
+            "espaguete",
+            "cozinhar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-028",
+          "word": "Churrasco",
+          "forbidden": [
+            "carne",
+            "espeto",
+            "carvão",
+            "grelha",
+            "domingo"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-029",
+          "word": "Salada",
+          "forbidden": [
+            "alface",
+            "tomate",
             "verde",
-            "caroço",
-            "guacamole",
-            "vitamina",
-            "cremoso"
+            "folhas",
+            "dieta"
           ],
-          "difficulty": "easy"
+          "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-010",
-          "word": "Uva",
-          "forbidden": [
-            "cacho",
-            "roxa",
-            "vinho",
-            "passas",
-            "verde"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-011",
-          "word": "Maçã",
-          "forbidden": [
-            "vermelha",
-            "Branca de Neve",
-            "fruta",
-            "verde",
-            "mordida"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-012",
-          "word": "Brócolis",
-          "forbidden": [
-            "verde",
-            "árvore",
-            "legume",
-            "cozido",
-            "flores"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-013",
-          "word": "Colher",
-          "forbidden": [
-            "sopa",
-            "talher",
-            "chá",
-            "mexer",
-            "garfo"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-014",
-          "word": "Avental",
-          "forbidden": [
-            "cozinheiro",
-            "pano",
-            "proteger",
-            "sujar",
-            "amarrar"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-015",
-          "word": "Chef",
-          "forbidden": [
-            "cozinheiro",
-            "chapéu branco",
-            "restaurante",
-            "Jacquin",
-            "dólmã"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-016",
-          "word": "Receita",
-          "forbidden": [
-            "ingredientes",
-            "modo de preparo",
-            "livro",
-            "vovó",
-            "passo a passo"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-017",
-          "word": "Gelatina",
-          "forbidden": [
-            "colorida",
-            "tremer",
-            "sobremesa",
-            "sabor",
-            "pozinho"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-cooking-3-018",
+          "id": "pt-cooking-1-030",
           "word": "Sanduíche",
           "forbidden": [
             "pão",
             "recheio",
             "presunto",
             "lanche",
-            "misto"
+            "queijo"
           ],
-          "difficulty": "easy"
+          "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-019",
-          "word": "Torrada",
+          "id": "pt-cooking-1-031",
+          "word": "Panqueca",
+          "forbidden": [
+            "massa",
+            "enrolada",
+            "frigideira",
+            "recheio",
+            "fina"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-032",
+          "word": "Taco",
+          "forbidden": [
+            "México",
+            "tortilha",
+            "carne",
+            "dobrado",
+            "picante"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-033",
+          "word": "Cachorro-quente",
+          "forbidden": [
+            "salsicha",
+            "pão",
+            "ketchup",
+            "mostarda",
+            "lanche"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-034",
+          "word": "Avental",
+          "forbidden": [
+            "cozinheiro",
+            "amarrar",
+            "roupa",
+            "sujar",
+            "proteger"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-035",
+          "word": "Chef",
+          "forbidden": [
+            "cozinheiro",
+            "restaurante",
+            "chapéu",
+            "cozinha",
+            "Gordon Ramsay"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-036",
+          "word": "Garçom",
+          "forbidden": [
+            "restaurante",
+            "servir",
+            "bandeja",
+            "pedido",
+            "gorjeta"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-037",
+          "word": "Cardápio",
+          "forbidden": [
+            "restaurante",
+            "menu",
+            "pratos",
+            "escolher",
+            "preço"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-038",
+          "word": "Receita",
+          "forbidden": [
+            "ingredientes",
+            "modo de preparo",
+            "vovó",
+            "livro",
+            "passos"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-039",
+          "word": "Fritar",
+          "forbidden": [
+            "óleo",
+            "frigideira",
+            "quente",
+            "batata",
+            "pastel"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-040",
+          "word": "Assar",
+          "forbidden": [
+            "forno",
+            "bolo",
+            "frango",
+            "calor",
+            "dourar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-041",
+          "word": "Picar",
+          "forbidden": [
+            "faca",
+            "cortar",
+            "pedacinhos",
+            "cebola",
+            "tábua"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-042",
+          "word": "Açúcar",
+          "forbidden": [
+            "doce",
+            "branco",
+            "café",
+            "cana",
+            "adoçar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-043",
+          "word": "Arroz",
+          "forbidden": [
+            "branco",
+            "grão",
+            "feijão",
+            "panela",
+            "soltinho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-044",
+          "word": "Feijão",
+          "forbidden": [
+            "preto",
+            "arroz",
+            "grão",
+            "caldo",
+            "panela"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-045",
+          "word": "Leite",
+          "forbidden": [
+            "vaca",
+            "branco",
+            "copo",
+            "mamadeira",
+            "beber"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-1-046",
+          "word": "Comida",
+          "forbidden": [
+            "comer",
+            "prato",
+            "alimento",
+            "fome",
+            "refeição"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-1-047",
+          "word": "Fome",
+          "forbidden": [
+            "comer",
+            "comida",
+            "barriga",
+            "faminto",
+            "roncar"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-1-048",
+          "word": "Cozinhar",
+          "forbidden": [
+            "fogão",
+            "panela",
+            "receita",
+            "chef",
+            "preparar"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-1-049",
+          "word": "Doce",
+          "forbidden": [
+            "açúcar",
+            "sobremesa",
+            "salgado",
+            "bala",
+            "mel"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-1-050",
+          "word": "Jantar",
+          "forbidden": [
+            "noite",
+            "refeição",
+            "comer",
+            "almoço",
+            "mesa"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "pt-cooking-2",
+      "name": "Baralho 2",
+      "cards": [
+        {
+          "id": "pt-cooking-2-001",
+          "word": "Torradeira",
           "forbidden": [
             "pão",
+            "quente",
             "café da manhã",
-            "crocante",
-            "manteiga",
+            "pular",
             "queimar"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-020",
-          "word": "Iogurte",
+          "id": "pt-cooking-2-002",
+          "word": "Batedeira",
           "forbidden": [
-            "leite",
-            "potinho",
-            "morango",
-            "natural",
-            "fermentado"
+            "bolo",
+            "massa",
+            "misturar",
+            "elétrica",
+            "claras"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-021",
-          "word": "Galinhada",
+          "id": "pt-cooking-2-003",
+          "word": "Lava-louças",
           "forbidden": [
-            "frango",
-            "arroz",
-            "açafrão",
-            "Goiás",
-            "pequi"
+            "pratos",
+            "máquina",
+            "elétrica",
+            "sabão",
+            "cozinha"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-022",
-          "word": "Caipirinha",
+          "id": "pt-cooking-2-004",
+          "word": "Air fryer",
           "forbidden": [
-            "limão",
-            "cachaça",
-            "açúcar",
-            "gelo",
-            "brasileira"
+            "fritadeira",
+            "sem óleo",
+            "elétrica",
+            "batata",
+            "cesto"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-023",
-          "word": "Cuscuz",
+          "id": "pt-cooking-2-005",
+          "word": "Chaleira",
           "forbidden": [
-            "milho",
-            "flocão",
-            "Nordeste",
-            "paulista",
-            "ovo"
+            "água",
+            "ferver",
+            "apito",
+            "chá",
+            "quente"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-024",
-          "word": "Polenta",
+          "id": "pt-cooking-2-006",
+          "word": "Copo",
           "forbidden": [
-            "fubá",
-            "frita",
-            "milho",
-            "italiana",
-            "mole"
+            "beber",
+            "água",
+            "vidro",
+            "suco",
+            "mesa"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
-          "id": "pt-cooking-3-025",
-          "word": "Mousse",
+          "id": "pt-cooking-2-007",
+          "word": "Xícara",
           "forbidden": [
-            "maracujá",
-            "aerado",
+            "café",
+            "chá",
+            "asa",
+            "pires",
+            "quente"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-008",
+          "word": "Prato",
+          "forbidden": [
+            "comida",
+            "mesa",
+            "redondo",
+            "louça",
+            "garfo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-009",
+          "word": "Tigela",
+          "forbidden": [
+            "sopa",
+            "cereal",
+            "redonda",
+            "funda",
+            "salada"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-010",
+          "word": "Guardanapo",
+          "forbidden": [
+            "boca",
+            "limpar",
+            "papel",
+            "mesa",
+            "sujeira"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-011",
+          "word": "Hashi",
+          "forbidden": [
+            "palitinhos",
+            "Japão",
+            "sushi",
+            "China",
+            "pegar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-012",
+          "word": "Tomate",
+          "forbidden": [
+            "vermelho",
+            "molho",
+            "salada",
+            "ketchup",
+            "fruta"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-013",
+          "word": "Cebola",
+          "forbidden": [
+            "chorar",
+            "cortar",
+            "camadas",
+            "alho",
+            "roxa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-014",
+          "word": "Alho",
+          "forbidden": [
+            "cheiro",
+            "dente",
+            "vampiro",
+            "tempero",
+            "cabeça"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-015",
+          "word": "Limão",
+          "forbidden": [
+            "azedo",
+            "verde",
+            "caipirinha",
+            "suco",
+            "ácido"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-016",
+          "word": "Maçã",
+          "forbidden": [
+            "vermelha",
+            "fruta",
+            "árvore",
+            "Branca de Neve",
+            "mordida"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-017",
+          "word": "Morango",
+          "forbidden": [
+            "vermelho",
+            "fruta",
+            "sementinhas",
+            "chantilly",
+            "bolo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-018",
+          "word": "Cenoura",
+          "forbidden": [
+            "laranja",
+            "coelho",
+            "legume",
+            "bolo",
+            "comprida"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-019",
+          "word": "Melancia",
+          "forbidden": [
+            "verde",
+            "vermelha",
+            "sementes",
+            "verão",
+            "grande"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-020",
+          "word": "Manteiga",
+          "forbidden": [
+            "pão",
+            "amarela",
+            "derreter",
+            "passar",
+            "margarina"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-021",
+          "word": "Mel",
+          "forbidden": [
+            "abelha",
+            "doce",
+            "favo",
+            "amarelo",
+            "pote"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-022",
+          "word": "Biscoito",
+          "forbidden": [
+            "bolacha",
             "chocolate",
+            "recheado",
+            "lanche",
+            "crocante"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-023",
+          "word": "Pudim",
+          "forbidden": [
+            "leite condensado",
+            "calda",
+            "caramelo",
             "sobremesa",
-            "geladeira"
+            "forma"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-024",
+          "word": "Rosquinha",
+          "forbidden": [
+            "furo",
+            "Homer",
+            "cobertura",
+            "doce",
+            "redonda"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-025",
+          "word": "Sopa",
+          "forbidden": [
+            "colher",
+            "quente",
+            "caldo",
+            "legumes",
+            "inverno"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-2-026",
+          "word": "Espaguete",
+          "forbidden": [
+            "macarrão",
+            "comprido",
+            "molho",
+            "almôndegas",
+            "Itália"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-026",
+          "id": "pt-cooking-2-027",
+          "word": "Omelete",
+          "forbidden": [
+            "ovos",
+            "frigideira",
+            "queijo",
+            "bater",
+            "dobrar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-028",
+          "word": "Burrito",
+          "forbidden": [
+            "México",
+            "tortilha",
+            "enrolado",
+            "feijão",
+            "carne"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-029",
+          "word": "Croissant",
+          "forbidden": [
+            "França",
+            "padaria",
+            "manteiga",
+            "folhado",
+            "meia-lua"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-030",
+          "word": "Waffle",
+          "forbidden": [
+            "quadradinhos",
+            "café da manhã",
+            "mel",
+            "máquina",
+            "Bélgica"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-031",
+          "word": "Brownie",
+          "forbidden": [
+            "chocolate",
+            "quadrado",
+            "bolo",
+            "sobremesa",
+            "nozes"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-032",
+          "word": "Cupcake",
+          "forbidden": [
+            "bolinho",
+            "cobertura",
+            "forminha",
+            "festa",
+            "pequeno"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-033",
+          "word": "Torta",
+          "forbidden": [
+            "massa",
+            "fatia",
+            "recheio",
+            "forno",
+            "maçã"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-034",
+          "word": "Churros",
+          "forbidden": [
+            "doce de leite",
+            "açúcar",
+            "canela",
+            "frito",
+            "comprido"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-035",
           "word": "Ramen",
           "forbidden": [
             "Japão",
             "macarrão",
             "caldo",
-            "ovo",
-            "tigela"
+            "tigela",
+            "instantâneo"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-027",
-          "word": "Tiramisu",
+          "id": "pt-cooking-2-036",
+          "word": "Paella",
           "forbidden": [
-            "café",
-            "mascarpone",
-            "Itália",
-            "biscoito",
-            "cacau"
+            "Espanha",
+            "arroz",
+            "frutos do mar",
+            "amarelo",
+            "panela grande"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-028",
-          "word": "Nhoque",
+          "id": "pt-cooking-2-037",
+          "word": "Peneira",
           "forbidden": [
-            "batata",
-            "massa",
-            "dia 29",
-            "bolinha",
-            "italiano"
+            "furinhos",
+            "coar",
+            "farinha",
+            "separar",
+            "malha"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-029",
-          "word": "Empada",
+          "id": "pt-cooking-2-038",
+          "word": "Ralador",
           "forbidden": [
-            "massa podre",
-            "palmito",
-            "frango",
-            "forminha",
-            "salgado"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-3-030",
-          "word": "Rabanada",
-          "forbidden": [
-            "pão",
-            "Natal",
-            "açúcar",
-            "canela",
-            "ovo"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-3-031",
-          "word": "Panetone",
-          "forbidden": [
-            "Natal",
-            "frutas cristalizadas",
-            "chocotone",
-            "Bauducco",
-            "italiano"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-3-032",
-          "word": "Frigideira",
-          "forbidden": [
-            "fritar",
-            "ovo",
-            "cabo",
-            "antiaderente",
-            "chapa"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-cooking-3-033",
-          "word": "Espátula",
-          "forbidden": [
-            "virar",
-            "silicone",
+            "queijo",
+            "cenoura",
             "raspar",
-            "panqueca",
-            "utensílio"
+            "buracos",
+            "metal"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-034",
+          "id": "pt-cooking-2-039",
+          "word": "Abridor de latas",
+          "forbidden": [
+            "atum",
+            "milho",
+            "girar",
+            "metal",
+            "conserva"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-040",
+          "word": "Rolo de massa",
+          "forbidden": [
+            "abrir",
+            "madeira",
+            "esticar",
+            "pizza",
+            "biscoito"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-041",
           "word": "Concha",
           "forbidden": [
             "sopa",
@@ -1628,194 +1106,716 @@
           "difficulty": "medium"
         },
         {
-          "id": "pt-cooking-3-035",
-          "word": "Grelhar",
+          "id": "pt-cooking-2-042",
+          "word": "Espátula",
           "forbidden": [
-            "fogo",
-            "chapa",
-            "marcas",
-            "churrasco",
-            "assar"
+            "virar",
+            "panqueca",
+            "raspar",
+            "silicone",
+            "frigideira"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-043",
+          "word": "Tábua de cortar",
+          "forbidden": [
+            "faca",
+            "madeira",
+            "picar",
+            "cozinha",
+            "legumes"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-044",
+          "word": "Temperar",
+          "forbidden": [
+            "sal",
+            "pimenta",
+            "sabor",
+            "ervas",
+            "alho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-045",
+          "word": "Mexer",
+          "forbidden": [
+            "colher",
+            "panela",
+            "girar",
+            "misturar",
+            "molho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-2-046",
+          "word": "Almoço",
+          "forbidden": [
+            "meio-dia",
+            "refeição",
+            "comer",
+            "prato",
+            "marmita"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-2-047",
+          "word": "Bebida",
+          "forbidden": [
+            "beber",
+            "líquido",
+            "suco",
+            "copo",
+            "sede"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-2-048",
+          "word": "Gostoso",
+          "forbidden": [
+            "delicioso",
+            "nham",
+            "bom",
+            "sabor",
+            "apetitoso"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-2-049",
+          "word": "Fruta",
+          "forbidden": [
+            "maçã",
+            "banana",
+            "pomar",
+            "vitamina",
+            "árvore"
+          ],
+          "difficulty": "hard"
+        },
+        {
+          "id": "pt-cooking-2-050",
+          "word": "Saudável",
+          "forbidden": [
+            "salada",
+            "dieta",
+            "fruta",
+            "verdura",
+            "fazer bem"
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "deck_id": "pt-cooking-3",
+      "name": "Baralho 3",
+      "cards": [
+        {
+          "id": "pt-cooking-3-001",
+          "word": "Lixeira",
+          "forbidden": [
+            "reciclar",
+            "jogar fora",
+            "tampa",
+            "pedal",
+            "cheiro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-002",
+          "word": "Lancheira",
+          "forbidden": [
+            "escola",
+            "criança",
+            "merenda",
+            "sanduíche",
+            "bolsa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-003",
+          "word": "Garrafa",
+          "forbidden": [
+            "água",
+            "plástico",
+            "tampa",
+            "beber",
+            "vidro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-004",
+          "word": "Palito de dente",
+          "forbidden": [
+            "boca",
+            "madeira",
+            "fino",
+            "limpar",
+            "azeitona"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-005",
+          "word": "Canudo",
+          "forbidden": [
+            "suco",
+            "sugar",
+            "plástico",
+            "copo",
+            "refrigerante"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-006",
+          "word": "Esponja",
+          "forbidden": [
+            "lavar",
+            "louça",
+            "amarela",
+            "detergente",
+            "espuma"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-007",
+          "word": "Pote",
+          "forbidden": [
+            "guardar",
+            "tampa",
+            "plástico",
+            "sobras",
+            "geladeira"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-008",
+          "word": "Bandeja",
+          "forbidden": [
+            "carregar",
+            "garçom",
+            "servir",
+            "pratos",
+            "café da manhã na cama"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-009",
+          "word": "Ketchup",
+          "forbidden": [
+            "tomate",
+            "vermelho",
+            "batata frita",
+            "molho",
+            "Heinz"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-010",
+          "word": "Maionese",
+          "forbidden": [
+            "branca",
+            "ovo",
+            "sanduíche",
+            "molho",
+            "pote"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-011",
+          "word": "Mostarda",
+          "forbidden": [
+            "amarela",
+            "cachorro-quente",
+            "molho",
+            "picante",
+            "Heinz"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-012",
+          "word": "Azeite",
+          "forbidden": [
+            "oliva",
+            "óleo",
+            "salada",
+            "verde",
+            "Itália"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-013",
+          "word": "Vinagre",
+          "forbidden": [
+            "azedo",
+            "salada",
+            "ácido",
+            "limpeza",
+            "garrafa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-014",
+          "word": "Milho",
+          "forbidden": [
+            "espiga",
+            "amarelo",
+            "pipoca",
+            "pamonha",
+            "grão"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-015",
+          "word": "Pepino",
+          "forbidden": [
+            "verde",
+            "salada",
+            "picles",
+            "comprido",
+            "fresco"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-016",
+          "word": "Uva",
+          "forbidden": [
+            "cacho",
+            "roxa",
+            "vinho",
+            "verde",
+            "passas"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-017",
+          "word": "Laranja",
+          "forbidden": [
+            "suco",
+            "fruta",
+            "cor",
+            "vitamina C",
+            "descascar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-018",
+          "word": "Abacaxi",
+          "forbidden": [
+            "coroa",
+            "espinhos",
+            "amarelo",
+            "tropical",
+            "azedo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-019",
+          "word": "Coco",
+          "forbidden": [
+            "praia",
+            "água",
+            "coqueiro",
+            "branco",
+            "duro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-020",
+          "word": "Iogurte",
+          "forbidden": [
+            "leite",
+            "potinho",
+            "morango",
+            "natural",
+            "colher"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-021",
+          "word": "Cereal",
+          "forbidden": [
+            "leite",
+            "tigela",
+            "café da manhã",
+            "flocos",
+            "caixa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-022",
+          "word": "Pirulito",
+          "forbidden": [
+            "doce",
+            "palito",
+            "chupar",
+            "criança",
+            "colorido"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-023",
+          "word": "Chiclete",
+          "forbidden": [
+            "mascar",
+            "bola",
+            "grudar",
+            "doce",
+            "hortelã"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-024",
+          "word": "Gelatina",
+          "forbidden": [
+            "colorida",
+            "tremer",
+            "sobremesa",
+            "sabor",
+            "mole"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-025",
+          "word": "Suco",
+          "forbidden": [
+            "fruta",
+            "laranja",
+            "copo",
+            "natural",
+            "beber"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-cooking-3-026",
+          "word": "Fondue",
+          "forbidden": [
+            "queijo",
+            "chocolate",
+            "Suíça",
+            "derretido",
+            "espetinho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-027",
+          "word": "Guacamole",
+          "forbidden": [
+            "abacate",
+            "México",
+            "nachos",
+            "verde",
+            "pasta"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-028",
+          "word": "Curry",
+          "forbidden": [
+            "Índia",
+            "picante",
+            "amarelo",
+            "tempero",
+            "molho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-029",
+          "word": "Kebab",
+          "forbidden": [
+            "espeto",
+            "carne",
+            "Turquia",
+            "pão",
+            "giratório"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-030",
+          "word": "Nuggets",
+          "forbidden": [
+            "frango",
+            "empanado",
+            "McDonald's",
+            "molho",
+            "crianças"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-031",
+          "word": "Drive-thru",
+          "forbidden": [
+            "carro",
+            "janela",
+            "pedir",
+            "McDonald's",
+            "lanche"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-032",
+          "word": "Delivery",
+          "forbidden": [
+            "entrega",
+            "aplicativo",
+            "motoboy",
+            "pedir",
+            "casa"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-033",
+          "word": "Gorjeta",
+          "forbidden": [
+            "garçom",
+            "dinheiro",
+            "dez por cento",
+            "conta",
+            "gentileza"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-034",
+          "word": "Buffet",
+          "forbidden": [
+            "comer à vontade",
+            "servir",
+            "self-service",
+            "pratos",
+            "fila"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-cooking-3-035",
+          "word": "Piquenique",
+          "forbidden": [
+            "cesta",
+            "toalha",
+            "parque",
+            "grama",
+            "lanche"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-036",
-          "word": "Vapor",
+          "word": "Sobras",
           "forbidden": [
-            "cozinhar",
-            "água",
-            "panela",
-            "legumes",
-            "fumaça"
+            "ontem",
+            "resto",
+            "geladeira",
+            "esquentar",
+            "pote"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-037",
-          "word": "Alecrim",
+          "word": "Grelhar",
           "forbidden": [
-            "erva",
-            "cheiro",
-            "batata",
-            "cordeiro",
-            "ramo"
+            "espeto",
+            "carne",
+            "churrasco",
+            "marcas",
+            "chapa"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-038",
-          "word": "Coentro",
+          "word": "Derreter",
           "forbidden": [
-            "amor ou ódio",
-            "Nordeste",
-            "folha",
-            "salsinha",
-            "moqueca"
+            "calor",
+            "gelo",
+            "chocolate",
+            "líquido",
+            "sorvete"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-039",
-          "word": "Chuchu",
+          "word": "Misturar",
           "forbidden": [
-            "verde",
-            "sem gosto",
-            "legume",
-            "espinhos",
-            "cozido"
+            "juntar",
+            "colher",
+            "tigela",
+            "bater",
+            "ingredientes"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-040",
-          "word": "Mandioca",
+          "word": "Congelar",
           "forbidden": [
-            "aipim",
-            "macaxeira",
-            "raiz",
-            "frita",
-            "farinha"
+            "freezer",
+            "frio",
+            "gelo",
+            "sorvete",
+            "duro"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-041",
-          "word": "Pequi",
+          "word": "Esquentar",
           "forbidden": [
-            "Goiás",
-            "espinhos",
-            "cerrado",
-            "amarelo",
-            "arroz"
+            "micro-ondas",
+            "calor",
+            "aquecer",
+            "frio",
+            "comida"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-042",
-          "word": "Cupuaçu",
+          "word": "Provar",
           "forbidden": [
-            "Amazônia",
-            "fruta",
-            "creme",
-            "chocolate",
-            "bombom"
+            "experimentar",
+            "gosto",
+            "colher",
+            "boca",
+            "sabor"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-043",
-          "word": "Umami",
+          "word": "Pia",
           "forbidden": [
-            "quinto sabor",
-            "japonês",
-            "glutamato",
-            "shoyu",
-            "saboroso"
+            "torneira",
+            "água",
+            "lavar",
+            "cozinha",
+            "louça"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-044",
-          "word": "Mise en place",
+          "word": "Toalha de mesa",
           "forbidden": [
-            "organizar",
-            "ingredientes",
-            "francês",
-            "preparar",
-            "antes"
+            "forrar",
+            "pano",
+            "xadrez",
+            "jantar",
+            "cobrir"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-045",
-          "word": "Fondant",
+          "word": "Padaria",
           "forbidden": [
-            "pasta americana",
+            "pão",
+            "padeiro",
+            "café",
             "bolo",
-            "cobertura",
-            "açúcar",
-            "modelar"
+            "manhã"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-cooking-3-046",
-          "word": "Brioche",
+          "word": "Restaurante",
           "forbidden": [
-            "pão",
-            "francês",
-            "amanteigado",
-            "doce",
-            "ovos"
+            "comer fora",
+            "garçom",
+            "cardápio",
+            "mesa",
+            "conta"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-cooking-3-047",
-          "word": "Wasabi",
+          "word": "Sobremesa",
           "forbidden": [
-            "verde",
-            "sushi",
-            "ardido",
-            "raiz forte",
-            "japonês"
+            "doce",
+            "depois",
+            "pudim",
+            "sorvete",
+            "almoço"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-cooking-3-048",
-          "word": "Steak tartare",
+          "word": "Sabor",
           "forbidden": [
-            "carne crua",
-            "francês",
-            "gema",
-            "picada",
-            "bife"
+            "gosto",
+            "paladar",
+            "língua",
+            "provar",
+            "tempero"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-cooking-3-049",
-          "word": "Kimchi",
+          "word": "Carne",
           "forbidden": [
-            "Coreia",
-            "acelga",
-            "fermentado",
-            "picante",
-            "conserva"
+            "boi",
+            "churrasco",
+            "bife",
+            "vegetariano",
+            "açougue"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-cooking-3-050",
-          "word": "Defumar",
+          "word": "Sede",
           "forbidden": [
-            "fumaça",
-            "bacon",
-            "madeira",
-            "lenha",
-            "sabor"
+            "água",
+            "beber",
+            "seca",
+            "garganta",
+            "copo"
           ],
           "difficulty": "hard"
         }

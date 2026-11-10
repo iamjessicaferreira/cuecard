@@ -9,13 +9,13 @@
       "cards": [
         {
           "id": "en-art-1-001",
-          "word": "Mona Lisa",
+          "word": "Painting",
           "forbidden": [
-            "Leonardo",
-            "smile",
-            "Louvre",
-            "painting",
-            "Paris"
+            "frame",
+            "museum",
+            "wall",
+            "artist",
+            "canvas"
           ],
           "difficulty": "easy"
         },
@@ -23,587 +23,587 @@
           "id": "en-art-1-002",
           "word": "Paintbrush",
           "forbidden": [
+            "handle",
             "bristles",
-            "canvas",
-            "artist",
-            "dip",
-            "strokes"
+            "wooden",
+            "tip",
+            "artist"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-003",
-          "word": "Museum",
+          "word": "Sculpture",
           "forbidden": [
-            "exhibit",
-            "gallery",
-            "artifacts",
-            "curator",
-            "visit"
+            "statue",
+            "stone",
+            "marble",
+            "museum",
+            "artist"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-004",
-          "word": "Sculpture",
+          "word": "Theater",
           "forbidden": [
-            "statue",
-            "marble",
-            "carve",
-            "chisel",
-            "clay"
+            "curtain",
+            "audience",
+            "tickets",
+            "seats",
+            "lights"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-005",
-          "word": "Tattoo",
+          "word": "Mona Lisa",
           "forbidden": [
-            "ink",
-            "needle",
-            "skin",
-            "arm",
-            "sleeve"
+            "Paris",
+            "Louvre",
+            "painting",
+            "woman",
+            "famous"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-006",
-          "word": "Graffiti",
+          "word": "Drawing",
           "forbidden": [
-            "spray paint",
-            "wall",
-            "tag",
-            "vandalism",
-            "street"
+            "paper",
+            "pencil",
+            "doodle",
+            "kid",
+            "sheet"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-007",
-          "word": "Selfie",
+          "word": "Clown",
           "forbidden": [
-            "phone",
-            "camera",
-            "picture",
-            "stick",
-            "pose"
+            "circus",
+            "nose",
+            "laugh",
+            "shoes",
+            "colorful"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-008",
-          "word": "Watercolor",
+          "word": "Tattoo",
           "forbidden": [
-            "paint",
-            "translucent",
-            "paper",
-            "wash",
-            "brush"
+            "skin",
+            "needle",
+            "arm",
+            "ink",
+            "pain"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-009",
-          "word": "Crayon",
+          "word": "Museum",
           "forbidden": [
-            "wax",
-            "color",
-            "melt",
-            "box",
-            "kids"
+            "visit",
+            "paintings",
+            "exhibits",
+            "old",
+            "tour"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-010",
-          "word": "Origami",
+          "word": "Selfie",
           "forbidden": [
-            "paper",
-            "fold",
-            "crane",
-            "Japanese",
-            "swan"
+            "phone",
+            "photo",
+            "face",
+            "smile",
+            "Instagram"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-011",
-          "word": "Easel",
+          "word": "Ballet",
           "forbidden": [
-            "stand",
-            "canvas",
-            "painter",
-            "tripod",
-            "wooden"
+            "dance",
+            "pointe shoes",
+            "tutu",
+            "Swan Lake",
+            "tiptoe"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-012",
-          "word": "Palette",
+          "word": "Origami",
           "forbidden": [
-            "colors",
-            "mix",
-            "paint",
-            "thumb hole",
-            "artist"
+            "paper",
+            "fold",
+            "Japan",
+            "crane",
+            "swan"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-013",
-          "word": "Van Gogh",
+          "word": "Mask",
           "forbidden": [
-            "ear",
-            "sunflowers",
-            "Starry Night",
-            "Dutch",
-            "painter"
+            "face",
+            "hide",
+            "Halloween",
+            "eyes",
+            "party"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-014",
-          "word": "Mosaic",
+          "word": "Circus",
           "forbidden": [
-            "tiles",
-            "pieces",
-            "glass",
-            "pattern",
-            "floor"
+            "tent",
+            "clown",
+            "trapeze",
+            "elephant",
+            "ringmaster"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-015",
-          "word": "Pottery",
+          "word": "Glue",
           "forbidden": [
-            "clay",
-            "wheel",
-            "kiln",
-            "vase",
-            "ceramic"
+            "stick",
+            "paper",
+            "paste",
+            "white",
+            "bottle"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-016",
-          "word": "Canvas",
+          "word": "Scissors",
           "forbidden": [
-            "painting",
-            "fabric",
-            "stretch",
-            "blank",
-            "easel"
+            "cut",
+            "paper",
+            "blades",
+            "sharp",
+            "hair"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-017",
-          "word": "Photography",
+          "word": "Fashion",
           "forbidden": [
-            "camera",
-            "lens",
-            "picture",
-            "shutter",
-            "flash"
+            "clothes",
+            "style",
+            "trend",
+            "wear",
+            "runway"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-018",
-          "word": "Picasso",
+          "word": "Rainbow",
           "forbidden": [
-            "cubism",
-            "Spanish",
-            "Guernica",
-            "painter",
-            "blue period"
+            "colors",
+            "storm",
+            "sky",
+            "seven",
+            "sun"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-019",
-          "word": "Cartoon",
+          "word": "Magician",
           "forbidden": [
-            "animated",
-            "drawing",
-            "Saturday morning",
-            "funny",
-            "characters"
+            "trick",
+            "top hat",
+            "rabbit",
+            "wand",
+            "disappear"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-020",
-          "word": "Glitter",
+          "word": "Graffiti",
           "forbidden": [
-            "sparkle",
-            "glue",
-            "craft",
-            "shiny",
-            "messy"
+            "wall",
+            "spray paint",
+            "street",
+            "tag",
+            "vandalism"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-1-021",
-          "word": "Frida Kahlo",
+          "word": "Puppet",
           "forbidden": [
-            "Mexico",
-            "eyebrow",
-            "unibrow",
-            "self-portrait",
-            "Diego Rivera"
+            "hand",
+            "doll",
+            "sock",
+            "show",
+            "kids"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-1-022",
-          "word": "Surrealism",
+          "word": "Pottery",
           "forbidden": [
-            "Dalí",
-            "dream",
-            "melting clocks",
-            "Magritte",
-            "weird"
+            "clay",
+            "mud",
+            "vase",
+            "kiln",
+            "bowl"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-1-023",
-          "word": "Pop art",
+          "word": "Makeup",
           "forbidden": [
-            "Warhol",
-            "soup cans",
-            "comic",
-            "bright",
-            "Marilyn"
+            "lipstick",
+            "face",
+            "foundation",
+            "mascara",
+            "blush"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-1-024",
-          "word": "Andy Warhol",
+          "word": "Applause",
           "forbidden": [
-            "soup can",
-            "Marilyn Monroe",
-            "fifteen minutes",
-            "silver wig",
-            "Factory"
+            "clap",
+            "hands",
+            "audience",
+            "cheer",
+            "end"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-1-025",
-          "word": "Fresco",
+          "word": "Comic book",
           "forbidden": [
-            "wall",
-            "plaster",
-            "ceiling",
-            "wet",
-            "Sistine"
+            "superhero",
+            "speech bubble",
+            "drawings",
+            "panels",
+            "Marvel"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-1-026",
-          "word": "The Scream",
+          "word": "Camera",
           "forbidden": [
-            "Munch",
-            "bridge",
-            "hands",
-            "face",
-            "horror"
+            "photo",
+            "lens",
+            "flash",
+            "click",
+            "picture"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-027",
-          "word": "Michelangelo",
+          "word": "Watercolor",
           "forbidden": [
-            "Sistine Chapel",
-            "David",
-            "ceiling",
-            "Renaissance",
-            "sculptor"
+            "paint",
+            "brush",
+            "paper",
+            "colors",
+            "wet"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-028",
-          "word": "Art gallery",
+          "word": "Van Gogh",
           "forbidden": [
-            "paintings",
-            "exhibit",
-            "opening",
-            "walls",
-            "collector"
+            "ear",
+            "sunflowers",
+            "painter",
+            "Dutch",
+            "Starry Night"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-029",
-          "word": "Stained glass",
+          "word": "Stage",
           "forbidden": [
-            "church",
-            "window",
-            "colored",
-            "cathedral",
-            "lead"
+            "theater",
+            "actor",
+            "show",
+            "perform",
+            "curtain"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-030",
-          "word": "Cubism",
+          "word": "Choreography",
           "forbidden": [
-            "Picasso",
-            "shapes",
-            "cubes",
-            "Braque",
-            "geometric"
+            "dance",
+            "steps",
+            "moves",
+            "routine",
+            "rehearse"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-031",
-          "word": "Impressionism",
+          "word": "Director",
           "forbidden": [
-            "Monet",
-            "light",
-            "brushstrokes",
-            "French",
-            "water lilies"
+            "movie",
+            "film",
+            "camera",
+            "action",
+            "actors"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-032",
-          "word": "Still life",
+          "word": "Romeo and Juliet",
           "forbidden": [
-            "fruit",
-            "bowl",
-            "vase",
-            "table",
-            "objects"
+            "Shakespeare",
+            "love",
+            "couple",
+            "poison",
+            "balcony"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-033",
-          "word": "Banksy",
+          "word": "Mosaic",
           "forbidden": [
-            "anonymous",
-            "graffiti",
-            "balloon girl",
-            "shredded",
-            "Bristol"
+            "tiles",
+            "pieces",
+            "glass",
+            "colorful",
+            "floor"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-034",
-          "word": "Abstract art",
+          "word": "Frame",
           "forbidden": [
-            "shapes",
-            "colors",
-            "Kandinsky",
-            "Pollock",
-            "meaning"
+            "picture",
+            "border",
+            "wall",
+            "photo",
+            "hang"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-035",
-          "word": "Perspective",
+          "word": "Crafts",
           "forbidden": [
-            "vanishing point",
-            "depth",
-            "horizon",
-            "lines",
-            "3D"
+            "hands",
+            "handmade",
+            "DIY",
+            "glue",
+            "hobby"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-036",
-          "word": "Picture frame",
+          "word": "Stunt double",
           "forbidden": [
-            "wall",
-            "border",
-            "hang",
-            "photo",
-            "wooden"
+            "danger",
+            "actor",
+            "scene",
+            "jump",
+            "movie"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-037",
-          "word": "Sketchbook",
+          "word": "Poetry",
           "forbidden": [
-            "drawing",
-            "pencil",
-            "pages",
-            "doodle",
-            "artist"
+            "haiku",
+            "verses",
+            "rhyme",
+            "Shakespeare",
+            "write"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-038",
-          "word": "Self-portrait",
+          "word": "Logo",
           "forbidden": [
-            "Frida",
-            "painting",
-            "mirror",
-            "artist",
-            "face"
+            "brand",
+            "symbol",
+            "company",
+            "Nike",
+            "design"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-039",
-          "word": "Charcoal",
+          "word": "Statue",
           "forbidden": [
-            "black",
-            "smudge",
-            "drawing",
-            "stick",
-            "burnt"
+            "stone",
+            "park",
+            "bronze",
+            "still",
+            "monument"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-040",
-          "word": "Street art",
+          "word": "Mime",
           "forbidden": [
-            "mural",
-            "graffiti",
-            "wall",
-            "Banksy",
-            "city"
+            "gestures",
+            "silent",
+            "hands",
+            "invisible wall",
+            "white face"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-1-041",
-          "word": "Chiaroscuro",
+          "word": "Paint",
           "forbidden": [
-            "light",
-            "dark",
-            "shadow",
-            "Caravaggio",
-            "contrast"
+            "brush",
+            "color",
+            "can",
+            "wall",
+            "roller"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-1-042",
-          "word": "Pointillism",
+          "word": "Scenery",
           "forbidden": [
-            "dots",
-            "Seurat",
-            "tiny",
-            "Sunday afternoon",
-            "specks"
+            "stage",
+            "backdrop",
+            "theater",
+            "set",
+            "landscape"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-1-043",
-          "word": "Art Deco",
+          "word": "Parade",
           "forbidden": [
-            "1920s",
-            "Gatsby",
-            "geometric",
-            "Chrysler Building",
-            "glamour"
+            "float",
+            "march",
+            "street",
+            "band",
+            "carnival"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-1-044",
-          "word": "Installation art",
+          "word": "Light",
           "forbidden": [
-            "space",
-            "room",
-            "immersive",
-            "contemporary",
-            "gallery"
+            "bright",
+            "lamp",
+            "sun",
+            "switch",
+            "dark"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-1-045",
-          "word": "Escher",
+          "word": "Knitting",
           "forbidden": [
-            "stairs",
-            "impossible",
-            "optical illusion",
-            "hands drawing",
-            "tessellation"
+            "needles",
+            "yarn",
+            "wool",
+            "grandma",
+            "scarf"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-1-046",
-          "word": "Rococo",
+          "word": "Art",
           "forbidden": [
-            "ornate",
-            "French",
-            "pastel",
-            "frilly",
-            "Baroque"
+            "painting",
+            "museum",
+            "creative",
+            "drawing",
+            "culture"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-1-047",
-          "word": "Kitsch",
+          "word": "Beauty",
           "forbidden": [
-            "tacky",
-            "cheesy",
-            "bad taste",
-            "gaudy",
-            "garden gnome"
+            "pretty",
+            "lovely",
+            "ugly",
+            "gorgeous",
+            "admire"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-1-048",
-          "word": "Bauhaus",
+          "word": "Color",
           "forbidden": [
-            "German",
-            "school",
-            "design",
-            "Gropius",
-            "modernist"
+            "red",
+            "blue",
+            "rainbow",
+            "paint",
+            "crayon"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-1-049",
-          "word": "Dadaism",
+          "word": "Creativity",
           "forbidden": [
-            "Duchamp",
-            "nonsense",
-            "anti-art",
-            "urinal",
-            "avant-garde"
+            "idea",
+            "imagination",
+            "invent",
+            "original",
+            "inspiration"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-1-050",
-          "word": "Trompe-l'oeil",
+          "word": "Copy",
           "forbidden": [
-            "trick",
-            "eye",
-            "illusion",
-            "realistic",
-            "wall"
+            "duplicate",
+            "imitate",
+            "fake",
+            "original",
+            "paste"
           ],
           "difficulty": "hard"
         }
@@ -615,601 +615,601 @@
       "cards": [
         {
           "id": "en-art-2-001",
-          "word": "Drawing",
+          "word": "Picture",
           "forbidden": [
-            "pencil",
-            "sketch",
-            "paper",
-            "lines",
-            "doodle"
+            "wall",
+            "frame",
+            "painting",
+            "hang",
+            "living room"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-002",
-          "word": "Clay",
+          "word": "Pencil",
           "forbidden": [
-            "mold",
-            "pottery",
-            "wet",
-            "sculpt",
-            "Play-Doh"
+            "write",
+            "sharpener",
+            "eraser",
+            "lead",
+            "wooden"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-003",
-          "word": "Statue",
+          "word": "Eraser",
           "forbidden": [
-            "stone",
-            "bronze",
-            "monument",
-            "park",
-            "pedestal"
+            "rub out",
+            "pencil",
+            "mistake",
+            "pink",
+            "school"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-004",
-          "word": "Louvre",
+          "word": "Photography",
           "forbidden": [
-            "Paris",
-            "pyramid",
-            "Mona Lisa",
-            "museum",
-            "France"
+            "camera",
+            "image",
+            "moment",
+            "memory",
+            "album"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-005",
-          "word": "Mural",
+          "word": "Ballerina",
           "forbidden": [
-            "wall",
-            "painted",
-            "large",
-            "building",
-            "Diego Rivera"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-006",
-          "word": "Comic book",
-          "forbidden": [
-            "superhero",
-            "panels",
-            "Marvel",
-            "speech bubble",
-            "issue"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-007",
-          "word": "Leonardo da Vinci",
-          "forbidden": [
-            "Mona Lisa",
-            "Last Supper",
-            "inventor",
-            "Renaissance",
-            "Italian"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-008",
-          "word": "The Thinker",
-          "forbidden": [
-            "Rodin",
-            "chin",
-            "sitting",
-            "bronze",
-            "pose"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-009",
-          "word": "Knitting",
-          "forbidden": [
-            "needles",
-            "yarn",
-            "wool",
-            "scarf",
-            "grandma"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-010",
-          "word": "Embroidery",
-          "forbidden": [
-            "needle",
-            "thread",
-            "stitch",
-            "hoop",
-            "fabric"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-011",
-          "word": "Polaroid",
-          "forbidden": [
-            "instant",
-            "camera",
-            "shake",
-            "square",
-            "print"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-2-012",
-          "word": "Ballet",
-          "forbidden": [
+            "dancer",
             "tutu",
             "pointe",
-            "dancer",
-            "Swan Lake",
+            "spin",
             "tiptoe"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "en-art-2-013",
-          "word": "Theater",
+          "id": "en-art-2-006",
+          "word": "Marionette",
+          "forbidden": [
+            "strings",
+            "doll",
+            "Pinocchio",
+            "wooden",
+            "dangle"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-007",
+          "word": "Actor",
+          "forbidden": [
+            "movie",
+            "role",
+            "character",
+            "Hollywood",
+            "film"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-008",
+          "word": "Curtain",
           "forbidden": [
             "stage",
-            "play",
-            "actors",
-            "curtain",
-            "Broadway"
+            "open",
+            "close",
+            "red",
+            "window"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-009",
+          "word": "Costume",
+          "forbidden": [
+            "outfit",
+            "Halloween",
+            "dress up",
+            "party",
+            "character"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-010",
+          "word": "Crayon",
+          "forbidden": [
+            "kids",
+            "color in",
+            "draw",
+            "box",
+            "wax"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-011",
+          "word": "Clay",
+          "forbidden": [
+            "mud",
+            "mold",
+            "vase",
+            "hands",
+            "wet"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-012",
+          "word": "Vase",
+          "forbidden": [
+            "flowers",
+            "plant",
+            "break",
+            "ceramic",
+            "water"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-2-013",
+          "word": "Glitter",
+          "forbidden": [
+            "sparkle",
+            "shiny",
+            "party",
+            "glue",
+            "messy"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-014",
-          "word": "Clown",
+          "word": "Paper",
           "forbidden": [
-            "circus",
-            "red nose",
-            "makeup",
-            "juggling",
-            "balloon animals"
+            "sheet",
+            "white",
+            "notebook",
+            "write",
+            "printer"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-015",
-          "word": "Doodle",
+          "word": "Fashion designer",
           "forbidden": [
-            "scribble",
-            "margin",
-            "bored",
-            "notebook",
-            "pen"
+            "clothes",
+            "Chanel",
+            "runway",
+            "sew",
+            "brand"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-016",
-          "word": "Finger painting",
+          "word": "Sewing",
           "forbidden": [
-            "kids",
-            "messy",
-            "hands",
-            "preschool",
-            "smear"
+            "needle",
+            "thread",
+            "clothes",
+            "machine",
+            "fabric"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-017",
-          "word": "Spray paint",
+          "word": "Juggling",
           "forbidden": [
-            "can",
-            "graffiti",
-            "aerosol",
-            "nozzle",
-            "wall"
+            "balls",
+            "circus",
+            "throw",
+            "air",
+            "catch"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-018",
-          "word": "Coloring book",
+          "word": "Stand-up comedy",
           "forbidden": [
-            "crayons",
-            "lines",
-            "kids",
-            "pages",
-            "outline"
+            "jokes",
+            "funny",
+            "microphone",
+            "laugh",
+            "stage"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-019",
-          "word": "Studio",
+          "word": "Caricature",
           "forbidden": [
-            "workspace",
-            "artist",
-            "loft",
-            "room",
-            "recording"
+            "drawing",
+            "exaggerated",
+            "face",
+            "big nose",
+            "funny"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-020",
-          "word": "Stick figure",
+          "word": "The Starry Night",
           "forbidden": [
-            "drawing",
-            "lines",
-            "simple",
-            "circle head",
-            "doodle"
+            "Van Gogh",
+            "sky",
+            "blue",
+            "swirls",
+            "painting"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-2-021",
-          "word": "Monet",
+          "word": "Leonardo da Vinci",
           "forbidden": [
-            "water lilies",
-            "Impressionism",
-            "Giverny",
-            "French",
-            "haystacks"
+            "Mona Lisa",
+            "Italian",
+            "inventor",
+            "painter",
+            "genius"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-2-022",
-          "word": "Salvador Dalí",
+          "word": "Christ the Redeemer",
           "forbidden": [
-            "mustache",
-            "melting clocks",
-            "surrealism",
-            "Spanish",
-            "Persistence of Memory"
+            "Rio",
+            "open arms",
+            "statue",
+            "Brazil",
+            "mountain"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-2-023",
-          "word": "Renaissance",
+          "word": "Jewelry",
           "forbidden": [
-            "Italy",
-            "Florence",
-            "rebirth",
-            "Leonardo",
-            "Michelangelo"
+            "ring",
+            "necklace",
+            "gold",
+            "diamond",
+            "bracelet"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-2-024",
-          "word": "Sistine Chapel",
+          "word": "Red carpet",
           "forbidden": [
-            "Vatican",
-            "ceiling",
-            "Michelangelo",
-            "Pope",
-            "Creation of Adam"
+            "celebrities",
+            "Oscars",
+            "photos",
+            "gown",
+            "arrive"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-2-025",
-          "word": "MoMA",
+          "word": "Waltz",
           "forbidden": [
-            "New York",
-            "museum",
-            "modern",
-            "Manhattan",
-            "Starry Night"
+            "dance",
+            "couple",
+            "ballroom",
+            "spin",
+            "wedding"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-2-026",
-          "word": "Stencil",
+          "word": "Palette",
           "forbidden": [
-            "cutout",
-            "template",
-            "spray",
-            "trace",
-            "Banksy"
+            "paints",
+            "colors",
+            "mix",
+            "painter",
+            "hold"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-027",
-          "word": "Mime",
+          "word": "Easel",
           "forbidden": [
-            "silent",
-            "invisible box",
-            "white face",
-            "gestures",
-            "French"
+            "canvas",
+            "painter",
+            "stand",
+            "wooden",
+            "tripod"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-028",
-          "word": "Gaudí",
+          "word": "Portrait",
           "forbidden": [
-            "Barcelona",
-            "Sagrada Família",
-            "architect",
-            "mosaic",
-            "Park Güell"
+            "face",
+            "photo",
+            "painting",
+            "pose",
+            "person"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-029",
-          "word": "The Starry Night",
+          "word": "Picasso",
           "forbidden": [
-            "Van Gogh",
-            "swirls",
-            "sky",
-            "cypress",
-            "village"
+            "Spanish",
+            "painter",
+            "cubism",
+            "shapes",
+            "famous"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-030",
-          "word": "Pixel art",
+          "word": "Shakespeare",
           "forbidden": [
-            "retro",
-            "video game",
-            "squares",
-            "8-bit",
-            "blocky"
+            "Romeo and Juliet",
+            "English",
+            "writer",
+            "plays",
+            "Hamlet"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-031",
-          "word": "Poster",
+          "word": "Comedy",
           "forbidden": [
-            "wall",
-            "print",
-            "movie",
-            "bedroom",
-            "concert"
+            "laugh",
+            "funny",
+            "joke",
+            "humor",
+            "drama"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-032",
-          "word": "Calligraphy",
+          "word": "Rehearsal",
           "forbidden": [
-            "lettering",
-            "pen",
-            "ink",
-            "handwriting",
-            "fancy"
+            "practice",
+            "repeat",
+            "before",
+            "train",
+            "play"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-033",
-          "word": "Gothic",
+          "word": "Script",
           "forbidden": [
-            "cathedral",
-            "Notre-Dame",
-            "gargoyles",
-            "pointed arches",
-            "medieval"
+            "lines",
+            "movie",
+            "write",
+            "story",
+            "actors"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-034",
-          "word": "Pietà",
+          "word": "Clapperboard",
           "forbidden": [
-            "Michelangelo",
-            "Mary",
-            "Jesus",
-            "marble",
-            "Vatican"
+            "action",
+            "scene",
+            "black and white",
+            "movie",
+            "snap"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-035",
-          "word": "Mondrian",
+          "word": "Special effects",
           "forbidden": [
-            "squares",
-            "primary colors",
-            "grid",
-            "black lines",
-            "Dutch"
+            "computer",
+            "explosion",
+            "movie",
+            "CGI",
+            "fake"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-036",
-          "word": "Jackson Pollock",
+          "word": "Architecture",
           "forbidden": [
-            "drip",
-            "splatter",
-            "abstract",
-            "canvas",
-            "floor"
+            "buildings",
+            "design",
+            "construction",
+            "skyscraper",
+            "house"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-037",
-          "word": "Rembrandt",
+          "word": "Embroidery",
           "forbidden": [
-            "Dutch",
-            "Night Watch",
-            "self-portraits",
-            "light",
-            "Baroque"
+            "needle",
+            "thread",
+            "fabric",
+            "stitch",
+            "hoop"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-038",
-          "word": "Botticelli",
+          "word": "Mural",
           "forbidden": [
-            "Birth of Venus",
-            "shell",
-            "Florence",
-            "Renaissance",
-            "Primavera"
+            "wall",
+            "large",
+            "painted",
+            "street",
+            "building"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-039",
-          "word": "India ink",
+          "word": "Illustration",
           "forbidden": [
-            "black",
-            "pen",
-            "nib",
+            "book",
             "drawing",
-            "tattoo"
+            "picture",
+            "children's",
+            "image"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-040",
-          "word": "Photoshop",
+          "word": "Breakdance",
           "forbidden": [
-            "Adobe",
-            "edit",
-            "airbrush",
-            "filter",
-            "layers"
+            "b-boy",
+            "street",
+            "floor",
+            "spin",
+            "hip-hop"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-2-041",
-          "word": "Vermeer",
+          "word": "Exhibition",
           "forbidden": [
-            "Girl with a Pearl Earring",
-            "Dutch",
-            "Delft",
-            "milkmaid",
-            "light"
+            "museum",
+            "gallery",
+            "artworks",
+            "visit",
+            "show"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-2-042",
-          "word": "Klimt",
+          "word": "Wardrobe",
           "forbidden": [
-            "The Kiss",
-            "gold",
-            "Vienna",
-            "Art Nouveau",
-            "leaf"
+            "clothes",
+            "actor",
+            "costume",
+            "character",
+            "dress"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-2-043",
-          "word": "Art Nouveau",
+          "word": "Poster",
           "forbidden": [
-            "curves",
-            "flowers",
-            "Mucha",
-            "Paris Metro",
-            "organic"
+            "wall",
+            "movie",
+            "band",
+            "print",
+            "bedroom"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-2-044",
-          "word": "Caravaggio",
+          "word": "Shadow",
           "forbidden": [
-            "Baroque",
-            "shadows",
-            "Italian",
-            "dramatic",
-            "Medusa"
+            "dark",
+            "sun",
+            "light",
+            "silhouette",
+            "follow"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-2-045",
-          "word": "Basquiat",
+          "word": "Sparkle",
           "forbidden": [
-            "crown",
-            "graffiti",
-            "New York",
-            "Warhol",
-            "neo-expressionism"
+            "shine",
+            "glitter",
+            "star",
+            "diamond",
+            "twinkle"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-2-046",
-          "word": "Hokusai",
+          "word": "Imagination",
           "forbidden": [
-            "Great Wave",
-            "Japan",
-            "Mount Fuji",
-            "woodblock",
-            "print"
+            "pretend",
+            "dream",
+            "create",
+            "idea",
+            "mind"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-2-047",
-          "word": "Duchamp",
+          "word": "Masterpiece",
           "forbidden": [
-            "Fountain",
-            "urinal",
-            "readymade",
-            "Dada",
-            "chess"
+            "best",
+            "famous",
+            "genius",
+            "perfect",
+            "greatest"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-2-048",
-          "word": "Fauvism",
+          "word": "Inspiration",
           "forbidden": [
-            "Matisse",
-            "wild beasts",
-            "bright colors",
-            "French",
-            "bold"
+            "idea",
+            "muse",
+            "create",
+            "motivation",
+            "imagination"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-2-049",
-          "word": "Golden ratio",
+          "word": "Line",
           "forbidden": [
-            "Fibonacci",
-            "spiral",
-            "1.618",
-            "proportion",
-            "divine"
+            "stroke",
+            "straight",
+            "ruler",
+            "pen",
+            "thread"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-2-050",
-          "word": "Minimalism",
+          "word": "Circle",
           "forbidden": [
-            "less is more",
-            "simple",
-            "clean",
-            "sparse",
-            "white"
+            "round",
+            "ball",
+            "ring",
+            "shape",
+            "compass"
           ],
           "difficulty": "hard"
         }
@@ -1221,601 +1221,601 @@
       "cards": [
         {
           "id": "en-art-3-001",
-          "word": "Play-Doh",
+          "word": "Pen",
           "forbidden": [
-            "clay",
-            "kids",
-            "squish",
-            "can",
-            "mold"
+            "write",
+            "ink",
+            "Bic",
+            "blue",
+            "cap"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-002",
-          "word": "Puppet",
+          "word": "Canvas",
           "forbidden": [
-            "hand",
-            "strings",
-            "show",
-            "sock",
-            "Muppets"
+            "painting",
+            "fabric",
+            "easel",
+            "blank",
+            "white"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-003",
-          "word": "Marionette",
+          "word": "Flamenco",
           "forbidden": [
-            "strings",
-            "Pinocchio",
-            "wooden",
-            "controller",
-            "dangle"
+            "Spain",
+            "dance",
+            "dress",
+            "castanets",
+            "stomping"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-004",
-          "word": "Mask",
+          "word": "Michelangelo",
           "forbidden": [
-            "face",
-            "costume",
-            "Halloween",
-            "cover",
-            "Zorro"
+            "Italian",
+            "ceiling",
+            "sculptor",
+            "David",
+            "chapel"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-005",
-          "word": "Architect",
+          "word": "The Scream",
           "forbidden": [
-            "buildings",
-            "blueprints",
-            "design",
-            "house",
-            "plans"
+            "painting",
+            "hands",
+            "face",
+            "fear",
+            "bridge"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-006",
-          "word": "Collage",
+          "word": "Frida Kahlo",
           "forbidden": [
-            "cut",
-            "paste",
-            "magazine",
-            "scissors",
-            "pieces"
+            "Mexico",
+            "eyebrows",
+            "painter",
+            "flowers",
+            "self-portrait"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-007",
-          "word": "Primary colors",
+          "word": "Pointe shoes",
           "forbidden": [
-            "red",
-            "blue",
-            "yellow",
-            "three",
-            "mix"
+            "ballet",
+            "feet",
+            "ballerina",
+            "toes",
+            "pink"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-008",
-          "word": "Fashion",
+          "word": "Show",
           "forbidden": [
-            "clothes",
-            "runway",
-            "designer",
-            "trend",
-            "model"
+            "performance",
+            "audience",
+            "stage",
+            "tickets",
+            "spectacle"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-009",
-          "word": "Makeup",
+          "word": "Spray paint",
           "forbidden": [
-            "lipstick",
-            "mascara",
-            "foundation",
-            "face",
-            "blush"
+            "can",
+            "graffiti",
+            "press",
+            "wall",
+            "aerosol"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-010",
-          "word": "Stand-up comedy",
+          "word": "Charlie Chaplin",
           "forbidden": [
-            "Netflix special",
-            "jokes",
-            "microphone",
-            "laugh",
-            "open mic"
+            "mustache",
+            "hat",
+            "cane",
+            "silent film",
+            "black and white"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-011",
-          "word": "Circus",
+          "word": "Louvre",
           "forbidden": [
-            "tent",
-            "ringmaster",
-            "acrobats",
-            "elephants",
-            "trapeze"
+            "Paris",
+            "pyramid",
+            "museum",
+            "Mona Lisa",
+            "France"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-012",
-          "word": "David",
+          "word": "Gallery",
           "forbidden": [
-            "Michelangelo",
-            "statue",
-            "Goliath",
-            "marble",
-            "Florence"
+            "paintings",
+            "exhibition",
+            "visit",
+            "walls",
+            "collector"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-013",
-          "word": "Chalk",
+          "word": "Walk of Fame",
           "forbidden": [
-            "sidewalk",
-            "blackboard",
-            "white",
-            "dust",
-            "hopscotch"
+            "Hollywood",
+            "stars",
+            "Los Angeles",
+            "celebrities",
+            "names"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-014",
-          "word": "Logo",
+          "word": "Crochet",
           "forbidden": [
-            "brand",
-            "symbol",
-            "company",
-            "Nike swoosh",
-            "design"
+            "hook",
+            "yarn",
+            "grandma",
+            "blanket",
+            "wool"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-015",
-          "word": "Tile",
+          "word": "Emoji",
           "forbidden": [
-            "bathroom",
-            "floor",
-            "square",
-            "ceramic",
-            "grout"
+            "phone",
+            "smiley",
+            "text",
+            "face",
+            "WhatsApp"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-016",
-          "word": "Bust",
-          "forbidden": [
-            "head",
-            "shoulders",
-            "statue",
-            "marble",
-            "sculpture"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-3-017",
-          "word": "Silhouette",
-          "forbidden": [
-            "shadow",
-            "outline",
-            "black",
-            "profile",
-            "dark"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-3-018",
-          "word": "Illustration",
-          "forbidden": [
-            "picture",
-            "book",
-            "drawing",
-            "children's",
-            "artist"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-art-3-019",
           "word": "Postcard",
           "forbidden": [
-            "stamp",
-            "mail",
-            "vacation",
             "picture",
+            "trip",
+            "mail",
+            "stamp",
             "wish you were here"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "en-art-3-020",
-          "word": "Bob Ross",
+          "id": "en-art-3-017",
+          "word": "Photo album",
           "forbidden": [
-            "happy little trees",
-            "afro",
-            "painter",
-            "TV",
-            "joy of painting"
+            "pictures",
+            "memories",
+            "family",
+            "pages",
+            "wedding"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-3-018",
+          "word": "Play-Doh",
+          "forbidden": [
+            "kids",
+            "mold",
+            "colorful",
+            "soft",
+            "squish"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-3-019",
+          "word": "Needle",
+          "forbidden": [
+            "thread",
+            "sew",
+            "sharp",
+            "prick",
+            "thimble"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-art-3-020",
+          "word": "Yarn",
+          "forbidden": [
+            "wool",
+            "knitting",
+            "ball",
+            "cat",
+            "sweater"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-art-3-021",
-          "word": "Cave painting",
+          "word": "Beads",
           "forbidden": [
-            "prehistoric",
-            "Lascaux",
-            "wall",
-            "hunters",
-            "animals"
+            "bracelet",
+            "necklace",
+            "string",
+            "colorful",
+            "tiny"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-3-022",
-          "word": "Mount Rushmore",
+          "word": "Stamp",
           "forbidden": [
-            "presidents",
-            "faces",
-            "South Dakota",
-            "carved",
-            "Lincoln"
+            "ink",
+            "mark",
+            "paper",
+            "rubber",
+            "press"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-3-023",
-          "word": "Monument",
+          "word": "Sticker",
           "forbidden": [
-            "memorial",
-            "statue",
-            "landmark",
-            "history",
-            "tribute"
+            "label",
+            "peel",
+            "sheet",
+            "notebook",
+            "laptop"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-3-024",
-          "word": "NFT",
+          "word": "Sequins",
           "forbidden": [
-            "crypto",
-            "token",
-            "digital",
-            "blockchain",
-            "ape"
+            "sparkle",
+            "dress",
+            "shiny",
+            "costume",
+            "sew"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-3-025",
-          "word": "Manga",
+          "word": "Tape",
           "forbidden": [
-            "Japanese",
-            "comics",
-            "anime",
-            "read backwards",
-            "Naruto"
+            "sticky",
+            "roll",
+            "Scotch",
+            "wrap",
+            "cut"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-art-3-026",
-          "word": "Tapestry",
+          "word": "Stained glass",
           "forbidden": [
-            "woven",
-            "wall",
-            "hanging",
-            "thread",
-            "Bayeux"
+            "church",
+            "window",
+            "colored",
+            "light",
+            "cathedral"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-027",
-          "word": "Sagrada Família",
+          "word": "Abstract art",
           "forbidden": [
-            "Barcelona",
-            "Gaudí",
-            "church",
-            "unfinished",
-            "Spain"
+            "shapes",
+            "colors",
+            "modern",
+            "meaning",
+            "painting"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-028",
-          "word": "Georgia O'Keeffe",
+          "word": "Monument",
           "forbidden": [
-            "flowers",
-            "New Mexico",
-            "painter",
-            "skulls",
-            "desert"
+            "statue",
+            "memorial",
+            "landmark",
+            "history",
+            "tourists"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-029",
-          "word": "Norman Rockwell",
+          "word": "Tragedy",
           "forbidden": [
-            "Saturday Evening Post",
-            "American",
-            "illustrator",
-            "Thanksgiving",
-            "nostalgic"
+            "sad",
+            "drama",
+            "death",
+            "ending",
+            "Shakespeare"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-030",
-          "word": "Henna",
+          "word": "Drama",
           "forbidden": [
-            "temporary",
-            "tattoo",
-            "hands",
-            "brown",
-            "Indian"
+            "cry",
+            "sad",
+            "emotional",
+            "comedy",
+            "serious"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-031",
-          "word": "Rodin",
+          "word": "Improv",
           "forbidden": [
-            "The Thinker",
-            "The Kiss",
-            "French",
-            "sculptor",
-            "bronze"
+            "make up",
+            "on the spot",
+            "unscripted",
+            "comedy",
+            "theater"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-032",
-          "word": "Matisse",
+          "word": "Audience",
           "forbidden": [
-            "cutouts",
-            "Fauvism",
-            "French",
-            "colors",
-            "dance"
+            "crowd",
+            "watch",
+            "people",
+            "clap",
+            "seats"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-033",
-          "word": "Edward Hopper",
+          "word": "Spotlight",
           "forbidden": [
-            "Nighthawks",
-            "diner",
-            "loneliness",
-            "American",
-            "painter"
+            "lamp",
+            "stage",
+            "shine",
+            "attention",
+            "beam"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-034",
-          "word": "American Gothic",
+          "word": "Dressing room",
           "forbidden": [
-            "pitchfork",
-            "farmer",
-            "couple",
-            "Iowa",
-            "Grant Wood"
+            "makeup",
+            "mirror",
+            "actor",
+            "backstage",
+            "change"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-035",
-          "word": "Venus de Milo",
+          "word": "Box office",
           "forbidden": [
-            "armless",
-            "statue",
-            "Louvre",
-            "Greek",
-            "goddess"
+            "tickets",
+            "buy",
+            "line",
+            "movie",
+            "money"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-036",
-          "word": "Gargoyle",
+          "word": "Pose",
           "forbidden": [
-            "stone",
-            "roof",
-            "cathedral",
-            "monster",
-            "gutter"
+            "photo",
+            "strike",
+            "model",
+            "camera",
+            "still"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-037",
-          "word": "Masterpiece",
+          "word": "Model",
           "forbidden": [
-            "best",
-            "greatest",
-            "famous",
-            "work",
-            "chef's kiss"
+            "runway",
+            "fashion",
+            "photo",
+            "pretty",
+            "catwalk"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-038",
-          "word": "Muse",
+          "word": "Cosplay",
           "forbidden": [
-            "inspiration",
-            "goddess",
-            "artist",
-            "Greek",
-            "nine"
+            "costume",
+            "anime",
+            "character",
+            "convention",
+            "fan"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-039",
-          "word": "Tie-dye",
+          "word": "Design",
           "forbidden": [
-            "shirt",
-            "hippie",
-            "swirl",
-            "colors",
-            "rubber bands"
+            "plan",
+            "create",
+            "drawing",
+            "style",
+            "shape"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-040",
-          "word": "Hieroglyphics",
+          "word": "Cave painting",
           "forbidden": [
-            "Egypt",
-            "pictures",
-            "symbols",
-            "writing",
-            "pharaoh"
+            "rock",
+            "wall",
+            "prehistoric",
+            "animals",
+            "Stone Age"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-art-3-041",
-          "word": "Roy Lichtenstein",
+          "word": "3D glasses",
           "forbidden": [
-            "comic",
-            "dots",
-            "Pop art",
-            "Whaam",
-            "speech bubble"
+            "cinema",
+            "movie",
+            "screen",
+            "depth",
+            "red and blue"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-3-042",
-          "word": "Frank Lloyd Wright",
+          "word": "Trailer",
           "forbidden": [
-            "architect",
-            "Fallingwater",
-            "Guggenheim",
-            "prairie",
-            "American"
+            "movie",
+            "preview",
+            "coming soon",
+            "scenes",
+            "teaser"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-3-043",
-          "word": "Yayoi Kusama",
+          "word": "Slow motion",
           "forbidden": [
-            "polka dots",
-            "pumpkins",
-            "Japanese",
-            "mirrors",
-            "infinity rooms"
+            "replay",
+            "movie",
+            "scene",
+            "action",
+            "speed"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-3-044",
-          "word": "Kandinsky",
+          "word": "Backstage",
           "forbidden": [
-            "abstract",
-            "Russian",
-            "circles",
-            "music",
-            "colors"
+            "behind",
+            "theater",
+            "hidden",
+            "crew",
+            "curtain"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-3-045",
-          "word": "Magritte",
+          "word": "Premiere",
           "forbidden": [
-            "apple",
-            "bowler hat",
-            "pipe",
-            "Belgian",
-            "surrealist"
+            "first",
+            "movie",
+            "opening night",
+            "red carpet",
+            "release"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-art-3-046",
-          "word": "Rothko",
+          "word": "Idea",
           "forbidden": [
-            "color field",
-            "rectangles",
-            "abstract",
-            "chapel",
-            "blocks"
+            "lightbulb",
+            "think",
+            "thought",
+            "brain",
+            "concept"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-3-047",
-          "word": "Keith Haring",
+          "word": "Modern",
           "forbidden": [
-            "dancing figures",
-            "subway",
-            "outlines",
-            "radiant baby",
-            "1980s"
+            "new",
+            "contemporary",
+            "current",
+            "old",
+            "today"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-3-048",
-          "word": "Impasto",
+          "word": "Old",
           "forbidden": [
-            "thick",
-            "paint",
-            "texture",
-            "palette knife",
-            "layers"
+            "ancient",
+            "young",
+            "vintage",
+            "aged",
+            "antique"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-3-049",
-          "word": "Marina Abramović",
+          "word": "Image",
           "forbidden": [
-            "performance",
-            "The Artist Is Present",
-            "staring",
-            "Serbian",
-            "endurance"
+            "photo",
+            "picture",
+            "see",
+            "drawing",
+            "portrait"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-art-3-050",
-          "word": "Fabergé egg",
+          "word": "Decorate",
           "forbidden": [
-            "Russian",
-            "jeweled",
-            "tsar",
-            "Easter",
-            "ornate"
+            "ornament",
+            "pretty",
+            "Christmas",
+            "party",
+            "design"
           ],
           "difficulty": "hard"
         }

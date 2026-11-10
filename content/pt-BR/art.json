@@ -9,13 +9,13 @@
       "cards": [
         {
           "id": "pt-art-1-001",
-          "word": "Mona Lisa",
+          "word": "Pintura",
           "forbidden": [
-            "Da Vinci",
-            "sorriso",
-            "Louvre",
             "quadro",
-            "Paris"
+            "museu",
+            "parede",
+            "moldura",
+            "artista"
           ],
           "difficulty": "easy"
         },
@@ -23,52 +23,220 @@
           "id": "pt-art-1-002",
           "word": "Pincel",
           "forbidden": [
-            "tinta",
-            "pintar",
-            "cerdas",
-            "tela",
+            "cabo",
+            "pelos",
+            "madeira",
+            "ponta",
             "artista"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-1-003",
-          "word": "Museu",
+          "word": "Escultura",
           "forbidden": [
-            "exposição",
-            "obras",
-            "quadros",
-            "visitar",
-            "galeria"
+            "estátua",
+            "pedra",
+            "mármore",
+            "museu",
+            "artista"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-1-004",
-          "word": "Escultura",
+          "word": "Teatro",
           "forbidden": [
-            "estátua",
-            "mármore",
-            "pedra",
-            "cinzel",
-            "Rodin"
+            "cortina",
+            "plateia",
+            "ingresso",
+            "cadeiras",
+            "luzes"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-1-005",
-          "word": "Tatuagem",
+          "word": "Mona Lisa",
           "forbidden": [
-            "pele",
-            "agulha",
-            "tinta",
-            "desenho",
-            "braço"
+            "Paris",
+            "Louvre",
+            "quadro",
+            "mulher",
+            "famosa"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-1-006",
+          "word": "Desenho",
+          "forbidden": [
+            "papel",
+            "lápis",
+            "rabisco",
+            "criança",
+            "folha"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-007",
+          "word": "Palhaço",
+          "forbidden": [
+            "circo",
+            "nariz",
+            "risada",
+            "sapato",
+            "colorido"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-008",
+          "word": "Tatuagem",
+          "forbidden": [
+            "pele",
+            "agulha",
+            "braço",
+            "desenho",
+            "dor"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-009",
+          "word": "Museu",
+          "forbidden": [
+            "visitar",
+            "quadros",
+            "obras",
+            "antigo",
+            "guia"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-010",
+          "word": "Selfie",
+          "forbidden": [
+            "celular",
+            "foto",
+            "rosto",
+            "sorrir",
+            "Instagram"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-011",
+          "word": "Balé",
+          "forbidden": [
+            "dança",
+            "sapatilha",
+            "tutu",
+            "bailarina",
+            "ponta do pé"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-012",
+          "word": "Origami",
+          "forbidden": [
+            "papel",
+            "dobrar",
+            "Japão",
+            "tsuru",
+            "barquinho"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-013",
+          "word": "Máscara",
+          "forbidden": [
+            "rosto",
+            "esconder",
+            "carnaval",
+            "olhos",
+            "festa"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-014",
+          "word": "Circo",
+          "forbidden": [
+            "lona",
+            "palhaço",
+            "trapézio",
+            "elefante",
+            "picadeiro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-015",
+          "word": "Cola",
+          "forbidden": [
+            "grudar",
+            "papel",
+            "bastão",
+            "branca",
+            "tubo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-016",
+          "word": "Tesoura",
+          "forbidden": [
+            "cortar",
+            "papel",
+            "lâmina",
+            "afiada",
+            "cabelo"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-017",
+          "word": "Moda",
+          "forbidden": [
+            "roupa",
+            "estilo",
+            "tendência",
+            "vestir",
+            "passarela"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-018",
+          "word": "Arco-íris",
+          "forbidden": [
+            "cores",
+            "chuva",
+            "céu",
+            "sete",
+            "sol"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-019",
+          "word": "Mágico",
+          "forbidden": [
+            "truque",
+            "cartola",
+            "coelho",
+            "varinha",
+            "sumir"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-1-020",
           "word": "Grafite",
           "forbidden": [
             "muro",
@@ -80,530 +248,362 @@
           "difficulty": "easy"
         },
         {
-          "id": "pt-art-1-007",
-          "word": "Selfie",
-          "forbidden": [
-            "foto",
-            "celular",
-            "câmera",
-            "rosto",
-            "Instagram"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-008",
-          "word": "Aquarela",
-          "forbidden": [
-            "água",
-            "tinta",
-            "papel",
-            "pincel",
-            "cores"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-009",
-          "word": "Autorretrato",
-          "forbidden": [
-            "pintura",
-            "si mesmo",
-            "Frida",
-            "espelho",
-            "rosto"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-010",
-          "word": "Origami",
-          "forbidden": [
-            "papel",
-            "dobrar",
-            "Japão",
-            "tsuru",
-            "dobradura"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-011",
-          "word": "Cavalete",
-          "forbidden": [
-            "tela",
-            "pintor",
-            "suporte",
-            "madeira",
-            "tripé"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-012",
-          "word": "Paleta",
-          "forbidden": [
-            "tintas",
-            "cores",
-            "misturar",
-            "pintor",
-            "tábua"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-013",
-          "word": "Frida Kahlo",
-          "forbidden": [
-            "México",
-            "sobrancelha",
-            "autorretrato",
-            "Diego Rivera",
-            "pintora"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-014",
-          "word": "Van Gogh",
-          "forbidden": [
-            "orelha",
-            "girassóis",
-            "Noite Estrelada",
-            "holandês",
-            "pintor"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-015",
-          "word": "Caricatura",
-          "forbidden": [
-            "exagero",
-            "desenho",
-            "rosto",
-            "nariz",
-            "humor"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-016",
-          "word": "Mosaico",
-          "forbidden": [
-            "pedaços",
-            "azulejo",
-            "cacos",
-            "pastilhas",
-            "Gaudí"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-017",
-          "word": "Cerâmica",
-          "forbidden": [
-            "argila",
-            "barro",
-            "vaso",
-            "forno",
-            "torno"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-018",
-          "word": "Cristo Redentor",
-          "forbidden": [
-            "Rio",
-            "braços",
-            "Corcovado",
-            "estátua",
-            "maravilha"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-019",
-          "word": "Lápis de cor",
-          "forbidden": [
-            "desenhar",
-            "pintar",
-            "caixa",
-            "criança",
-            "apontador"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-1-020",
-          "word": "Fotografia",
-          "forbidden": [
-            "câmera",
-            "clique",
-            "imagem",
-            "lente",
-            "flash"
-          ],
-          "difficulty": "easy"
-        },
-        {
           "id": "pt-art-1-021",
-          "word": "Tarsila do Amaral",
+          "word": "Fantoche",
           "forbidden": [
-            "Abaporu",
-            "modernismo",
-            "pintora",
-            "brasileira",
-            "antropofagia"
+            "mão",
+            "boneco",
+            "meia",
+            "teatro",
+            "criança"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-1-022",
-          "word": "Surrealismo",
+          "word": "Cerâmica",
           "forbidden": [
-            "Dalí",
-            "sonho",
-            "relógio derretido",
-            "Magritte",
-            "absurdo"
+            "barro",
+            "argila",
+            "vaso",
+            "forno",
+            "prato"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-1-023",
-          "word": "Pop art",
+          "word": "Maquiagem",
           "forbidden": [
-            "Warhol",
-            "latas de sopa",
-            "Marilyn",
-            "quadrinhos",
-            "cores"
+            "batom",
+            "rosto",
+            "base",
+            "rímel",
+            "pincel"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-1-024",
-          "word": "Picasso",
+          "word": "Aplauso",
           "forbidden": [
-            "cubismo",
-            "Guernica",
-            "espanhol",
-            "pintor",
-            "rostos"
+            "palmas",
+            "mãos",
+            "plateia",
+            "bater",
+            "fim"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-1-025",
-          "word": "Afresco",
+          "word": "Quadrinhos",
           "forbidden": [
-            "parede",
-            "teto",
-            "gesso",
-            "Capela Sistina",
-            "pintura"
+            "gibi",
+            "herói",
+            "balão",
+            "desenho",
+            "revista"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-1-026",
-          "word": "O Grito",
+          "word": "Câmera",
           "forbidden": [
-            "Munch",
-            "ponte",
-            "mãos",
-            "rosto",
-            "desespero"
+            "foto",
+            "lente",
+            "flash",
+            "clique",
+            "Canon"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-027",
-          "word": "Michelangelo",
+          "word": "Aquarela",
           "forbidden": [
-            "Davi",
-            "Capela Sistina",
-            "Renascimento",
-            "escultor",
-            "teto"
+            "água",
+            "tinta",
+            "pincel",
+            "papel",
+            "cores"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-028",
-          "word": "Galeria de arte",
+          "word": "Van Gogh",
           "forbidden": [
-            "exposição",
-            "quadros",
-            "vernissage",
-            "curador",
-            "museu"
+            "orelha",
+            "girassóis",
+            "pintor",
+            "holandês",
+            "Noite Estrelada"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-029",
-          "word": "Bienal",
+          "word": "Palco",
           "forbidden": [
-            "São Paulo",
-            "exposição",
-            "dois anos",
-            "Ibirapuera",
-            "contemporânea"
+            "teatro",
+            "ator",
+            "show",
+            "apresentação",
+            "cortina"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-030",
-          "word": "Vitral",
+          "word": "Coreografia",
           "forbidden": [
-            "vidro",
-            "igreja",
-            "colorido",
-            "janela",
-            "catedral"
+            "dança",
+            "passos",
+            "movimentos",
+            "ensaiar",
+            "grupo"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-031",
-          "word": "Romero Britto",
+          "word": "Diretor",
           "forbidden": [
-            "cores",
-            "pop",
-            "coração",
-            "Miami",
-            "brasileiro"
+            "filme",
+            "cinema",
+            "câmera",
+            "ação",
+            "atores"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-032",
-          "word": "Cubismo",
+          "word": "Romeu e Julieta",
           "forbidden": [
-            "Picasso",
-            "formas",
-            "geométrico",
-            "Braque",
-            "quadrados"
+            "Shakespeare",
+            "amor",
+            "casal",
+            "veneno",
+            "varanda"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-033",
-          "word": "Impressionismo",
+          "word": "Mosaico",
           "forbidden": [
-            "Monet",
-            "luz",
-            "pinceladas",
-            "França",
-            "ninfeias"
+            "pedaços",
+            "azulejo",
+            "cacos",
+            "colorido",
+            "chão"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-034",
-          "word": "Natureza-morta",
-          "forbidden": [
-            "frutas",
-            "vaso",
-            "mesa",
-            "objetos",
-            "quadro"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-1-035",
-          "word": "Xilogravura",
-          "forbidden": [
-            "madeira",
-            "cordel",
-            "matriz",
-            "carimbo",
-            "Nordeste"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-1-036",
-          "word": "Banksy",
-          "forbidden": [
-            "grafite",
-            "anônimo",
-            "Londres",
-            "balão",
-            "menina"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-1-037",
-          "word": "Arte abstrata",
-          "forbidden": [
-            "formas",
-            "cores",
-            "Kandinsky",
-            "sem figura",
-            "Pollock"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-1-038",
-          "word": "Perspectiva",
-          "forbidden": [
-            "profundidade",
-            "ponto de fuga",
-            "desenho",
-            "3D",
-            "horizonte"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-1-039",
           "word": "Moldura",
           "forbidden": [
             "quadro",
             "borda",
             "parede",
-            "madeira",
+            "foto",
             "pendurar"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-art-1-040",
-          "word": "Portinari",
+          "id": "pt-art-1-035",
+          "word": "Artesanato",
           "forbidden": [
-            "Guerra e Paz",
-            "Retirantes",
-            "café",
-            "pintor",
-            "brasileiro"
+            "mãos",
+            "feira",
+            "feito à mão",
+            "crochê",
+            "manual"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-1-036",
+          "word": "Dublê",
+          "forbidden": [
+            "perigo",
+            "ator",
+            "cena",
+            "acrobacia",
+            "cinema"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-1-037",
+          "word": "Poesia",
+          "forbidden": [
+            "poema",
+            "versos",
+            "rima",
+            "poeta",
+            "escrever"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-1-038",
+          "word": "Logotipo",
+          "forbidden": [
+            "marca",
+            "símbolo",
+            "empresa",
+            "Nike",
+            "desenho"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-1-039",
+          "word": "Estátua",
+          "forbidden": [
+            "pedra",
+            "praça",
+            "bronze",
+            "parada",
+            "monumento"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-1-040",
+          "word": "Mímica",
+          "forbidden": [
+            "gestos",
+            "silêncio",
+            "mãos",
+            "adivinhar",
+            "sem falar"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-1-041",
-          "word": "Claro-escuro",
+          "word": "Tinta",
           "forbidden": [
-            "luz",
-            "sombra",
-            "Caravaggio",
-            "contraste",
-            "Rembrandt"
+            "pincel",
+            "cor",
+            "pintar",
+            "lata",
+            "parede"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-1-042",
-          "word": "Barroco mineiro",
+          "word": "Cenário",
           "forbidden": [
-            "Aleijadinho",
-            "Ouro Preto",
-            "igrejas",
-            "Congonhas",
-            "talha"
+            "teatro",
+            "palco",
+            "fundo",
+            "filme",
+            "paisagem"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-1-043",
-          "word": "Pontilhismo",
+          "word": "Desfile",
           "forbidden": [
-            "Seurat",
-            "Signac",
-            "bolinhas",
-            "neoimpressionismo",
-            "tinta"
+            "passarela",
+            "modelo",
+            "roupa",
+            "carnaval",
+            "marchar"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-1-044",
-          "word": "Art déco",
+          "word": "Luz",
           "forbidden": [
-            "geométrico",
-            "anos 20",
-            "arquitetura",
-            "Cristo Redentor",
-            "Gatsby"
+            "claro",
+            "lâmpada",
+            "sol",
+            "acender",
+            "escuro"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-1-045",
-          "word": "Semana de 22",
+          "word": "Tricô",
           "forbidden": [
-            "modernismo",
-            "São Paulo",
-            "Mário de Andrade",
-            "Anita Malfatti",
-            "Theatro Municipal"
+            "agulha",
+            "lã",
+            "vovó",
+            "cachecol",
+            "linha"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-1-046",
-          "word": "Instalação",
+          "word": "Arte",
           "forbidden": [
-            "espaço",
-            "contemporânea",
-            "Inhotim",
-            "objetos",
-            "montagem"
+            "pintura",
+            "museu",
+            "quadro",
+            "obra",
+            "cultura"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-1-047",
-          "word": "Hélio Oiticica",
+          "word": "Beleza",
           "forbidden": [
-            "Parangolé",
-            "Tropicália",
-            "neoconcretismo",
-            "penetrável",
-            "carioca"
+            "bonito",
+            "lindo",
+            "feio",
+            "admirar",
+            "estética"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-1-048",
-          "word": "Escher",
+          "word": "Cor",
           "forbidden": [
-            "ilusão",
-            "escadas",
-            "impossível",
-            "holandês",
-            "gravura"
+            "vermelho",
+            "azul",
+            "colorido",
+            "tinta",
+            "arco-íris"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-1-049",
-          "word": "Rococó",
+          "word": "Criatividade",
           "forbidden": [
-            "barroco",
-            "ornamentos",
-            "França",
-            "Fragonard",
-            "exagerado"
+            "ideia",
+            "imaginação",
+            "inventar",
+            "original",
+            "inspiração"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-1-050",
-          "word": "Kitsch",
+          "word": "Cópia",
           "forbidden": [
-            "brega",
-            "cafona",
-            "mau gosto",
-            "exagero",
-            "enfeite"
+            "falso",
+            "igual",
+            "imitar",
+            "original",
+            "réplica"
           ],
           "difficulty": "hard"
         }
@@ -615,145 +615,145 @@
       "cards": [
         {
           "id": "pt-art-2-001",
-          "word": "Desenho",
+          "word": "Quadro",
           "forbidden": [
-            "lápis",
-            "papel",
-            "rabisco",
-            "traço",
-            "esboço"
+            "parede",
+            "moldura",
+            "pintura",
+            "pendurar",
+            "sala"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-002",
-          "word": "Quadro",
+          "word": "Lápis",
           "forbidden": [
-            "parede",
-            "pintura",
-            "moldura",
-            "tela",
-            "pendurar"
+            "escrever",
+            "apontador",
+            "borracha",
+            "grafite",
+            "madeira"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-003",
-          "word": "Estátua da Liberdade",
+          "word": "Borracha",
           "forbidden": [
-            "Nova York",
-            "tocha",
-            "EUA",
-            "verde",
-            "França"
+            "apagar",
+            "lápis",
+            "erro",
+            "branca",
+            "escola"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-004",
-          "word": "Argila",
+          "word": "Fotografia",
           "forbidden": [
-            "barro",
-            "modelar",
-            "cerâmica",
-            "vaso",
-            "mãos"
+            "câmera",
+            "imagem",
+            "momento",
+            "lembrança",
+            "álbum"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-005",
-          "word": "Giz de cera",
+          "word": "Bailarina",
           "forbidden": [
-            "criança",
-            "colorir",
-            "desenhar",
-            "bastão",
-            "derrete"
+            "balé",
+            "tutu",
+            "sapatilha",
+            "girar",
+            "ponta"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-006",
-          "word": "Tela",
+          "word": "Marionete",
           "forbidden": [
-            "pintura",
-            "tecido",
-            "quadro",
-            "cavalete",
-            "branca"
+            "fios",
+            "boneco",
+            "Pinóquio",
+            "madeira",
+            "cordas"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-007",
-          "word": "Louvre",
+          "word": "Ator",
           "forbidden": [
-            "Paris",
-            "pirâmide",
-            "Mona Lisa",
-            "museu",
-            "França"
+            "filme",
+            "novela",
+            "papel",
+            "personagem",
+            "cinema"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-008",
-          "word": "Guache",
+          "word": "Cortina",
           "forbidden": [
-            "escola",
-            "potinho",
-            "criança",
-            "pintar",
-            "colorida"
+            "palco",
+            "abrir",
+            "fechar",
+            "vermelha",
+            "janela"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-009",
-          "word": "Mural",
+          "word": "Fantasia",
           "forbidden": [
-            "parede",
-            "grande",
-            "pintura",
-            "rua",
-            "Diego Rivera"
+            "roupa",
+            "carnaval",
+            "vestir",
+            "festa",
+            "personagem"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-010",
-          "word": "Quadrinhos",
+          "word": "Giz de cera",
           "forbidden": [
-            "gibi",
-            "balão",
-            "super-herói",
-            "Turma da Mônica",
-            "HQ"
+            "criança",
+            "colorir",
+            "desenhar",
+            "caixa",
+            "cores"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-011",
-          "word": "Leonardo da Vinci",
+          "word": "Argila",
           "forbidden": [
-            "Mona Lisa",
-            "Renascimento",
-            "inventor",
-            "italiano",
-            "Última Ceia"
+            "barro",
+            "modelar",
+            "vaso",
+            "mãos",
+            "molhada"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-012",
-          "word": "O Pensador",
+          "word": "Vaso",
           "forbidden": [
-            "Rodin",
-            "estátua",
-            "queixo",
-            "sentado",
-            "bronze"
+            "flor",
+            "planta",
+            "quebrar",
+            "cerâmica",
+            "água"
           ],
           "difficulty": "easy"
         },
@@ -763,38 +763,290 @@
           "forbidden": [
             "brilho",
             "purpurina",
+            "festa",
             "cola",
-            "artesanato",
-            "festa"
+            "brilhante"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-014",
-          "word": "Artesanato",
+          "word": "Papel",
           "forbidden": [
-            "mãos",
-            "feira",
-            "crochê",
-            "manual",
-            "feito à mão"
+            "folha",
+            "branco",
+            "caderno",
+            "escrever",
+            "A4"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-015",
-          "word": "Crochê",
+          "word": "Estilista",
           "forbidden": [
-            "agulha",
-            "linha",
-            "tricô",
-            "vovó",
-            "lã"
+            "moda",
+            "roupa",
+            "desfile",
+            "costurar",
+            "grife"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-2-016",
+          "word": "Costura",
+          "forbidden": [
+            "agulha",
+            "linha",
+            "roupa",
+            "máquina",
+            "tecido"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-017",
+          "word": "Malabarismo",
+          "forbidden": [
+            "bolinhas",
+            "circo",
+            "jogar",
+            "ar",
+            "equilíbrio"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-018",
+          "word": "Stand-up",
+          "forbidden": [
+            "piada",
+            "comédia",
+            "microfone",
+            "rir",
+            "palco"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-019",
+          "word": "Caricatura",
+          "forbidden": [
+            "desenho",
+            "exagero",
+            "rosto",
+            "nariz",
+            "engraçado"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-020",
+          "word": "Noite Estrelada",
+          "forbidden": [
+            "Van Gogh",
+            "céu",
+            "azul",
+            "redemoinho",
+            "pintura"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-021",
+          "word": "Leonardo da Vinci",
+          "forbidden": [
+            "Mona Lisa",
+            "italiano",
+            "inventor",
+            "pintor",
+            "gênio"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-022",
+          "word": "Cristo Redentor",
+          "forbidden": [
+            "Rio",
+            "braços abertos",
+            "estátua",
+            "Brasil",
+            "morro"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-023",
+          "word": "Joia",
+          "forbidden": [
+            "anel",
+            "colar",
+            "ouro",
+            "diamante",
+            "brinco"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-024",
+          "word": "Tapete vermelho",
+          "forbidden": [
+            "famosos",
+            "Oscar",
+            "fotos",
+            "vestido",
+            "entrada"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-025",
+          "word": "Valsa",
+          "forbidden": [
+            "dança",
+            "casal",
+            "baile",
+            "rodar",
+            "casamento"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-2-026",
+          "word": "Paleta",
+          "forbidden": [
+            "tintas",
+            "cores",
+            "misturar",
+            "pintor",
+            "segurar"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-027",
+          "word": "Cavalete",
+          "forbidden": [
+            "tela",
+            "pintor",
+            "suporte",
+            "madeira",
+            "tripé"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-028",
+          "word": "Retrato",
+          "forbidden": [
+            "rosto",
+            "foto",
+            "pintura",
+            "pose",
+            "pessoa"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-029",
+          "word": "Picasso",
+          "forbidden": [
+            "espanhol",
+            "pintor",
+            "cubismo",
+            "quadrados",
+            "famoso"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-030",
+          "word": "Shakespeare",
+          "forbidden": [
+            "Romeu e Julieta",
+            "inglês",
+            "escritor",
+            "peças",
+            "Hamlet"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-031",
+          "word": "Comédia",
+          "forbidden": [
+            "rir",
+            "engraçado",
+            "piada",
+            "humor",
+            "drama"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-032",
+          "word": "Ensaio",
+          "forbidden": [
+            "praticar",
+            "repetir",
+            "antes",
+            "treinar",
+            "peça"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-033",
+          "word": "Roteiro",
+          "forbidden": [
+            "texto",
+            "filme",
+            "falas",
+            "escrever",
+            "história"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-034",
+          "word": "Claquete",
+          "forbidden": [
+            "ação",
+            "cena",
+            "preto e branco",
+            "filme",
+            "bater"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-035",
+          "word": "Efeitos especiais",
+          "forbidden": [
+            "computador",
+            "explosão",
+            "filme",
+            "CGI",
+            "falso"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-036",
+          "word": "Arquitetura",
+          "forbidden": [
+            "prédio",
+            "casa",
+            "projeto",
+            "construção",
+            "engenheiro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-2-037",
           "word": "Bordado",
           "forbidden": [
             "agulha",
@@ -803,413 +1055,161 @@
             "ponto",
             "pano"
           ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-2-017",
-          "word": "Polaroid",
-          "forbidden": [
-            "foto instantânea",
-            "câmera",
-            "revelar",
-            "quadradinha",
-            "vintage"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-2-018",
-          "word": "Bailarina",
-          "forbidden": [
-            "balé",
-            "sapatilha",
-            "tutu",
-            "ponta do pé",
-            "dança"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-2-019",
-          "word": "Teatro",
-          "forbidden": [
-            "palco",
-            "ator",
-            "peça",
-            "cortina",
-            "plateia"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-2-020",
-          "word": "Palhaço",
-          "forbidden": [
-            "circo",
-            "nariz vermelho",
-            "maquiagem",
-            "piada",
-            "sapato grande"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "pt-art-2-021",
-          "word": "Abaporu",
-          "forbidden": [
-            "Tarsila",
-            "pé grande",
-            "cacto",
-            "modernismo",
-            "sol"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-022",
-          "word": "Monet",
-          "forbidden": [
-            "ninfeias",
-            "impressionismo",
-            "Giverny",
-            "jardim",
-            "francês"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-023",
-          "word": "Salvador Dalí",
-          "forbidden": [
-            "bigode",
-            "relógios",
-            "surrealismo",
-            "espanhol",
-            "derretido"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-024",
-          "word": "Andy Warhol",
-          "forbidden": [
-            "pop art",
-            "Marilyn",
-            "latas",
-            "sopa",
-            "Campbell"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-025",
-          "word": "Renascimento",
-          "forbidden": [
-            "Itália",
-            "Da Vinci",
-            "Michelangelo",
-            "Florença",
-            "século XV"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-026",
-          "word": "Capela Sistina",
-          "forbidden": [
-            "Vaticano",
-            "teto",
-            "Michelangelo",
-            "afresco",
-            "papa"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-027",
-          "word": "Inhotim",
-          "forbidden": [
-            "Brumadinho",
-            "Minas Gerais",
-            "museu",
-            "jardim",
-            "ar livre"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-028",
-          "word": "MASP",
-          "forbidden": [
-            "Paulista",
-            "São Paulo",
-            "vão livre",
-            "museu",
-            "Lina Bo Bardi"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-029",
-          "word": "Nanquim",
-          "forbidden": [
-            "tinta",
-            "preta",
-            "caneta",
-            "desenho",
-            "China"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-030",
-          "word": "Estêncil",
-          "forbidden": [
-            "molde",
-            "spray",
-            "recortado",
-            "grafite",
-            "Banksy"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-031",
-          "word": "Mímica",
-          "forbidden": [
-            "gestos",
-            "silêncio",
-            "palhaço",
-            "rosto pintado",
-            "parede invisível"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-032",
-          "word": "Oscar Niemeyer",
-          "forbidden": [
-            "Brasília",
-            "curvas",
-            "arquiteto",
-            "concreto",
-            "Pampulha"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-033",
-          "word": "Gaudí",
-          "forbidden": [
-            "Barcelona",
-            "Sagrada Família",
-            "arquiteto",
-            "mosaico",
-            "Park Güell"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-034",
-          "word": "A Noite Estrelada",
-          "forbidden": [
-            "Van Gogh",
-            "céu",
-            "redemoinho",
-            "azul",
-            "cipreste"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-035",
-          "word": "Esboço",
-          "forbidden": [
-            "rascunho",
-            "desenho",
-            "lápis",
-            "rabisco",
-            "primeiro"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-036",
-          "word": "Pixel art",
-          "forbidden": [
-            "videogame",
-            "quadradinhos",
-            "8 bits",
-            "pontinhos",
-            "retrô"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-2-037",
-          "word": "Pôster",
-          "forbidden": [
-            "parede",
-            "banda",
-            "filme",
-            "impresso",
-            "quarto"
-          ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-2-038",
-          "word": "Carro alegórico",
+          "word": "Mural",
           "forbidden": [
-            "carnaval",
-            "desfile",
-            "Sapucaí",
-            "escola de samba",
-            "fantasia"
+            "parede",
+            "grande",
+            "pintura",
+            "rua",
+            "prédio"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-2-039",
-          "word": "Literatura de cordel",
+          "word": "Ilustração",
           "forbidden": [
-            "Nordeste",
-            "xilogravura",
-            "versos",
-            "folheto",
-            "barbante"
+            "livro",
+            "desenho",
+            "imagem",
+            "infantil",
+            "figura"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-2-040",
-          "word": "Os Gêmeos",
+          "word": "Breakdance",
           "forbidden": [
-            "grafite",
-            "irmãos",
-            "amarelo",
-            "São Paulo",
-            "bonecos"
+            "dança",
+            "rua",
+            "chão",
+            "girar",
+            "hip-hop"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-2-041",
-          "word": "Vermeer",
+          "word": "Exposição",
           "forbidden": [
-            "Moça com Brinco de Pérola",
-            "holandês",
-            "luz",
-            "janela",
-            "Delft"
+            "museu",
+            "galeria",
+            "obras",
+            "visitar",
+            "mostrar"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-2-042",
-          "word": "Gustav Klimt",
+          "word": "Figurino",
           "forbidden": [
-            "O Beijo",
-            "dourado",
-            "Viena",
-            "ouro",
-            "art nouveau"
+            "roupa",
+            "ator",
+            "teatro",
+            "personagem",
+            "vestir"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-2-043",
-          "word": "Anita Malfatti",
+          "word": "Pôster",
           "forbidden": [
-            "modernismo",
-            "Semana de 22",
-            "A Boba",
-            "pintora",
-            "Monteiro Lobato"
+            "parede",
+            "filme",
+            "banda",
+            "imprimir",
+            "quarto"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-2-044",
-          "word": "Dadaísmo",
+          "word": "Sombra",
           "forbidden": [
-            "Duchamp",
-            "mictório",
-            "absurdo",
-            "vanguarda",
-            "antiarte"
+            "escuro",
+            "sol",
+            "luz",
+            "silhueta",
+            "seguir"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-2-045",
-          "word": "Art nouveau",
+          "word": "Brilho",
           "forbidden": [
-            "curvas",
-            "flores",
-            "Mucha",
-            "Paris",
-            "metrô"
+            "luz",
+            "purpurina",
+            "estrela",
+            "ouro",
+            "diamante"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-2-046",
-          "word": "Caravaggio",
+          "word": "Imaginação",
           "forbidden": [
-            "claro-escuro",
-            "barroco",
-            "italiano",
-            "Medusa",
-            "sombras"
+            "fantasia",
+            "sonhar",
+            "criar",
+            "ideia",
+            "mente"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-2-047",
-          "word": "Basquiat",
+          "word": "Obra-prima",
           "forbidden": [
-            "grafite",
-            "coroa",
-            "Nova York",
-            "Warhol",
-            "neoexpressionismo"
+            "melhor",
+            "famosa",
+            "genial",
+            "perfeita",
+            "mestre"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-2-048",
-          "word": "Lygia Clark",
+          "word": "Inspiração",
           "forbidden": [
-            "Bichos",
-            "neoconcretismo",
-            "Oiticica",
-            "escultura",
-            "interativa"
+            "ideia",
+            "musa",
+            "criar",
+            "motivação",
+            "imaginação"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-2-049",
-          "word": "Trompe-l'oeil",
+          "word": "Linha",
           "forbidden": [
-            "ilusão de ótica",
-            "enganar",
-            "realismo",
-            "pintura",
-            "parede"
+            "traço",
+            "reta",
+            "régua",
+            "caneta",
+            "fio"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-2-050",
-          "word": "Bauhaus",
+          "word": "Círculo",
           "forbidden": [
-            "escola",
-            "design",
-            "Alemanha",
-            "Gropius",
-            "funcional"
+            "redondo",
+            "bola",
+            "roda",
+            "forma",
+            "compasso"
           ],
           "difficulty": "hard"
         }
@@ -1221,601 +1221,601 @@
       "cards": [
         {
           "id": "pt-art-3-001",
-          "word": "Massinha",
+          "word": "Caneta",
           "forbidden": [
-            "criança",
-            "Play-Doh",
-            "colorida",
-            "moldar",
-            "argila"
+            "escrever",
+            "tinta",
+            "Bic",
+            "azul",
+            "tampa"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-002",
-          "word": "Fantoche",
+          "word": "Tela",
           "forbidden": [
-            "mão",
-            "boneco",
-            "teatro",
-            "marionete",
-            "meia"
+            "pintura",
+            "tecido",
+            "quadro",
+            "cavalete",
+            "branca"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-003",
-          "word": "Marionete",
+          "word": "Flamenco",
           "forbidden": [
-            "fios",
-            "boneco",
-            "Pinóquio",
-            "cordas",
-            "teatro"
+            "Espanha",
+            "dança",
+            "vestido",
+            "castanholas",
+            "sapateado"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-004",
-          "word": "Máscara",
+          "word": "Michelangelo",
           "forbidden": [
-            "rosto",
-            "carnaval",
-            "teatro",
-            "esconder",
-            "Zorro"
+            "italiano",
+            "teto",
+            "escultor",
+            "Davi",
+            "igreja"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-005",
-          "word": "Arquiteto",
+          "word": "O Grito",
           "forbidden": [
-            "prédio",
-            "projeto",
-            "casa",
-            "planta",
-            "Niemeyer"
+            "quadro",
+            "mãos",
+            "rosto",
+            "medo",
+            "ponte"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-006",
-          "word": "Ateliê",
+          "word": "Frida Kahlo",
           "forbidden": [
-            "estúdio",
-            "artista",
-            "oficina",
-            "pintor",
-            "trabalho"
+            "México",
+            "sobrancelha",
+            "pintora",
+            "flores",
+            "autorretrato"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-007",
-          "word": "Colagem",
+          "word": "Sapatilha",
           "forbidden": [
-            "recortar",
-            "revista",
-            "papel",
-            "tesoura",
-            "grudar"
+            "balé",
+            "pé",
+            "bailarina",
+            "ponta",
+            "rosa"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-008",
-          "word": "Cores primárias",
+          "word": "Espetáculo",
           "forbidden": [
-            "vermelho",
-            "azul",
-            "amarelo",
-            "misturar",
-            "três"
+            "show",
+            "plateia",
+            "apresentação",
+            "palco",
+            "ingresso"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-009",
-          "word": "Moda",
+          "word": "Spray",
           "forbidden": [
-            "roupa",
-            "estilista",
-            "passarela",
-            "tendência",
-            "desfile"
+            "lata",
+            "tinta",
+            "grafite",
+            "apertar",
+            "muro"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-010",
-          "word": "Maquiagem",
+          "word": "Charlie Chaplin",
           "forbidden": [
-            "batom",
-            "rosto",
-            "pincel",
-            "base",
-            "sombra"
+            "bigode",
+            "comédia",
+            "bengala",
+            "cinema mudo",
+            "preto e branco"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-011",
-          "word": "Stand-up",
+          "word": "Louvre",
           "forbidden": [
-            "comédia",
-            "piada",
-            "microfone",
-            "palco",
-            "humorista"
+            "Paris",
+            "pirâmide",
+            "museu",
+            "Mona Lisa",
+            "França"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-012",
-          "word": "Circo",
+          "word": "Galeria",
           "forbidden": [
-            "lona",
-            "palhaço",
-            "trapézio",
-            "picadeiro",
-            "malabarismo"
+            "quadros",
+            "exposição",
+            "arte",
+            "visitar",
+            "paredes"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-013",
-          "word": "Davi",
+          "word": "Calçada da Fama",
           "forbidden": [
-            "Michelangelo",
-            "estátua",
-            "nu",
-            "Florença",
-            "mármore"
+            "Hollywood",
+            "estrelas",
+            "chão",
+            "celebridades",
+            "nomes"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-014",
-          "word": "Tinta",
+          "word": "Crochê",
           "forbidden": [
-            "pincel",
-            "cor",
-            "pintar",
-            "lata",
-            "parede"
+            "agulha",
+            "linha",
+            "vovó",
+            "tapete",
+            "lã"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-015",
-          "word": "Logotipo",
+          "word": "Emoji",
           "forbidden": [
-            "marca",
-            "símbolo",
-            "empresa",
-            "design",
-            "Nike"
+            "celular",
+            "carinha",
+            "mensagem",
+            "sorriso",
+            "WhatsApp"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-016",
-          "word": "Azulejo",
+          "word": "Cartão-postal",
           "forbidden": [
-            "parede",
-            "Portugal",
-            "cozinha",
-            "banheiro",
-            "cerâmica"
+            "foto",
+            "viagem",
+            "correio",
+            "selo",
+            "paisagem"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-017",
-          "word": "Busto",
+          "word": "Álbum de fotos",
           "forbidden": [
-            "estátua",
-            "cabeça",
-            "ombros",
-            "mármore",
-            "praça"
+            "retratos",
+            "lembranças",
+            "família",
+            "páginas",
+            "casamento"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-018",
-          "word": "Tirinha",
+          "word": "Massinha",
           "forbidden": [
-            "jornal",
-            "quadrinhos",
-            "Garfield",
-            "Mafalda",
-            "humor"
+            "criança",
+            "modelar",
+            "colorida",
+            "mole",
+            "apertar"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-019",
-          "word": "Ilustração",
+          "word": "Agulha",
           "forbidden": [
-            "livro",
-            "desenho",
-            "desenhista",
-            "imagem",
-            "infantil"
+            "linha",
+            "costurar",
+            "furar",
+            "fina",
+            "dedal"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-020",
-          "word": "Cartão-postal",
+          "word": "Lã",
           "forbidden": [
-            "foto",
-            "paisagem",
-            "correio",
-            "viagem",
-            "selo"
+            "ovelha",
+            "tricô",
+            "quente",
+            "novelo",
+            "blusa"
           ],
           "difficulty": "easy"
         },
         {
           "id": "pt-art-3-021",
-          "word": "Pintura rupestre",
+          "word": "Miçanga",
           "forbidden": [
-            "caverna",
-            "pré-histórico",
-            "parede",
-            "bisão",
-            "Serra da Capivara"
+            "pulseira",
+            "colar",
+            "bolinhas",
+            "fio",
+            "colorida"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-3-022",
-          "word": "Calçadão de Copacabana",
+          "word": "Carimbo",
           "forbidden": [
-            "ondas",
-            "Rio",
-            "preto e branco",
-            "pedras portuguesas",
-            "Burle Marx"
+            "tinta",
+            "marcar",
+            "papel",
+            "documento",
+            "apertar"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "pt-art-3-023",
-          "word": "Rembrandt",
+          "word": "Adesivo",
           "forbidden": [
-            "holandês",
-            "Ronda Noturna",
-            "autorretratos",
-            "barroco",
+            "colar",
+            "figurinha",
+            "grudar",
+            "papel",
+            "caderno"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-3-024",
+          "word": "Lantejoula",
+          "forbidden": [
+            "brilho",
+            "vestido",
+            "carnaval",
+            "roupa",
+            "costurar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-3-025",
+          "word": "Fita adesiva",
+          "forbidden": [
+            "colar",
+            "grudar",
+            "durex",
+            "rolo",
+            "cortar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "pt-art-3-026",
+          "word": "Vitral",
+          "forbidden": [
+            "vidro",
+            "igreja",
+            "colorido",
+            "janela",
             "luz"
           ],
           "difficulty": "medium"
         },
         {
-          "id": "pt-art-3-024",
-          "word": "Botticelli",
-          "forbidden": [
-            "Nascimento de Vênus",
-            "concha",
-            "Renascimento",
-            "Florença",
-            "Primavera"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-3-025",
-          "word": "Di Cavalcanti",
-          "forbidden": [
-            "modernismo",
-            "Semana de 22",
-            "carioca",
-            "samba",
-            "pintor"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-3-026",
-          "word": "Aleijadinho",
-          "forbidden": [
-            "Congonhas",
-            "profetas",
-            "escultor",
-            "Ouro Preto",
-            "barroco"
-          ],
-          "difficulty": "medium"
-        },
-        {
           "id": "pt-art-3-027",
+          "word": "Arte abstrata",
+          "forbidden": [
+            "formas",
+            "cores",
+            "sem sentido",
+            "moderna",
+            "quadro"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "pt-art-3-028",
           "word": "Monumento",
           "forbidden": [
             "estátua",
             "praça",
             "homenagem",
             "histórico",
-            "bronze"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "pt-art-3-028",
-          "word": "Photoshop",
-          "forbidden": [
-            "editar",
-            "imagem",
-            "Adobe",
-            "foto",
-            "montagem"
+            "turista"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-029",
-          "word": "NFT",
+          "word": "Tragédia",
           "forbidden": [
-            "cripto",
-            "digital",
-            "blockchain",
-            "macaco",
-            "token"
+            "triste",
+            "drama",
+            "morte",
+            "final",
+            "Shakespeare"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-030",
-          "word": "Mangá",
+          "word": "Drama",
           "forbidden": [
-            "Japão",
-            "quadrinhos",
-            "anime",
-            "olhos grandes",
-            "Naruto"
+            "chorar",
+            "triste",
+            "emoção",
+            "comédia",
+            "novela"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-031",
-          "word": "Caligrafia",
+          "word": "Improviso",
           "forbidden": [
-            "letra",
-            "escrita",
-            "bonita",
-            "caneta",
-            "chinesa"
+            "inventar",
+            "na hora",
+            "sem ensaio",
+            "criar",
+            "teatro"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-032",
-          "word": "Ensaio fotográfico",
+          "word": "Plateia",
           "forbidden": [
-            "modelo",
-            "poses",
-            "estúdio",
-            "book",
-            "câmera"
+            "público",
+            "assistir",
+            "pessoas",
+            "aplaudir",
+            "cadeiras"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-033",
-          "word": "Tapeçaria",
+          "word": "Holofote",
           "forbidden": [
-            "tecido",
-            "parede",
-            "tear",
-            "bordado",
-            "fios"
+            "luz",
+            "palco",
+            "iluminar",
+            "destaque",
+            "foco"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-034",
-          "word": "Sagrada Família",
+          "word": "Camarim",
           "forbidden": [
-            "Gaudí",
-            "Barcelona",
-            "igreja",
-            "inacabada",
-            "torres"
+            "maquiagem",
+            "espelho",
+            "ator",
+            "antes",
+            "bastidores"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-035",
-          "word": "Gótico",
+          "word": "Bilheteria",
           "forbidden": [
-            "catedral",
-            "Notre-Dame",
-            "vitral",
-            "arcos",
-            "gárgulas"
+            "ingresso",
+            "comprar",
+            "fila",
+            "cinema",
+            "sucesso"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-036",
-          "word": "Pietà",
+          "word": "Pose",
           "forbidden": [
-            "Michelangelo",
-            "Maria",
-            "Jesus",
-            "mármore",
-            "Vaticano"
+            "foto",
+            "sorriso",
+            "modelo",
+            "câmera",
+            "parada"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-037",
-          "word": "Mondrian",
+          "word": "Modelo",
           "forbidden": [
-            "quadrados",
-            "vermelho",
-            "azul",
-            "amarelo",
-            "linhas pretas"
+            "passarela",
+            "manequim",
+            "foto",
+            "bonita",
+            "desfile"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-038",
-          "word": "Pollock",
+          "word": "Cosplay",
           "forbidden": [
-            "respingos",
-            "tinta",
-            "abstrato",
-            "gotas",
-            "chão"
+            "fantasia",
+            "anime",
+            "personagem",
+            "evento",
+            "fã"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-039",
-          "word": "Eduardo Kobra",
+          "word": "Design",
           "forbidden": [
-            "murais",
-            "grafite",
-            "colorido",
-            "São Paulo",
-            "rostos"
+            "projeto",
+            "criar",
+            "desenho",
+            "bonito",
+            "forma"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-040",
-          "word": "Henna",
+          "word": "Pintura rupestre",
           "forbidden": [
-            "tatuagem",
-            "Índia",
-            "temporária",
-            "mãos",
-            "marrom"
+            "caverna",
+            "parede",
+            "pré-história",
+            "animais",
+            "bisão"
           ],
           "difficulty": "medium"
         },
         {
           "id": "pt-art-3-041",
-          "word": "Vik Muniz",
+          "word": "Óculos 3D",
           "forbidden": [
-            "Lixo Extraordinário",
-            "fotógrafo",
-            "Gramacho",
-            "materiais",
-            "catadores"
+            "cinema",
+            "filme",
+            "tela",
+            "profundidade",
+            "azul e vermelho"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-3-042",
-          "word": "Fauvismo",
+          "word": "Trailer",
           "forbidden": [
-            "Matisse",
-            "cores",
-            "selvagens",
-            "francês",
-            "vanguarda"
+            "filme",
+            "prévia",
+            "cinema",
+            "cenas",
+            "lançamento"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-3-043",
-          "word": "Proporção áurea",
+          "word": "Câmera lenta",
           "forbidden": [
-            "Fibonacci",
-            "espiral",
-            "número de ouro",
-            "divina",
-            "harmonia"
+            "devagar",
+            "filme",
+            "cena",
+            "ação",
+            "velocidade"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-3-044",
-          "word": "Hokusai",
+          "word": "Bastidores",
           "forbidden": [
-            "A Grande Onda",
-            "Japão",
-            "Monte Fuji",
-            "xilogravura",
-            "ukiyo-e"
+            "atrás",
+            "palco",
+            "escondido",
+            "equipe",
+            "cortina"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-3-045",
-          "word": "Duchamp",
+          "word": "Estreia",
           "forbidden": [
-            "A Fonte",
-            "mictório",
-            "dadaísmo",
-            "ready-made",
-            "xadrez"
+            "primeira vez",
+            "filme",
+            "lançamento",
+            "noite",
+            "tapete vermelho"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "pt-art-3-046",
-          "word": "Lina Bo Bardi",
+          "word": "Ideia",
           "forbidden": [
-            "MASP",
-            "arquiteta",
-            "italiana",
-            "Sesc Pompeia",
-            "vão livre"
+            "pensamento",
+            "lâmpada",
+            "cabeça",
+            "pensar",
+            "criativo"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-3-047",
-          "word": "Athos Bulcão",
+          "word": "Moderno",
           "forbidden": [
-            "azulejos",
-            "Brasília",
-            "Niemeyer",
-            "geométrico",
-            "painéis"
+            "novo",
+            "atual",
+            "contemporâneo",
+            "antigo",
+            "tecnologia"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-3-048",
-          "word": "Minimalismo",
+          "word": "Antigo",
           "forbidden": [
-            "menos é mais",
-            "simples",
-            "poucos elementos",
-            "clean",
-            "geométrico"
+            "velho",
+            "passado",
+            "novo",
+            "vintage",
+            "idade"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-3-049",
-          "word": "Lambe-lambe",
+          "word": "Imagem",
           "forbidden": [
-            "cartaz",
-            "cola",
-            "poste",
-            "rua",
-            "papel"
+            "foto",
+            "figura",
+            "ver",
+            "desenho",
+            "retrato"
           ],
           "difficulty": "hard"
         },
         {
           "id": "pt-art-3-050",
-          "word": "Mestre Vitalino",
+          "word": "Decorar",
           "forbidden": [
-            "barro",
-            "Caruaru",
-            "bonecos",
-            "Pernambuco",
-            "artesão"
+            "enfeitar",
+            "bonito",
+            "Natal",
+            "festa",
+            "enfeite"
           ],
           "difficulty": "hard"
         }

@@ -9,22 +9,154 @@
       "cards": [
         {
           "id": "en-cooking-1-001",
-          "word": "Pizza",
+          "word": "Fridge",
           "forbidden": [
-            "cheese",
-            "slice",
-            "pepperoni",
-            "Italian",
-            "delivery"
+            "cold",
+            "door",
+            "kitchen",
+            "food",
+            "freezer"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-1-002",
+          "word": "Stove",
+          "forbidden": [
+            "burners",
+            "gas",
+            "pot",
+            "kitchen",
+            "oven"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-003",
+          "word": "Microwave",
+          "forbidden": [
+            "heat up",
+            "beep",
+            "popcorn",
+            "spin",
+            "minutes"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-004",
+          "word": "Blender",
+          "forbidden": [
+            "juice",
+            "smoothie",
+            "jar",
+            "blades",
+            "noisy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-005",
+          "word": "Oven",
+          "forbidden": [
+            "bake",
+            "cake",
+            "hot",
+            "pizza",
+            "door"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-006",
+          "word": "Pot",
+          "forbidden": [
+            "cook",
+            "lid",
+            "stove",
+            "handle",
+            "soup"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-007",
+          "word": "Frying pan",
+          "forbidden": [
+            "fry",
+            "egg",
+            "handle",
+            "oil",
+            "skillet"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-008",
+          "word": "Fork",
+          "forbidden": [
+            "utensil",
+            "eat",
+            "prongs",
+            "knife",
+            "stab"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-009",
+          "word": "Knife",
+          "forbidden": [
+            "cut",
+            "sharp",
+            "blade",
+            "utensil",
+            "handle"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-010",
+          "word": "Spoon",
+          "forbidden": [
+            "soup",
+            "stir",
+            "utensil",
+            "cereal",
+            "fork"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-011",
+          "word": "Pizza",
+          "forbidden": [
+            "cheese",
+            "slice",
+            "Italy",
+            "crust",
+            "delivery"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-012",
+          "word": "Hamburger",
+          "forbidden": [
+            "bun",
+            "beef",
+            "McDonald's",
+            "fries",
+            "grill"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-013",
           "word": "Sushi",
           "forbidden": [
-            "raw fish",
             "Japan",
+            "raw fish",
             "rice",
             "chopsticks",
             "seaweed"
@@ -32,578 +164,446 @@
           "difficulty": "easy"
         },
         {
-          "id": "en-cooking-1-003",
-          "word": "Hamburger",
+          "id": "en-cooking-1-014",
+          "word": "Ice cream",
           "forbidden": [
-            "bun",
-            "patty",
-            "beef",
-            "McDonald's",
-            "grill"
+            "cold",
+            "cone",
+            "summer",
+            "scoop",
+            "melt"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "en-cooking-1-004",
+          "id": "en-cooking-1-015",
+          "word": "Cake",
+          "forbidden": [
+            "birthday",
+            "candles",
+            "slice",
+            "party",
+            "frosting"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-016",
+          "word": "Popcorn",
+          "forbidden": [
+            "cinema",
+            "movies",
+            "pop",
+            "butter",
+            "kernels"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-017",
+          "word": "Coffee",
+          "forbidden": [
+            "cup",
+            "morning",
+            "black",
+            "caffeine",
+            "Starbucks"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-018",
+          "word": "Egg",
+          "forbidden": [
+            "chicken",
+            "yolk",
+            "white",
+            "shell",
+            "fried"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-019",
+          "word": "Bread",
+          "forbidden": [
+            "bakery",
+            "slice",
+            "butter",
+            "flour",
+            "toast"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-020",
+          "word": "Cheese",
+          "forbidden": [
+            "milk",
+            "yellow",
+            "mouse",
+            "slice",
+            "melted"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-021",
+          "word": "Banana",
+          "forbidden": [
+            "yellow",
+            "monkey",
+            "peel",
+            "fruit",
+            "bunch"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-022",
+          "word": "Chocolate",
+          "forbidden": [
+            "sweet",
+            "cocoa",
+            "bar",
+            "brown",
+            "Easter"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-023",
+          "word": "French fries",
+          "forbidden": [
+            "McDonald's",
+            "chips",
+            "oil",
+            "ketchup",
+            "crispy"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-024",
+          "word": "Salt",
+          "forbidden": [
+            "white",
+            "fries",
+            "sea",
+            "seasoning",
+            "pinch"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-025",
+          "word": "Pepper",
+          "forbidden": [
+            "hot",
+            "spicy",
+            "black",
+            "sneeze",
+            "shaker"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-1-026",
+          "word": "Lasagna",
+          "forbidden": [
+            "pasta",
+            "layers",
+            "cheese",
+            "oven",
+            "Garfield"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-1-027",
+          "word": "Pasta",
+          "forbidden": [
+            "noodles",
+            "Italy",
+            "sauce",
+            "spaghetti",
+            "boil"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-1-028",
+          "word": "Barbecue",
+          "forbidden": [
+            "meat",
+            "grill",
+            "charcoal",
+            "ribs",
+            "backyard"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-1-029",
+          "word": "Salad",
+          "forbidden": [
+            "lettuce",
+            "tomato",
+            "green",
+            "leaves",
+            "diet"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-1-030",
+          "word": "Sandwich",
+          "forbidden": [
+            "bread",
+            "ham",
+            "lunch",
+            "cheese",
+            "deli"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-1-031",
           "word": "Pancakes",
           "forbidden": [
             "syrup",
             "breakfast",
             "flip",
             "stack",
-            "griddle"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-005",
-          "word": "Blender",
-          "forbidden": [
-            "smoothie",
-            "puree",
-            "mix",
-            "blades",
-            "kitchen appliance"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-006",
-          "word": "Carrot",
-          "forbidden": [
-            "orange",
-            "rabbit",
-            "vegetable",
-            "eyesight",
-            "root"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-007",
-          "word": "Tomato",
-          "forbidden": [
-            "red",
-            "ketchup",
-            "salad",
-            "sauce",
-            "fruit"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-008",
-          "word": "Pineapple",
-          "forbidden": [
-            "tropical",
-            "spiky",
-            "yellow",
-            "Hawaiian pizza",
-            "crown"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-009",
-          "word": "Omelet",
-          "forbidden": [
-            "eggs",
-            "fold",
-            "cheese",
-            "frying pan",
-            "breakfast"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-010",
-          "word": "Popcorn",
-          "forbidden": [
-            "movie",
-            "kernels",
-            "butter",
-            "pop",
-            "microwave"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-011",
-          "word": "Barbecue",
-          "forbidden": [
-            "grill",
-            "smoke",
-            "ribs",
-            "sauce",
-            "backyard"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-012",
-          "word": "Coffee",
-          "forbidden": [
-            "caffeine",
-            "beans",
-            "morning",
-            "espresso",
-            "Starbucks"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-013",
-          "word": "Rice",
-          "forbidden": [
-            "grain",
-            "white",
-            "bowl",
-            "Asian",
-            "steamed"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-014",
-          "word": "Banana",
-          "forbidden": [
-            "yellow",
-            "peel",
-            "monkey",
-            "bunch",
-            "split"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-015",
-          "word": "Garlic",
-          "forbidden": [
-            "cloves",
-            "vampire",
-            "breath",
-            "bulb",
-            "smell"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-016",
-          "word": "Fork",
-          "forbidden": [
-            "utensil",
-            "prongs",
-            "knife",
-            "eat",
-            "spoon"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-017",
-          "word": "Fridge",
-          "forbidden": [
-            "cold",
-            "freezer",
-            "magnets",
-            "leftovers",
-            "kitchen"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-018",
-          "word": "Taco",
-          "forbidden": [
-            "shell",
-            "Mexican",
-            "Tuesday",
-            "tortilla",
-            "salsa"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-019",
-          "word": "French fries",
-          "forbidden": [
-            "potato",
-            "ketchup",
-            "McDonald's",
-            "salty",
-            "chips"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-020",
-          "word": "Peanut butter",
-          "forbidden": [
-            "jelly",
-            "sandwich",
-            "jar",
-            "creamy",
-            "crunchy"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-1-021",
-          "word": "Lasagna",
-          "forbidden": [
-            "layers",
-            "pasta",
-            "ricotta",
-            "Garfield",
-            "baked"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-022",
-          "word": "Risotto",
-          "forbidden": [
-            "Arborio",
-            "creamy",
-            "Italian",
-            "stir",
-            "parmesan"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-023",
-          "word": "Guacamole",
-          "forbidden": [
-            "avocado",
-            "chips",
-            "Mexican",
-            "lime",
-            "dip"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-024",
-          "word": "Fondue",
-          "forbidden": [
-            "cheese",
-            "Swiss",
-            "dip",
-            "melted",
-            "pot"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-025",
-          "word": "Paella",
-          "forbidden": [
-            "Spain",
-            "rice",
-            "seafood",
-            "saffron",
-            "Valencia"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-026",
-          "word": "Air fryer",
-          "forbidden": [
-            "crispy",
-            "oil-free",
-            "appliance",
-            "basket",
-            "convection"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-027",
-          "word": "Grater",
-          "forbidden": [
-            "cheese",
-            "shred",
-            "zest",
-            "holes",
-            "metal"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-028",
-          "word": "Whisk",
-          "forbidden": [
-            "beat",
-            "eggs",
-            "wire",
-            "meringue",
-            "stir"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-029",
-          "word": "Sauté",
-          "forbidden": [
-            "pan",
-            "butter",
-            "onions",
-            "quick",
-            "fry"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-030",
-          "word": "Baking soda",
-          "forbidden": [
-            "rise",
-            "volcano",
-            "powder",
-            "bicarbonate",
-            "fizz"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-1-031",
-          "word": "Cinnamon",
-          "forbidden": [
-            "spice",
-            "roll",
-            "brown",
-            "sticks",
-            "apple pie"
+            "flat"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-032",
-          "word": "Basil",
+          "word": "Taco",
           "forbidden": [
-            "herb",
-            "pesto",
-            "green",
-            "Italian",
-            "Thai"
+            "Mexico",
+            "tortilla",
+            "meat",
+            "folded",
+            "salsa"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-033",
-          "word": "Eggplant",
+          "word": "Hot dog",
           "forbidden": [
-            "purple",
-            "aubergine",
-            "parmesan",
-            "vegetable",
-            "emoji"
+            "sausage",
+            "bun",
+            "ketchup",
+            "mustard",
+            "ballpark"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-034",
-          "word": "Zucchini",
+          "word": "Apron",
           "forbidden": [
-            "green",
-            "squash",
-            "summer",
-            "noodles",
-            "vegetable"
+            "cook",
+            "tie",
+            "wear",
+            "messy",
+            "protect"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-035",
-          "word": "Mac and cheese",
+          "word": "Chef",
           "forbidden": [
-            "macaroni",
-            "pasta",
-            "Kraft",
-            "orange",
-            "comfort food"
+            "cook",
+            "restaurant",
+            "hat",
+            "kitchen",
+            "Gordon Ramsay"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-036",
-          "word": "Burrito",
+          "word": "Waiter",
           "forbidden": [
-            "Mexican",
-            "wrap",
-            "Chipotle",
-            "beans",
-            "tortilla"
+            "restaurant",
+            "serve",
+            "tray",
+            "order",
+            "tip"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-037",
-          "word": "Meatloaf",
+          "word": "Menu",
           "forbidden": [
-            "ground beef",
-            "ketchup",
-            "mom",
-            "brick",
-            "dinner"
+            "restaurant",
+            "dishes",
+            "order",
+            "choose",
+            "prices"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-038",
-          "word": "Avocado toast",
+          "word": "Recipe",
           "forbidden": [
-            "millennial",
-            "bread",
-            "brunch",
-            "green",
-            "smashed"
+            "ingredients",
+            "instructions",
+            "grandma",
+            "cookbook",
+            "steps"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-039",
-          "word": "Sourdough",
+          "word": "Fry",
           "forbidden": [
-            "starter",
-            "bread",
-            "tangy",
-            "fermented",
-            "San Francisco"
+            "oil",
+            "pan",
+            "hot",
+            "deep",
+            "crispy"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-040",
-          "word": "Brunch",
+          "word": "Bake",
           "forbidden": [
-            "Sunday",
-            "mimosa",
-            "late",
-            "eggs Benedict",
-            "breakfast"
+            "oven",
+            "cake",
+            "bread",
+            "cookies",
+            "heat"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-041",
-          "word": "Flambé",
+          "word": "Chop",
           "forbidden": [
-            "fire",
-            "alcohol",
-            "ignite",
-            "brandy",
-            "light"
+            "knife",
+            "cut",
+            "pieces",
+            "onion",
+            "dice"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-042",
-          "word": "Sous vide",
+          "word": "Sugar",
           "forbidden": [
-            "vacuum",
-            "water bath",
-            "bag",
-            "temperature",
-            "French"
+            "sweet",
+            "white",
+            "coffee",
+            "cane",
+            "cubes"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-043",
-          "word": "Saffron",
+          "word": "Rice",
           "forbidden": [
-            "expensive",
-            "threads",
-            "yellow",
-            "paella",
-            "spice"
+            "white",
+            "grain",
+            "beans",
+            "bowl",
+            "Asia"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-044",
-          "word": "Crème brûlée",
+          "word": "Beans",
           "forbidden": [
-            "torch",
-            "custard",
-            "caramelized sugar",
-            "French",
-            "crack"
+            "black",
+            "rice",
+            "chili",
+            "protein",
+            "Mexican"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-045",
-          "word": "Capers",
+          "word": "Milk",
           "forbidden": [
-            "tiny",
-            "briny",
-            "green",
-            "pickled",
-            "buds"
+            "cow",
+            "white",
+            "glass",
+            "cereal",
+            "drink"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-1-046",
-          "word": "Ratatouille",
+          "word": "Food",
           "forbidden": [
-            "vegetables",
-            "French",
-            "rat",
-            "Pixar",
-            "stew"
+            "eat",
+            "meal",
+            "hungry",
+            "dish",
+            "snack"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-1-047",
-          "word": "Béchamel",
+          "word": "Hungry",
           "forbidden": [
-            "white sauce",
-            "flour",
-            "butter",
-            "milk",
-            "roux"
+            "food",
+            "starving",
+            "eat",
+            "stomach",
+            "growl"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-1-048",
-          "word": "Caramelize",
+          "word": "Cook",
           "forbidden": [
-            "sugar",
-            "brown",
-            "onions",
-            "heat",
-            "sweet"
+            "chef",
+            "kitchen",
+            "stove",
+            "recipe",
+            "make"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-1-049",
-          "word": "Mandoline",
+          "word": "Sweet",
           "forbidden": [
-            "slicer",
-            "thin",
-            "blade",
-            "fingers",
-            "julienne"
+            "sugar",
+            "candy",
+            "dessert",
+            "salty",
+            "sour"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-1-050",
-          "word": "Gazpacho",
+          "word": "Dinner",
           "forbidden": [
-            "cold soup",
-            "tomato",
-            "Spanish",
-            "cucumber",
-            "Andalusia"
+            "evening",
+            "meal",
+            "supper",
+            "eat",
+            "lunch"
           ],
           "difficulty": "hard"
         }
@@ -615,102 +615,174 @@
       "cards": [
         {
           "id": "en-cooking-2-001",
-          "word": "Cake",
+          "word": "Toaster",
           "forbidden": [
-            "birthday",
-            "candles",
-            "frosting",
-            "slice",
-            "bake"
+            "bread",
+            "hot",
+            "breakfast",
+            "pop up",
+            "burnt"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-002",
-          "word": "Ice cream",
+          "word": "Mixer",
           "forbidden": [
-            "cone",
-            "scoop",
-            "frozen",
-            "vanilla",
-            "sundae"
+            "cake",
+            "batter",
+            "mix",
+            "electric",
+            "whisk"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-003",
-          "word": "Spaghetti",
+          "word": "Dishwasher",
           "forbidden": [
-            "pasta",
-            "meatballs",
-            "noodles",
-            "Italian",
-            "sauce"
+            "plates",
+            "machine",
+            "clean",
+            "soap",
+            "kitchen"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-004",
-          "word": "Doughnut",
+          "word": "Air fryer",
           "forbidden": [
-            "hole",
-            "glazed",
-            "sprinkles",
-            "Homer",
-            "Dunkin'"
+            "crispy",
+            "no oil",
+            "electric",
+            "fries",
+            "basket"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-005",
-          "word": "Chocolate",
+          "word": "Kettle",
           "forbidden": [
-            "cocoa",
-            "bar",
-            "sweet",
-            "Hershey's",
-            "milk"
+            "water",
+            "boil",
+            "whistle",
+            "tea",
+            "hot"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-006",
-          "word": "Bread",
+          "word": "Glass",
           "forbidden": [
-            "loaf",
-            "slice",
-            "toast",
-            "bakery",
-            "yeast"
+            "drink",
+            "water",
+            "cup",
+            "juice",
+            "table"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-007",
-          "word": "Cheese",
+          "word": "Mug",
           "forbidden": [
-            "cheddar",
-            "mouse",
-            "dairy",
-            "Swiss",
-            "melt"
+            "coffee",
+            "tea",
+            "handle",
+            "hot",
+            "cup"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-008",
-          "word": "Onion",
+          "word": "Plate",
           "forbidden": [
-            "cry",
-            "layers",
-            "rings",
-            "chop",
-            "Shrek"
+            "food",
+            "table",
+            "round",
+            "dish",
+            "fork"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-009",
+          "word": "Bowl",
+          "forbidden": [
+            "soup",
+            "cereal",
+            "round",
+            "deep",
+            "salad"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-010",
+          "word": "Napkin",
+          "forbidden": [
+            "mouth",
+            "wipe",
+            "paper",
+            "table",
+            "lap"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-011",
+          "word": "Chopsticks",
+          "forbidden": [
+            "two",
+            "Japan",
+            "sushi",
+            "China",
+            "pair"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-012",
+          "word": "Tomato",
+          "forbidden": [
+            "red",
+            "sauce",
+            "salad",
+            "ketchup",
+            "fruit"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-013",
+          "word": "Onion",
+          "forbidden": [
+            "cry",
+            "chop",
+            "layers",
+            "garlic",
+            "rings"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-014",
+          "word": "Garlic",
+          "forbidden": [
+            "smell",
+            "clove",
+            "vampire",
+            "breath",
+            "bulb"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-015",
           "word": "Lemon",
           "forbidden": [
             "sour",
@@ -722,143 +794,239 @@
           "difficulty": "easy"
         },
         {
-          "id": "en-cooking-2-010",
-          "word": "Strawberry",
+          "id": "en-cooking-2-016",
+          "word": "Apple",
           "forbidden": [
             "red",
-            "seeds",
-            "Wimbledon",
-            "shortcake",
-            "cream"
+            "fruit",
+            "tree",
+            "Snow White",
+            "pie"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "en-cooking-2-011",
+          "id": "en-cooking-2-017",
+          "word": "Strawberry",
+          "forbidden": [
+            "red",
+            "fruit",
+            "seeds",
+            "cream",
+            "shortcake"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-018",
+          "word": "Carrot",
+          "forbidden": [
+            "orange",
+            "rabbit",
+            "vegetable",
+            "cake",
+            "long"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-019",
           "word": "Watermelon",
           "forbidden": [
             "green",
             "red",
             "seeds",
             "summer",
-            "juicy"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-012",
-          "word": "Knife",
-          "forbidden": [
-            "cut",
-            "sharp",
-            "blade",
-            "chop",
-            "chef"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-013",
-          "word": "Oven",
-          "forbidden": [
-            "bake",
-            "hot",
-            "roast",
-            "preheat",
-            "stove"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-014",
-          "word": "Microwave",
-          "forbidden": [
-            "leftovers",
-            "beep",
-            "popcorn",
-            "reheat",
-            "spin"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-015",
-          "word": "Cucumber",
-          "forbidden": [
-            "green",
-            "pickle",
-            "salad",
-            "cool",
-            "slices"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-016",
-          "word": "Salt",
-          "forbidden": [
-            "shaker",
-            "pepper",
-            "sodium",
-            "ocean",
-            "sea"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-017",
-          "word": "Honey",
-          "forbidden": [
-            "bees",
-            "sweet",
-            "Pooh",
-            "sticky",
-            "jar"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-018",
-          "word": "Hot dog",
-          "forbidden": [
-            "sausage",
-            "bun",
-            "mustard",
-            "ballpark",
-            "frank"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-2-019",
-          "word": "Bacon",
-          "forbidden": [
-            "pig",
-            "crispy",
-            "breakfast",
-            "strips",
-            "sizzle"
+            "big"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-020",
-          "word": "Cupcake",
+          "word": "Butter",
           "forbidden": [
-            "frosting",
-            "sprinkles",
-            "small",
-            "bakery",
-            "birthday"
+            "bread",
+            "yellow",
+            "melt",
+            "spread",
+            "margarine"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-2-021",
-          "word": "Ramen",
+          "word": "Honey",
+          "forbidden": [
+            "bee",
+            "sweet",
+            "hive",
+            "yellow",
+            "jar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-022",
+          "word": "Cookie",
+          "forbidden": [
+            "chocolate chip",
+            "crunchy",
+            "snack",
+            "milk",
+            "jar"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-023",
+          "word": "Flan",
+          "forbidden": [
+            "caramel",
+            "custard",
+            "dessert",
+            "wobbly",
+            "mold"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-024",
+          "word": "Donut",
+          "forbidden": [
+            "hole",
+            "Homer",
+            "glazed",
+            "sprinkles",
+            "round"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-025",
+          "word": "Soup",
+          "forbidden": [
+            "spoon",
+            "hot",
+            "broth",
+            "bowl",
+            "winter"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-2-026",
+          "word": "Spaghetti",
           "forbidden": [
             "noodles",
-            "Japanese",
+            "long",
+            "sauce",
+            "meatballs",
+            "Italy"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-027",
+          "word": "Omelet",
+          "forbidden": [
+            "eggs",
+            "frying pan",
+            "cheese",
+            "beat",
+            "fold"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-028",
+          "word": "Burrito",
+          "forbidden": [
+            "Mexico",
+            "tortilla",
+            "wrap",
+            "beans",
+            "Chipotle"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-029",
+          "word": "Croissant",
+          "forbidden": [
+            "France",
+            "bakery",
+            "butter",
+            "flaky",
+            "crescent"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-030",
+          "word": "Waffle",
+          "forbidden": [
+            "squares",
+            "breakfast",
+            "syrup",
+            "iron",
+            "Belgian"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-031",
+          "word": "Brownie",
+          "forbidden": [
+            "chocolate",
+            "square",
+            "cake",
+            "dessert",
+            "fudgy"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-032",
+          "word": "Cupcake",
+          "forbidden": [
+            "muffin",
+            "frosting",
+            "sprinkles",
+            "party",
+            "liner"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-033",
+          "word": "Pie",
+          "forbidden": [
+            "crust",
+            "slice",
+            "filling",
+            "apple",
+            "pumpkin"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-034",
+          "word": "Churros",
+          "forbidden": [
+            "sugar",
+            "cinnamon",
+            "fried",
+            "Spain",
+            "long"
+          ],
+          "difficulty": "medium"
+        },
+        {
+          "id": "en-cooking-2-035",
+          "word": "Ramen",
+          "forbidden": [
+            "Japan",
+            "noodles",
             "broth",
             "bowl",
             "instant"
@@ -866,350 +1034,182 @@
           "difficulty": "medium"
         },
         {
-          "id": "en-cooking-2-022",
-          "word": "Tiramisu",
-          "forbidden": [
-            "coffee",
-            "mascarpone",
-            "Italian",
-            "ladyfingers",
-            "cocoa"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-023",
-          "word": "Croissant",
-          "forbidden": [
-            "French",
-            "flaky",
-            "buttery",
-            "crescent",
-            "pastry"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-024",
-          "word": "Wok",
-          "forbidden": [
-            "stir-fry",
-            "Chinese",
-            "pan",
-            "toss",
-            "high heat"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-025",
-          "word": "Rolling pin",
-          "forbidden": [
-            "dough",
-            "flatten",
-            "cylinder",
-            "pastry",
-            "wooden"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-026",
-          "word": "Colander",
-          "forbidden": [
-            "drain",
-            "pasta",
-            "holes",
-            "strainer",
-            "rinse"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-027",
-          "word": "Roast",
-          "forbidden": [
-            "oven",
-            "Sunday",
-            "chicken",
-            "beef",
-            "slow"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-028",
-          "word": "Marinate",
-          "forbidden": [
-            "soak",
-            "sauce",
-            "overnight",
-            "meat",
-            "flavor"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-029",
-          "word": "Ginger",
-          "forbidden": [
-            "root",
-            "spicy",
-            "sushi",
-            "spice",
-            "nausea"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-030",
-          "word": "Oregano",
-          "forbidden": [
-            "herb",
-            "pizza",
-            "dried",
-            "Italian",
-            "Greek"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-031",
-          "word": "Cauliflower",
-          "forbidden": [
-            "white",
-            "broccoli",
-            "rice",
-            "florets",
-            "vegetable"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-032",
-          "word": "Beet",
-          "forbidden": [
-            "purple",
-            "red",
-            "root",
-            "salad",
-            "borscht"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-033",
-          "word": "Brisket",
-          "forbidden": [
-            "Texas",
-            "smoked",
-            "beef",
-            "barbecue",
-            "slow-cooked"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-034",
-          "word": "Chili",
-          "forbidden": [
-            "beans",
-            "spicy",
-            "cook-off",
-            "bowl",
-            "ground beef"
-          ],
-          "difficulty": "medium"
-        },
-        {
-          "id": "en-cooking-2-035",
-          "word": "Pesto",
-          "forbidden": [
-            "basil",
-            "pine nuts",
-            "green",
-            "Genoa",
-            "sauce"
-          ],
-          "difficulty": "medium"
-        },
-        {
           "id": "en-cooking-2-036",
-          "word": "Kale",
+          "word": "Paella",
           "forbidden": [
-            "superfood",
-            "leafy",
-            "green",
-            "chips",
-            "healthy"
+            "Spain",
+            "rice",
+            "seafood",
+            "yellow",
+            "big pan"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-037",
-          "word": "Quesadilla",
+          "word": "Strainer",
           "forbidden": [
-            "cheese",
-            "tortilla",
-            "Mexican",
-            "folded",
-            "grilled"
+            "holes",
+            "drain",
+            "pasta",
+            "sift",
+            "mesh"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-038",
-          "word": "Poached egg",
+          "word": "Grater",
           "forbidden": [
-            "simmering water",
-            "runny yolk",
-            "Benedict",
-            "vinegar",
-            "swirl"
+            "cheese",
+            "carrot",
+            "shred",
+            "holes",
+            "metal"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-039",
-          "word": "Crock-Pot",
+          "word": "Can opener",
           "forbidden": [
-            "slow cooker",
-            "chili",
-            "all day",
-            "stew",
-            "set it"
+            "tuna",
+            "tin",
+            "twist",
+            "metal",
+            "lid"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-040",
-          "word": "Pad thai",
+          "word": "Rolling pin",
           "forbidden": [
-            "noodles",
-            "Bangkok",
-            "peanuts",
-            "shrimp",
-            "lime"
+            "dough",
+            "wooden",
+            "flatten",
+            "pizza",
+            "baking"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-041",
-          "word": "Umami",
+          "word": "Ladle",
           "forbidden": [
-            "fifth taste",
-            "savory",
-            "Japanese",
-            "MSG",
-            "glutamate"
+            "soup",
+            "scoop",
+            "serve",
+            "big spoon",
+            "broth"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-042",
-          "word": "Mise en place",
+          "word": "Spatula",
           "forbidden": [
-            "organized",
-            "ingredients",
-            "prep",
-            "French",
-            "ready"
+            "flip",
+            "pancake",
+            "scrape",
+            "turner",
+            "burger"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-043",
-          "word": "Fondant",
+          "word": "Cutting board",
           "forbidden": [
-            "icing",
-            "cake",
-            "decorating",
-            "smooth",
-            "rolled"
+            "knife",
+            "wooden",
+            "chop",
+            "kitchen",
+            "vegetables"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-044",
-          "word": "Brioche",
+          "word": "Season",
           "forbidden": [
-            "bread",
-            "French",
-            "buttery",
-            "eggs",
-            "bun"
+            "salt",
+            "pepper",
+            "flavor",
+            "spices",
+            "herbs"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-045",
-          "word": "Wasabi",
+          "word": "Stir",
           "forbidden": [
-            "green",
-            "spicy",
-            "sushi",
-            "horseradish",
-            "nose"
+            "spoon",
+            "pot",
+            "spin",
+            "mix",
+            "sauce"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-2-046",
-          "word": "Kimchi",
+          "word": "Lunch",
           "forbidden": [
-            "Korean",
-            "fermented",
-            "cabbage",
-            "spicy",
-            "pickled"
+            "noon",
+            "meal",
+            "midday",
+            "sandwich",
+            "eat"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-2-047",
-          "word": "Cardamom",
+          "word": "Drink",
           "forbidden": [
-            "spice",
-            "pods",
-            "chai",
-            "Indian",
-            "green"
+            "sip",
+            "thirsty",
+            "beverage",
+            "cup",
+            "water"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-2-048",
-          "word": "Tahini",
+          "word": "Delicious",
           "forbidden": [
-            "sesame",
-            "paste",
-            "hummus",
-            "Middle Eastern",
-            "sauce"
+            "tasty",
+            "yummy",
+            "good",
+            "flavor",
+            "mouth-watering"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-2-049",
-          "word": "Shiitake",
+          "word": "Fruit",
           "forbidden": [
-            "mushroom",
-            "Japanese",
-            "umami",
-            "brown",
-            "dried"
+            "apple",
+            "banana",
+            "tree",
+            "healthy",
+            "juice"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-2-050",
-          "word": "Smoker",
+          "word": "Healthy",
           "forbidden": [
-            "barbecue",
-            "wood chips",
-            "low and slow",
-            "brisket",
-            "pitmaster"
+            "salad",
+            "diet",
+            "fruit",
+            "vegetables",
+            "good for you"
           ],
           "difficulty": "hard"
         }
@@ -1221,601 +1221,601 @@
       "cards": [
         {
           "id": "en-cooking-3-001",
-          "word": "Egg",
+          "word": "Trash can",
           "forbidden": [
-            "yolk",
-            "shell",
-            "chicken",
-            "white",
-            "scrambled"
+            "garbage",
+            "bin",
+            "throw away",
+            "lid",
+            "smell"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-002",
-          "word": "Corn",
+          "word": "Lunchbox",
           "forbidden": [
-            "cob",
-            "yellow",
-            "kernels",
-            "maize",
-            "Iowa"
+            "school",
+            "kids",
+            "sandwich",
+            "bag",
+            "snacks"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-003",
-          "word": "Lettuce",
+          "word": "Bottle",
           "forbidden": [
-            "leaves",
-            "salad",
-            "iceberg",
-            "green",
-            "romaine"
+            "water",
+            "plastic",
+            "cap",
+            "drink",
+            "glass"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-004",
-          "word": "Jalapeño",
+          "word": "Toothpick",
           "forbidden": [
-            "spicy",
-            "pepper",
-            "green",
-            "Mexican",
-            "nachos"
+            "teeth",
+            "wooden",
+            "thin",
+            "clean",
+            "olive"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-005",
-          "word": "Apple",
+          "word": "Straw",
           "forbidden": [
-            "red",
-            "pie",
-            "tree",
-            "Newton",
-            "teacher"
+            "juice",
+            "suck",
+            "plastic",
+            "cup",
+            "soda"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-006",
-          "word": "Grapes",
+          "word": "Sponge",
           "forbidden": [
-            "bunch",
-            "vine",
-            "wine",
-            "purple",
-            "raisins"
+            "wash",
+            "dishes",
+            "yellow",
+            "soap",
+            "scrub"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-007",
-          "word": "Broccoli",
+          "word": "Container",
           "forbidden": [
-            "green",
-            "trees",
-            "vegetable",
-            "florets",
-            "steamed"
+            "store",
+            "lid",
+            "plastic",
+            "leftovers",
+            "Tupperware"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-008",
-          "word": "Spoon",
+          "word": "Tray",
           "forbidden": [
-            "soup",
-            "utensil",
-            "scoop",
-            "cereal",
-            "fork"
+            "carry",
+            "waiter",
+            "serve",
+            "dishes",
+            "breakfast in bed"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-009",
-          "word": "Apron",
+          "word": "Ketchup",
           "forbidden": [
-            "tie",
-            "kitchen",
-            "protect",
-            "stains",
-            "wear"
+            "tomato",
+            "red",
+            "fries",
+            "sauce",
+            "Heinz"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-010",
-          "word": "Chef",
+          "word": "Mayonnaise",
           "forbidden": [
-            "cook",
-            "restaurant",
-            "hat",
-            "kitchen",
-            "Gordon Ramsay"
+            "white",
+            "egg",
+            "sandwich",
+            "sauce",
+            "jar"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-011",
-          "word": "Recipe",
+          "word": "Mustard",
           "forbidden": [
-            "instructions",
-            "ingredients",
-            "cookbook",
-            "steps",
-            "grandma"
+            "yellow",
+            "hot dog",
+            "sauce",
+            "spicy",
+            "jar"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-012",
-          "word": "Jell-O",
+          "word": "Olive oil",
           "forbidden": [
-            "wobbly",
-            "gelatin",
-            "jiggly",
-            "dessert",
-            "mold"
+            "Mediterranean",
+            "drizzle",
+            "salad",
+            "green",
+            "Italy"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-013",
-          "word": "Sandwich",
+          "word": "Vinegar",
           "forbidden": [
-            "bread",
-            "deli",
-            "lunch",
-            "ham",
-            "sub"
+            "sour",
+            "salad",
+            "acid",
+            "cleaning",
+            "bottle"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-014",
-          "word": "Pickle",
+          "word": "Corn",
           "forbidden": [
-            "dill",
-            "jar",
-            "brine",
-            "sour",
-            "gherkin"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-3-015",
-          "word": "Yogurt",
-          "forbidden": [
-            "Greek",
-            "dairy",
-            "cup",
-            "probiotic",
-            "parfait"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-3-016",
-          "word": "Steak",
-          "forbidden": [
-            "beef",
-            "medium rare",
-            "grill",
-            "ribeye",
-            "sirloin"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-3-017",
-          "word": "Waffle",
-          "forbidden": [
-            "syrup",
-            "grid",
-            "iron",
-            "Belgian",
-            "Eggo"
-          ],
-          "difficulty": "easy"
-        },
-        {
-          "id": "en-cooking-3-018",
-          "word": "Mashed potatoes",
-          "forbidden": [
-            "gravy",
-            "Thanksgiving",
-            "creamy",
-            "spuds",
+            "cob",
+            "yellow",
+            "tortilla",
+            "kernels",
             "butter"
           ],
           "difficulty": "easy"
         },
         {
-          "id": "en-cooking-3-019",
-          "word": "Pretzel",
+          "id": "en-cooking-3-015",
+          "word": "Cucumber",
           "forbidden": [
-            "twisted",
-            "salty",
-            "German",
-            "knot",
-            "soft"
+            "green",
+            "salad",
+            "pickle",
+            "long",
+            "cool"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-3-016",
+          "word": "Grapes",
+          "forbidden": [
+            "bunch",
+            "purple",
+            "wine",
+            "green",
+            "raisins"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-3-017",
+          "word": "Orange",
+          "forbidden": [
+            "juice",
+            "fruit",
+            "color",
+            "vitamin C",
+            "peel"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-3-018",
+          "word": "Pineapple",
+          "forbidden": [
+            "crown",
+            "spiky",
+            "yellow",
+            "tropical",
+            "Hawaii"
+          ],
+          "difficulty": "easy"
+        },
+        {
+          "id": "en-cooking-3-019",
+          "word": "Coconut",
+          "forbidden": [
+            "beach",
+            "water",
+            "palm tree",
+            "white",
+            "hard"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-020",
-          "word": "Cereal",
+          "word": "Yogurt",
           "forbidden": [
-            "bowl",
             "milk",
-            "breakfast",
-            "Cheerios",
-            "box"
+            "cup",
+            "strawberry",
+            "Greek",
+            "spoon"
           ],
           "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-021",
-          "word": "Churros",
+          "word": "Cereal",
           "forbidden": [
-            "cinnamon",
-            "sugar",
-            "fried",
-            "Spanish",
-            "chocolate dip"
+            "milk",
+            "bowl",
+            "breakfast",
+            "flakes",
+            "box"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-022",
-          "word": "Cheesecake",
+          "word": "Lollipop",
           "forbidden": [
-            "New York",
-            "graham cracker",
-            "Philadelphia",
-            "dessert",
-            "Factory"
+            "candy",
+            "stick",
+            "lick",
+            "kids",
+            "colorful"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-023",
-          "word": "Gnocchi",
+          "word": "Chewing gum",
           "forbidden": [
-            "potato",
-            "dumplings",
-            "Italian",
-            "pasta",
-            "pillows"
+            "jaw",
+            "bubble",
+            "sticky",
+            "mint",
+            "Trident"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-024",
-          "word": "Pot pie",
+          "word": "Jell-O",
           "forbidden": [
-            "chicken",
-            "crust",
-            "baked",
-            "filling",
-            "peas"
+            "jiggly",
+            "colorful",
+            "dessert",
+            "wobbly",
+            "gelatin"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-025",
-          "word": "Frying pan",
+          "word": "Juice",
           "forbidden": [
-            "skillet",
-            "nonstick",
-            "eggs",
-            "handle",
-            "cast iron"
+            "fruit",
+            "orange",
+            "glass",
+            "fresh",
+            "drink"
           ],
-          "difficulty": "medium"
+          "difficulty": "easy"
         },
         {
           "id": "en-cooking-3-026",
-          "word": "Spatula",
+          "word": "Fondue",
           "forbidden": [
-            "flip",
-            "scrape",
-            "rubber",
-            "pancake",
-            "turner"
+            "cheese",
+            "chocolate",
+            "Swiss",
+            "melted",
+            "dip"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-027",
-          "word": "Ladle",
+          "word": "Guacamole",
           "forbidden": [
-            "soup",
-            "scoop",
-            "serve",
-            "deep spoon",
-            "broth"
+            "avocado",
+            "Mexico",
+            "chips",
+            "green",
+            "dip"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-028",
-          "word": "Grill",
+          "word": "Curry",
           "forbidden": [
-            "barbecue",
-            "charcoal",
-            "burgers",
-            "marks",
-            "propane"
+            "India",
+            "spicy",
+            "yellow",
+            "spices",
+            "sauce"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-029",
-          "word": "Steam",
+          "word": "Kebab",
           "forbidden": [
-            "vapor",
-            "boiling",
-            "basket",
-            "dumplings",
-            "healthy"
+            "skewer",
+            "meat",
+            "Turkey",
+            "pita",
+            "rotating"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-030",
-          "word": "Rosemary",
+          "word": "Chicken nuggets",
           "forbidden": [
-            "herb",
-            "needles",
-            "lamb",
-            "potatoes",
-            "sprig"
+            "breaded",
+            "McDonald's",
+            "sauce",
+            "kids",
+            "fried"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-031",
-          "word": "Cilantro",
+          "word": "Drive-thru",
           "forbidden": [
-            "soap",
-            "coriander",
-            "salsa",
-            "herb",
-            "Mexican"
+            "car",
+            "window",
+            "order",
+            "McDonald's",
+            "fast food"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-032",
-          "word": "Sweet potato",
+          "word": "Takeout",
           "forbidden": [
-            "orange",
-            "yam",
-            "fries",
-            "Thanksgiving",
-            "marshmallows"
+            "delivery",
+            "app",
+            "order",
+            "home",
+            "to go"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-033",
-          "word": "Mushroom",
+          "word": "Tip",
           "forbidden": [
-            "fungi",
-            "portobello",
-            "Mario",
-            "button",
-            "shiitake"
+            "waiter",
+            "money",
+            "percent",
+            "bill",
+            "thank you"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-034",
-          "word": "Dumplings",
+          "word": "Buffet",
           "forbidden": [
-            "dim sum",
-            "steamed",
-            "Chinese",
-            "wrapper",
-            "pot sticker"
+            "all you can eat",
+            "serve yourself",
+            "plates",
+            "line",
+            "hotel"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-035",
-          "word": "Fajitas",
+          "word": "Picnic",
           "forbidden": [
-            "sizzling",
-            "Tex-Mex",
-            "peppers",
-            "tortillas",
-            "skillet"
+            "basket",
+            "blanket",
+            "park",
+            "grass",
+            "sandwiches"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-036",
-          "word": "Pumpkin pie",
+          "word": "Leftovers",
           "forbidden": [
-            "Thanksgiving",
-            "autumn",
-            "whipped cream",
-            "orange",
-            "spice"
+            "yesterday",
+            "extra",
+            "fridge",
+            "reheat",
+            "container"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-037",
-          "word": "Caesar salad",
+          "word": "Grill",
           "forbidden": [
-            "romaine",
-            "croutons",
-            "anchovies",
-            "dressing",
-            "parmesan"
+            "barbecue",
+            "meat",
+            "charcoal",
+            "marks",
+            "burgers"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-038",
-          "word": "Hummus",
+          "word": "Melt",
           "forbidden": [
-            "chickpeas",
-            "tahini",
-            "dip",
-            "pita",
-            "Middle Eastern"
+            "heat",
+            "ice",
+            "chocolate",
+            "liquid",
+            "butter"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-039",
-          "word": "Clam chowder",
+          "word": "Mix",
           "forbidden": [
-            "soup",
-            "New England",
-            "Boston",
-            "bread bowl",
-            "creamy"
+            "combine",
+            "spoon",
+            "bowl",
+            "stir",
+            "ingredients"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-040",
-          "word": "Food truck",
+          "word": "Freeze",
           "forbidden": [
-            "van",
-            "parked",
-            "window",
-            "festival",
-            "tacos"
+            "chill",
+            "cold",
+            "ice",
+            "frozen",
+            "solid"
           ],
           "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-041",
-          "word": "Coq au vin",
+          "word": "Heat up",
           "forbidden": [
-            "chicken",
-            "red wine",
-            "French",
-            "rooster",
-            "Julia Child"
+            "microwave",
+            "warm",
+            "cold",
+            "leftovers",
+            "oven"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-042",
-          "word": "Beef Wellington",
+          "word": "Taste",
           "forbidden": [
-            "puff pastry",
-            "Gordon Ramsay",
-            "fillet",
-            "mushrooms",
-            "British"
+            "try",
+            "flavor",
+            "spoon",
+            "mouth",
+            "sample"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-043",
-          "word": "Escargot",
+          "word": "Sink",
           "forbidden": [
-            "snails",
-            "French",
-            "garlic butter",
-            "shells",
-            "tongs"
+            "faucet",
+            "water",
+            "wash",
+            "kitchen",
+            "dishes"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-044",
-          "word": "Soufflé",
+          "word": "Tablecloth",
           "forbidden": [
-            "rise",
-            "collapse",
-            "eggs",
-            "French",
-            "oven"
+            "picnic",
+            "fabric",
+            "checkered",
+            "dinner",
+            "cover"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-045",
-          "word": "Paprika",
+          "word": "Bakery",
           "forbidden": [
-            "red",
-            "Hungarian",
-            "smoked",
-            "spice",
-            "goulash"
+            "bread",
+            "croissant",
+            "cake",
+            "pastries",
+            "morning"
           ],
-          "difficulty": "hard"
+          "difficulty": "medium"
         },
         {
           "id": "en-cooking-3-046",
-          "word": "Turmeric",
+          "word": "Restaurant",
           "forbidden": [
-            "yellow",
-            "curry",
-            "spice",
-            "golden milk",
-            "Indian"
+            "eat out",
+            "waiter",
+            "menu",
+            "table",
+            "bill"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-3-047",
-          "word": "Julienne",
+          "word": "Dessert",
           "forbidden": [
-            "matchsticks",
-            "thin",
-            "cut",
-            "strips",
-            "knife skills"
+            "sweet",
+            "after dinner",
+            "cake",
+            "ice cream",
+            "treat"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-3-048",
-          "word": "Deglaze",
+          "word": "Flavor",
           "forbidden": [
-            "pan",
-            "wine",
-            "scrape",
-            "sauce",
-            "brown bits"
+            "taste",
+            "tongue",
+            "try",
+            "delicious",
+            "spice"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-3-049",
-          "word": "Leek",
+          "word": "Meat",
           "forbidden": [
-            "onion",
-            "long",
-            "green",
-            "potato soup",
-            "Welsh"
+            "beef",
+            "steak",
+            "vegetarian",
+            "butcher",
+            "chicken"
           ],
           "difficulty": "hard"
         },
         {
           "id": "en-cooking-3-050",
-          "word": "Truffle",
+          "word": "Thirsty",
           "forbidden": [
-            "fungus",
-            "expensive",
-            "pig",
-            "oil",
-            "Italian"
+            "water",
+            "drink",
+            "dry",
+            "throat",
+            "parched"
           ],
           "difficulty": "hard"
         }
